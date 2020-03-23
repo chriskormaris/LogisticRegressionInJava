@@ -1,0 +1,2669 @@
+Fetching train data...
+Train data fetch completed!
+
+Training weights according to train data...
+iteration: 1, likelihood estimate: -227.27524826048722
+iteration: 2, likelihood estimate: -214.80881333015287
+iteration: 3, likelihood estimate: -188.42128220479182
+iteration: 4, likelihood estimate: -174.59469244445614
+iteration: 5, likelihood estimate: -164.08711123954285
+iteration: 6, likelihood estimate: -155.90869651542076
+iteration: 7, likelihood estimate: -149.51167289894087
+iteration: 8, likelihood estimate: -144.4374151153552
+iteration: 9, likelihood estimate: -140.32415853530622
+iteration: 10, likelihood estimate: -136.9002182561906
+iteration: 11, likelihood estimate: -133.9712734462784
+iteration: 12, likelihood estimate: -131.40461188264663
+iteration: 13, likelihood estimate: -129.11179959109234
+iteration: 14, likelihood estimate: -127.0336329318507
+iteration: 15, likelihood estimate: -125.12932045866583
+iteration: 16, likelihood estimate: -123.36955231009955
+iteration: 17, likelihood estimate: -121.73231228781611
+iteration: 18, likelihood estimate: -120.20039449388187
+iteration: 19, likelihood estimate: -118.75991827549882
+iteration: 20, likelihood estimate: -117.39941643796031
+iteration: 21, likelihood estimate: -116.1092544775058
+iteration: 22, likelihood estimate: -114.88124486776397
+iteration: 23, likelihood estimate: -113.70837930153643
+iteration: 24, likelihood estimate: -112.58463408237714
+iteration: 25, likelihood estimate: -111.5048219201647
+iteration: 26, likelihood estimate: -110.46447387306303
+iteration: 27, likelihood estimate: -109.45974152044101
+iteration: 28, likelihood estimate: -108.48731338915705
+iteration: 29, likelihood estimate: -107.54434210429967
+iteration: 30, likelihood estimate: -106.62838021827174
+iteration: 31, likelihood estimate: -105.73732352094837
+iteration: 32, likelihood estimate: -104.86936107720189
+iteration: 33, likelihood estimate: -104.0229314376137
+iteration: 34, likelihood estimate: -103.1966845347358
+iteration: 35, likelihood estimate: -102.38944878280567
+iteration: 36, likelihood estimate: -101.6002028862374
+iteration: 37, likelihood estimate: -100.82805185358109
+iteration: 38, likelihood estimate: -100.07220671812155
+iteration: 39, likelihood estimate: -99.33196748508021
+iteration: 40, likelihood estimate: -98.60670885616176
+iteration: 41, likelihood estimate: -97.89586832112236
+iteration: 42, likelihood estimate: -97.19893624933641
+iteration: 43, likelihood estimate: -96.51544765882174
+iteration: 44, likelihood estimate: -95.8449753835096
+iteration: 45, likelihood estimate: -95.18712440010961
+iteration: 46, likelihood estimate: -94.54152711279093
+iteration: 47, likelihood estimate: -93.9078394267735
+iteration: 48, likelihood estimate: -93.28573747051921
+iteration: 49, likelihood estimate: -92.67491485096579
+iteration: 50, likelihood estimate: -92.07508034717131
+iteration: 51, likelihood estimate: -91.48595596543959
+iteration: 52, likelihood estimate: -90.90727529366093
+iteration: 53, likelihood estimate: -90.33878210477684
+iteration: 54, likelihood estimate: -89.78022916912424
+iteration: 55, likelihood estimate: -89.23137724349301
+iteration: 56, likelihood estimate: -88.69199421104247
+iteration: 57, likelihood estimate: -88.16185435133046
+iteration: 58, likelihood estimate: -87.64073772356069
+iteration: 59, likelihood estimate: -87.12842964914496
+iteration: 60, likelihood estimate: -86.62472028193066
+iteration: 61, likelihood estimate: -86.12940425601907
+iteration: 62, likelihood estimate: -85.6422804023432
+iteration: 63, likelihood estimate: -85.16315152593049
+iteration: 64, likelihood estimate: -84.69182423644722
+iteration: 65, likelihood estimate: -84.2281088250058
+iteration: 66, likelihood estimate: -83.77181918060528
+iteration: 67, likelihood estimate: -83.32277273987917
+iteration: 68, likelihood estimate: -82.88079046416213
+iteration: 69, likelihood estimate: -82.44569683821656
+iteration: 70, likelihood estimate: -82.0173198853812
+iteration: 71, likelihood estimate: -81.59549119430147
+iteration: 72, likelihood estimate: -81.18004595290935
+iteration: 73, likelihood estimate: -80.77082298580436
+iteration: 74, likelihood estimate: -80.36766479170473
+iteration: 75, likelihood estimate: -79.97041757819579
+iteration: 76, likelihood estimate: -79.57893129147826
+iteration: 77, likelihood estimate: -79.19305963935632
+iteration: 78, likelihood estimate: -78.81266010614108
+iteration: 79, likelihood estimate: -78.43759395858245
+iteration: 80, likelihood estimate: -78.06772624231623
+iteration: 81, likelihood estimate: -77.70292576864281
+iteration: 82, likelihood estimate: -77.34306509172133
+iteration: 83, likelihood estimate: -76.98802047650256
+iteration: 84, likelihood estimate: -76.63767185788448
+iteration: 85, likelihood estimate: -76.2919027917284
+iteration: 86, likelihood estimate: -75.95060039845286
+iteration: 87, likelihood estimate: -75.61365529998011
+iteration: 88, likelihood estimate: -75.28096155085696
+iteration: 89, likelihood estimate: -74.95241656436178
+iteration: 90, likelihood estimate: -74.62792103439838
+iteration: 91, likelihood estimate: -74.30737885395443
+iteration: 92, likelihood estimate: -73.99069703084771
+iteration: 93, likelihood estimate: -73.67778560144696
+iteration: 94, likelihood estimate: -73.36855754300186
+iteration: 95, likelihood estimate: -73.06292868513445
+iteration: 96, likelihood estimate: -72.76081762102189
+iteration: 97, likelihood estimate: -72.46214561871457
+iteration: 98, likelihood estimate: -72.16683653299252
+iteration: 99, likelihood estimate: -71.87481671810606
+iteration: 100, likelihood estimate: -71.58601494170296
+iteration: 101, likelihood estimate: -71.30036230018099
+iteration: 102, likelihood estimate: -71.01779213569523
+iteration: 103, likelihood estimate: -70.7382399549736
+iteration: 104, likelihood estimate: -70.46164335009406
+iteration: 105, likelihood estimate: -70.18794192131944
+iteration: 106, likelihood estimate: -69.9170772020859
+iteration: 107, likelihood estimate: -69.64899258618733
+iteration: 108, likelihood estimate: -69.38363325720543
+iteration: 109, likelihood estimate: -69.12094612020374
+iteration: 110, likelihood estimate: -68.8608797356814
+iteration: 111, likelihood estimate: -68.60338425580214
+iteration: 112, likelihood estimate: -68.34841136284831
+iteration: 113, likelihood estimate: -68.09591420989767
+iteration: 114, likelihood estimate: -67.84584736368348
+iteration: 115, likelihood estimate: -67.59816674958459
+iteration: 116, likelihood estimate: -67.35282959871415
+iteration: 117, likelihood estimate: -67.10979439704974
+iteration: 118, likelihood estimate: -66.86902083655686
+iteration: 119, likelihood estimate: -66.63046976824212
+iteration: 120, likelihood estimate: -66.39410315709192
+iteration: 121, likelihood estimate: -66.15988403882768
+iteration: 122, likelihood estimate: -65.92777647842887
+iteration: 123, likelihood estimate: -65.69774553036181
+iteration: 124, likelihood estimate: -65.46975720044873
+iteration: 125, likelihood estimate: -65.24377840933869
+iteration: 126, likelihood estimate: -65.01977695750072
+iteration: 127, likelihood estimate: -64.79772149170427
+iteration: 128, likelihood estimate: -64.57758147291395
+iteration: 129, likelihood estimate: -64.35932714555709
+iteration: 130, likelihood estimate: -64.14292950811227
+iteration: 131, likelihood estimate: -63.92836028494946
+iteration: 132, likelihood estimate: -63.715591899400884
+iteration: 133, likelihood estimate: -63.50459744798829
+iteration: 134, likelihood estimate: -63.29535067577334
+iteration: 135, likelihood estimate: -63.087825952782644
+iteration: 136, likelihood estimate: -62.8819982514597
+iteration: 137, likelihood estimate: -62.6778431251045
+iteration: 138, likelihood estimate: -62.47533668726194
+iteration: 139, likelihood estimate: -62.274455592007094
+iteration: 140, likelihood estimate: -62.075177015106036
+iteration: 141, likelihood estimate: -61.87747863599796
+iteration: 142, likelihood estimate: -61.681338620575616
+iteration: 143, likelihood estimate: -61.486735604720565
+iteration: 144, likelihood estimate: -61.2936486785622
+iteration: 145, likelihood estimate: -61.10205737143373
+iteration: 146, likelihood estimate: -60.91194163748216
+iteration: 147, likelihood estimate: -60.723281841917085
+iteration: 148, likelihood estimate: -60.53605874785422
+iteration: 149, likelihood estimate: -60.35025350374101
+iteration: 150, likelihood estimate: -60.165847631324134
+iteration: 151, likelihood estimate: -59.98282301414196
+iteration: 152, likelihood estimate: -59.80116188651948
+iteration: 153, likelihood estimate: -59.620846823028685
+iteration: 154, likelihood estimate: -59.44186072841122
+iteration: 155, likelihood estimate: -59.2641868279239
+iteration: 156, likelihood estimate: -59.0878086580977
+iteration: 157, likelihood estimate: -58.91271005788947
+iteration: 158, likelihood estimate: -58.73887516019621
+iteration: 159, likelihood estimate: -58.56628838373556
+iteration: 160, likelihood estimate: -58.39493442524988
+iteration: 161, likelihood estimate: -58.224798252038156
+iteration: 162, likelihood estimate: -58.05586509478775
+iteration: 163, likelihood estimate: -57.888120440695545
+iteration: 164, likelihood estimate: -57.7215500268668
+iteration: 165, likelihood estimate: -57.556139833968025
+iteration: 166, likelihood estimate: -57.391876080136186
+iteration: 167, likelihood estimate: -57.228745215118174
+iteration: 168, likelihood estimate: -57.06673391463284
+iteration: 169, likelihood estimate: -56.90582907495203
+iteration: 170, likelihood estimate: -56.746017807677916
+iteration: 171, likelihood estimate: -56.58728743471546
+iteration: 172, likelihood estimate: -56.429625483425
+iteration: 173, likelihood estimate: -56.27301968195237
+iteration: 174, likelihood estimate: -56.11745795471813
+iteration: 175, likelihood estimate: -55.96292841806857
+iteration: 176, likelihood estimate: -55.80941937607491
+iteration: 177, likelihood estimate: -55.6569193164714
+iteration: 178, likelihood estimate: -55.50541690673051
+iteration: 179, likelihood estimate: -55.354900990267154
+iteration: 180, likelihood estimate: -55.205360582763234
+iteration: 181, likelihood estimate: -55.05678486860948
+iteration: 182, likelihood estimate: -54.90916319745807
+iteration: 183, likelihood estimate: -54.76248508088141
+iteration: 184, likelihood estimate: -54.616740189129196
+iteration: 185, likelihood estimate: -54.47191834798587
+iteration: 186, likelihood estimate: -54.32800953571365
+iteration: 187, likelihood estimate: -54.18500388009065
+iteration: 188, likelihood estimate: -54.042891655525835
+iteration: 189, likelihood estimate: -53.90166328025582
+iteration: 190, likelihood estimate: -53.761309313623606
+iteration: 191, likelihood estimate: -53.621820453420284
+iteration: 192, likelihood estimate: -53.483187533305106
+iteration: 193, likelihood estimate: -53.345401520290395
+iteration: 194, likelihood estimate: -53.208453512289104
+iteration: 195, likelihood estimate: -53.07233473572636
+iteration: 196, likelihood estimate: -52.93703654320987
+iteration: 197, likelihood estimate: -52.80255041125451
+iteration: 198, likelihood estimate: -52.66886793806834
+iteration: 199, likelihood estimate: -52.53598084138348
+iteration: 200, likelihood estimate: -52.40388095634373
+iteration: 201, likelihood estimate: -52.272560233437666
+iteration: 202, likelihood estimate: -52.142010736482646
+iteration: 203, likelihood estimate: -52.012224640648725
+iteration: 204, likelihood estimate: -51.883194230532304
+iteration: 205, likelihood estimate: -51.75491189826931
+iteration: 206, likelihood estimate: -51.62737014168917
+iteration: 207, likelihood estimate: -51.5005615625106
+iteration: 208, likelihood estimate: -51.37447886457288
+iteration: 209, likelihood estimate: -51.24911485210991
+iteration: 210, likelihood estimate: -51.12446242805147
+iteration: 211, likelihood estimate: -51.00051459236956
+iteration: 212, likelihood estimate: -50.87726444045131
+iteration: 213, likelihood estimate: -50.754705161509285
+iteration: 214, likelihood estimate: -50.632830037020916
+iteration: 215, likelihood estimate: -50.51163243920104
+iteration: 216, likelihood estimate: -50.39110582950516
+iteration: 217, likelihood estimate: -50.27124375716104
+iteration: 218, likelihood estimate: -50.15203985772686
+iteration: 219, likelihood estimate: -50.03348785168471
+iteration: 220, likelihood estimate: -49.91558154305348
+iteration: 221, likelihood estimate: -49.79831481803183
+iteration: 222, likelihood estimate: -49.681681643666906
+iteration: 223, likelihood estimate: -49.56567606654792
+iteration: 224, likelihood estimate: -49.45029221152739
+iteration: 225, likelihood estimate: -49.33552428045895
+iteration: 226, likelihood estimate: -49.221366550968526
+iteration: 227, likelihood estimate: -49.10781337524147
+iteration: 228, likelihood estimate: -48.99485917883282
+iteration: 229, likelihood estimate: -48.88249845950453
+iteration: 230, likelihood estimate: -48.770725786077726
+iteration: 231, likelihood estimate: -48.659535797310156
+iteration: 232, likelihood estimate: -48.54892320079381
+iteration: 233, likelihood estimate: -48.4388827718695
+iteration: 234, likelihood estimate: -48.329409352566046
+iteration: 235, likelihood estimate: -48.2204978505538
+iteration: 236, likelihood estimate: -48.11214323812124
+iteration: 237, likelihood estimate: -48.004340551166536
+iteration: 238, likelihood estimate: -47.89708488821005
+iteration: 239, likelihood estimate: -47.79037140942189
+iteration: 240, likelihood estimate: -47.684195335669635
+iteration: 241, likelihood estimate: -47.578551947579854
+iteration: 242, likelihood estimate: -47.47343658461942
+iteration: 243, likelihood estimate: -47.36884464419008
+iteration: 244, likelihood estimate: -47.264771580742135
+iteration: 245, likelihood estimate: -47.161212904901824
+iteration: 246, likelihood estimate: -47.05816418261357
+iteration: 247, likelihood estimate: -46.9556210342989
+iteration: 248, likelihood estimate: -46.85357913402926
+iteration: 249, likelihood estimate: -46.752034208712914
+iteration: 250, likelihood estimate: -46.650982037297084
+iteration: 251, likelihood estimate: -46.550418449983304
+iteration: 252, likelihood estimate: -46.45033932745628
+iteration: 253, likelihood estimate: -46.35074060012594
+iteration: 254, likelihood estimate: -46.25161824738502
+iteration: 255, likelihood estimate: -46.15296829687309
+iteration: 256, likelihood estimate: -46.054786823763045
+iteration: 257, likelihood estimate: -45.957069950051185
+iteration: 258, likelihood estimate: -45.85981384386196
+iteration: 259, likelihood estimate: -45.76301471877032
+iteration: 260, likelihood estimate: -45.66666883312292
+iteration: 261, likelihood estimate: -45.57077248938746
+iteration: 262, likelihood estimate: -45.47532203349803
+iteration: 263, likelihood estimate: -45.38031385422121
+iteration: 264, likelihood estimate: -45.28574438252775
+iteration: 265, likelihood estimate: -45.19161009097947
+iteration: 266, likelihood estimate: -45.09790749312149
+iteration: 267, likelihood estimate: -45.00463314288832
+iteration: 268, likelihood estimate: -44.91178363401869
+iteration: 269, likelihood estimate: -44.81935559948085
+iteration: 270, likelihood estimate: -44.72734571090688
+iteration: 271, likelihood estimate: -44.63575067803553
+iteration: 272, likelihood estimate: -44.54456724816598
+iteration: 273, likelihood estimate: -44.4537922056228
+iteration: 274, likelihood estimate: -44.36342237122323
+iteration: 275, likelihood estimate: -44.273454601760804
+iteration: 276, likelihood estimate: -44.18388578949144
+iteration: 277, likelihood estimate: -44.09471286163273
+iteration: 278, likelihood estimate: -44.00593277986819
+iteration: 279, likelihood estimate: -43.91754253986247
+iteration: 280, likelihood estimate: -43.82953917078148
+iteration: 281, likelihood estimate: -43.74191973482393
+iteration: 282, likelihood estimate: -43.654681326756126
+iteration: 283, likelihood estimate: -43.56782107345926
+iteration: 284, likelihood estimate: -43.481336133480866
+iteration: 285, likelihood estimate: -43.39522369659469
+iteration: 286, likelihood estimate: -43.309480983367045
+iteration: 287, likelihood estimate: -43.224105244730914
+iteration: 288, likelihood estimate: -43.139093761567175
+iteration: 289, likelihood estimate: -43.05444384429145
+iteration: 290, likelihood estimate: -42.970152832449166
+iteration: 291, likelihood estimate: -42.88621809431617
+iteration: 292, likelihood estimate: -42.802637026505195
+iteration: 293, likelihood estimate: -42.71940705357996
+iteration: 294, likelihood estimate: -42.636525627674544
+iteration: 295, likelihood estimate: -42.55399022811932
+iteration: 296, likelihood estimate: -42.47179836107402
+iteration: 297, likelihood estimate: -42.389947559161506
+iteration: 298, likelihood estimate: -42.30843538111601
+iteration: 299, likelihood estimate: -42.22725941142817
+iteration: 300, likelihood estimate: -42.14641726000229
+iteration: 301, likelihood estimate: -42.06590656181295
+iteration: 302, likelihood estimate: -41.98572497657599
+iteration: 303, likelihood estimate: -41.90587018841342
+iteration: 304, likelihood estimate: -41.82633990553147
+iteration: 305, likelihood estimate: -41.747131859901614
+iteration: 306, likelihood estimate: -41.66824380694663
+iteration: 307, likelihood estimate: -41.589673525230126
+iteration: 308, likelihood estimate: -41.51141881615376
+iteration: 309, likelihood estimate: -41.433477503653975
+iteration: 310, likelihood estimate: -41.35584743391213
+iteration: 311, likelihood estimate: -41.278526475059685
+iteration: 312, likelihood estimate: -41.201512516893054
+iteration: 313, likelihood estimate: -41.124803470593214
+iteration: 314, likelihood estimate: -41.04839726844681
+iteration: 315, likelihood estimate: -40.97229186357326
+iteration: 316, likelihood estimate: -40.896485229656726
+iteration: 317, likelihood estimate: -40.820975360679235
+iteration: 318, likelihood estimate: -40.74576027066244
+iteration: 319, likelihood estimate: -40.6708379934086
+iteration: 320, likelihood estimate: -40.59620658224693
+iteration: 321, likelihood estimate: -40.52186410978859
+iteration: 322, likelihood estimate: -40.44780866767578
+iteration: 323, likelihood estimate: -40.374038366342454
+iteration: 324, likelihood estimate: -40.3005513347769
+iteration: 325, likelihood estimate: -40.22734572028672
+iteration: 326, likelihood estimate: -40.15441968826584
+iteration: 327, likelihood estimate: -40.08177142196936
+iteration: 328, likelihood estimate: -40.00939912228756
+iteration: 329, likelihood estimate: -39.937301007525974
+iteration: 330, likelihood estimate: -39.865475313186806
+iteration: 331, likelihood estimate: -39.79392029175483
+iteration: 332, likelihood estimate: -39.72263421248658
+iteration: 333, likelihood estimate: -39.65161536120064
+iteration: 334, likelihood estimate: -39.580862040073605
+iteration: 335, likelihood estimate: -39.51037256743853
+iteration: 336, likelihood estimate: -39.440145277584094
+iteration: 337, likelihood estimate: -39.3701785205582
+iteration: 338, likelihood estimate: -39.30047066197683
+iteration: 339, likelihood estimate: -39.231020082830554
+iteration: 340, likelihood estimate: -39.16182517929772
+iteration: 341, likelihood estimate: -39.09288436256017
+iteration: 342, likelihood estimate: -39.024196058618465
+iteration: 343, likelihood estimate: -38.95575870811459
+iteration: 344, likelihood estimate: -38.887570766151896
+iteration: 345, likelihood estimate: -38.8196307021228
+iteration: 346, likelihood estimate: -38.751936999534394
+iteration: 347, likelihood estimate: -38.68448815584012
+iteration: 348, likelihood estimate: -38.61728268227051
+iteration: 349, likelihood estimate: -38.55031910367015
+iteration: 350, likelihood estimate: -38.48359595833299
+iteration: 351, likelihood estimate: -38.417111797844484
+iteration: 352, likelihood estimate: -38.35086518691937
+iteration: 353, likelihood estimate: -38.28485470324989
+iteration: 354, likelihood estimate: -38.21907893734917
+iteration: 355, likelihood estimate: -38.1535364924008
+iteration: 356, likelihood estimate: -38.08822598410943
+iteration: 357, likelihood estimate: -38.02314604055155
+iteration: 358, likelihood estimate: -37.95829530203282
+iteration: 359, likelihood estimate: -37.893672420943645
+iteration: 360, likelihood estimate: -37.82927606161558
+iteration: 361, likelihood estimate: -37.76510490018521
+iteration: 362, likelihood estimate: -37.70115762445554
+iteration: 363, likelihood estimate: -37.63743293375886
+iteration: 364, likelihood estimate: -37.5739295388253
+iteration: 365, likelihood estimate: -37.51064616164902
+iteration: 366, likelihood estimate: -37.44758153535909
+iteration: 367, likelihood estimate: -37.38473440409154
+iteration: 368, likelihood estimate: -37.32210352286066
+iteration: 369, likelihood estimate: -37.25968765743782
+iteration: 370, likelihood estimate: -37.1974855842248
+iteration: 371, likelihood estimate: -37.13549609013258
+iteration: 372, likelihood estimate: -37.07371797246498
+iteration: 373, likelihood estimate: -37.01215003879681
+iteration: 374, likelihood estimate: -36.95079110685757
+iteration: 375, likelihood estimate: -36.88964000441882
+iteration: 376, likelihood estimate: -36.82869556917691
+iteration: 377, likelihood estimate: -36.76795664864584
+iteration: 378, likelihood estimate: -36.70742210004185
+iteration: 379, likelihood estimate: -36.647090790177074
+iteration: 380, likelihood estimate: -36.58696159535251
+iteration: 381, likelihood estimate: -36.527033401249135
+iteration: 382, likelihood estimate: -36.46730510282581
+iteration: 383, likelihood estimate: -36.40777560421536
+iteration: 384, likelihood estimate: -36.348443818621575
+iteration: 385, likelihood estimate: -36.289308668218936
+iteration: 386, likelihood estimate: -36.23036908405436
+iteration: 387, likelihood estimate: -36.171624005948004
+iteration: 388, likelihood estimate: -36.11307238239714
+iteration: 389, likelihood estimate: -36.054713170480674
+iteration: 390, likelihood estimate: -35.99654533576492
+iteration: 391, likelihood estimate: -35.938567852210134
+iteration: 392, likelihood estimate: -35.88077970207939
+iteration: 393, likelihood estimate: -35.823179875849085
+iteration: 394, likelihood estimate: -35.765767372116876
+iteration: 395, likelihood estimate: -35.708541197514386
+iteration: 396, likelihood estimate: -35.65150036662427
+iteration: 397, likelihood estimate: -35.59464390188621
+iteration: 398, likelihood estimate: -35.5379708335205
+iteration: 399, likelihood estimate: -35.481480199436994
+iteration: 400, likelihood estimate: -35.42517104515971
+iteration: 401, likelihood estimate: -35.36904242373811
+iteration: 402, likelihood estimate: -35.31309339567246
+iteration: 403, likelihood estimate: -35.257323028830065
+iteration: 404, likelihood estimate: -35.20173039836959
+iteration: 405, likelihood estimate: -35.14631458666186
+iteration: 406, likelihood estimate: -35.09107468321525
+iteration: 407, likelihood estimate: -35.03600978459767
+iteration: 408, likelihood estimate: -34.981118994364046
+iteration: 409, likelihood estimate: -34.92640142298222
+iteration: 410, likelihood estimate: -34.87185618775859
+iteration: 411, likelihood estimate: -34.817482412770346
+iteration: 412, likelihood estimate: -34.76327922879069
+iteration: 413, likelihood estimate: -34.709245773219074
+iteration: 414, likelihood estimate: -34.65538119001644
+iteration: 415, likelihood estimate: -34.601684629632
+iteration: 416, likelihood estimate: -34.548155248937825
+iteration: 417, likelihood estimate: -34.49479221116368
+iteration: 418, likelihood estimate: -34.44159468582977
+iteration: 419, likelihood estimate: -34.38856184868132
+iteration: 420, likelihood estimate: -34.33569288162675
+iteration: 421, likelihood estimate: -34.28298697267292
+iteration: 422, likelihood estimate: -34.23044331586293
+iteration: 423, likelihood estimate: -34.17806111121437
+iteration: 424, likelihood estimate: -34.12583956465969
+iteration: 425, likelihood estimate: -34.07377788798366
+iteration: 426, likelihood estimate: -34.021875298766595
+iteration: 427, likelihood estimate: -33.970131020323734
+iteration: 428, likelihood estimate: -33.91854428164888
+iteration: 429, likelihood estimate: -33.86711431735499
+iteration: 430, likelihood estimate: -33.81584036762088
+iteration: 431, likelihood estimate: -33.764721678132496
+iteration: 432, likelihood estimate: -33.71375750002922
+iteration: 433, likelihood estimate: -33.66294708984959
+iteration: 434, likelihood estimate: -33.61228970947652
+iteration: 435, likelihood estimate: -33.56178462608541
+iteration: 436, likelihood estimate: -33.51143111208935
+iteration: 437, likelihood estimate: -33.46122844509248
+iteration: 438, likelihood estimate: -33.41117590783183
+iteration: 439, likelihood estimate: -33.361272788132474
+iteration: 440, likelihood estimate: -33.31151837885376
+iteration: 441, likelihood estimate: -33.26191197784289
+iteration: 442, likelihood estimate: -33.21245288788435
+iteration: 443, likelihood estimate: -33.163140416652816
+iteration: 444, likelihood estimate: -33.11397387666365
+iteration: 445, likelihood estimate: -33.0649525852283
+iteration: 446, likelihood estimate: -33.016075864407476
+iteration: 447, likelihood estimate: -32.967343040963115
+iteration: 448, likelihood estimate: -32.918753446315876
+iteration: 449, likelihood estimate: -32.87030641649958
+iteration: 450, likelihood estimate: -32.82200129211362
+iteration: 451, likelihood estimate: -32.77383741828591
+iteration: 452, likelihood estimate: -32.72581414462326
+iteration: 453, likelihood estimate: -32.67793082517223
+iteration: 454, likelihood estimate: -32.63018681837667
+iteration: 455, likelihood estimate: -32.58258148703449
+iteration: 456, likelihood estimate: -32.53511419825807
+iteration: 457, likelihood estimate: -32.48778432343307
+iteration: 458, likelihood estimate: -32.44059123817751
+iteration: 459, likelihood estimate: -32.39353432230397
+iteration: 460, likelihood estimate: -32.346612959777616
+iteration: 461, likelihood estimate: -32.29982653867998
+iteration: 462, likelihood estimate: -32.25317445116928
+iteration: 463, likelihood estimate: -32.20665609344223
+iteration: 464, likelihood estimate: -32.16027086569807
+iteration: 465, likelihood estimate: -32.11401817209995
+iteration: 466, likelihood estimate: -32.0678974207393
+iteration: 467, likelihood estimate: -32.02190802360008
+iteration: 468, likelihood estimate: -31.97604939652116
+iteration: 469, likelihood estimate: -31.930320959163748
+iteration: 470, likelihood estimate: -31.884722134973906
+iteration: 471, likelihood estimate: -31.839252351150073
+iteration: 472, likelihood estimate: -31.79391103860773
+iteration: 473, likelihood estimate: -31.748697631946538
+iteration: 474, likelihood estimate: -31.703611569415827
+iteration: 475, likelihood estimate: -31.658652292883946
+iteration: 476, likelihood estimate: -31.613819247802148
+iteration: 477, likelihood estimate: -31.569111883176557
+iteration: 478, likelihood estimate: -31.524529651533744
+iteration: 479, likelihood estimate: -31.480072008888357
+iteration: 480, likelihood estimate: -31.435738414716845
+iteration: 481, likelihood estimate: -31.391528331920497
+iteration: 482, likelihood estimate: -31.347441226799518
+iteration: 483, likelihood estimate: -31.303476569021385
+iteration: 484, likelihood estimate: -31.259633831591472
+iteration: 485, likelihood estimate: -31.215912490823648
+iteration: 486, likelihood estimate: -31.172312026310227
+iteration: 487, likelihood estimate: -31.128831920895603
+iteration: 488, likelihood estimate: -31.08547166064651
+iteration: 489, likelihood estimate: -31.042230734822997
+iteration: 490, likelihood estimate: -30.999108635852583
+iteration: 491, likelihood estimate: -30.956104859302226
+iteration: 492, likelihood estimate: -30.913218903849742
+iteration: 493, likelihood estimate: -30.870450271260097
+iteration: 494, likelihood estimate: -30.827798466355834
+iteration: 495, likelihood estimate: -30.785262996992365
+iteration: 496, likelihood estimate: -30.74284337403202
+iteration: 497, likelihood estimate: -30.700539111317706
+iteration: 498, likelihood estimate: -30.65834972564855
+iteration: 499, likelihood estimate: -30.616274736754722
+iteration: 500, likelihood estimate: -30.574313667270722
+Training weights operation completed!
+
+p(1|xtest0): 0.9999653739152609, xtest0 classified as 1 ->  correct
+p(1|xtest1): 0.9965595604045984, xtest1 classified as 1 ->  correct
+p(1|xtest2): 0.9999999867698826, xtest2 classified as 1 ->  correct
+p(1|xtest3): 0.9999976534169552, xtest3 classified as 1 ->  correct
+p(1|xtest4): 0.9999855616794433, xtest4 classified as 1 ->  correct
+p(1|xtest5): 0.9999113260857101, xtest5 classified as 1 ->  correct
+p(1|xtest6): 0.9999990719344429, xtest6 classified as 1 ->  correct
+p(1|xtest7): 0.9999761781677126, xtest7 classified as 1 ->  correct
+p(1|xtest8): 0.9999991874189037, xtest8 classified as 1 ->  correct
+p(1|xtest9): 0.9957747710678818, xtest9 classified as 1 ->  correct
+p(1|xtest10): 0.9999573696101095, xtest10 classified as 1 ->  correct
+p(1|xtest11): 0.9999962243830486, xtest11 classified as 1 ->  correct
+p(1|xtest12): 0.9999999932588732, xtest12 classified as 1 ->  correct
+p(1|xtest13): 0.9992285973007137, xtest13 classified as 1 ->  correct
+p(1|xtest14): 0.9999820905906155, xtest14 classified as 1 ->  correct
+p(1|xtest15): 0.9999993718017272, xtest15 classified as 1 ->  correct
+p(1|xtest16): 0.9999984633429803, xtest16 classified as 1 ->  correct
+p(1|xtest17): 0.9999921630732037, xtest17 classified as 1 ->  correct
+p(1|xtest18): 0.9999893768241559, xtest18 classified as 1 ->  correct
+p(1|xtest19): 0.9997526437198504, xtest19 classified as 1 ->  correct
+p(1|xtest20): 0.9999998591930482, xtest20 classified as 1 ->  correct
+p(1|xtest21): 0.9999933123027036, xtest21 classified as 1 ->  correct
+p(1|xtest22): 0.9999965634119353, xtest22 classified as 1 ->  correct
+p(1|xtest23): 0.9996611864830152, xtest23 classified as 1 ->  correct
+p(1|xtest24): 0.9999996172981652, xtest24 classified as 1 ->  correct
+p(1|xtest25): 0.9966869176382522, xtest25 classified as 1 ->  correct
+p(1|xtest26): 0.9999737632925962, xtest26 classified as 1 ->  correct
+p(1|xtest27): 0.9999985142841756, xtest27 classified as 1 ->  correct
+p(1|xtest28): 0.999546660668879, xtest28 classified as 1 ->  correct
+p(1|xtest29): 0.9999822994349314, xtest29 classified as 1 ->  correct
+p(1|xtest30): 0.9998016054929558, xtest30 classified as 1 ->  correct
+p(1|xtest31): 0.9928811129157198, xtest31 classified as 1 ->  correct
+p(1|xtest32): 0.9998559414574937, xtest32 classified as 1 ->  correct
+p(1|xtest33): 0.9999998372735478, xtest33 classified as 1 ->  correct
+p(1|xtest34): 0.9848918594310736, xtest34 classified as 1 ->  correct
+p(1|xtest35): 0.9999999762670907, xtest35 classified as 1 ->  correct
+p(1|xtest36): 0.9999999901935283, xtest36 classified as 1 ->  correct
+p(1|xtest37): 0.9999958650365145, xtest37 classified as 1 ->  correct
+p(1|xtest38): 0.9999974583796455, xtest38 classified as 1 ->  correct
+p(1|xtest39): 0.9999914991784099, xtest39 classified as 1 ->  correct
+p(1|xtest40): 0.9999425299157806, xtest40 classified as 1 ->  correct
+p(1|xtest41): 0.9999998595969539, xtest41 classified as 1 ->  correct
+p(1|xtest42): 0.9999999824400491, xtest42 classified as 1 ->  correct
+p(1|xtest43): 0.9999997009071369, xtest43 classified as 1 ->  correct
+p(1|xtest44): 0.9999998555317477, xtest44 classified as 1 ->  correct
+p(1|xtest45): 0.9999879130237365, xtest45 classified as 1 ->  correct
+p(1|xtest46): 0.9999493992884618, xtest46 classified as 1 ->  correct
+p(1|xtest47): 0.9999819263876648, xtest47 classified as 1 ->  correct
+p(1|xtest48): 0.999995846662426, xtest48 classified as 1 ->  correct
+p(1|xtest49): 0.9999998760495772, xtest49 classified as 1 ->  correct
+p(1|xtest50): 0.9999668139400487, xtest50 classified as 1 ->  correct
+p(1|xtest51): 0.9953856987289083, xtest51 classified as 1 ->  correct
+p(1|xtest52): 0.999979592241649, xtest52 classified as 1 ->  correct
+p(1|xtest53): 0.999999220485357, xtest53 classified as 1 ->  correct
+p(1|xtest54): 0.9999615101925162, xtest54 classified as 1 ->  correct
+p(1|xtest55): 0.9974561770182293, xtest55 classified as 1 ->  correct
+p(1|xtest56): 0.999969239782665, xtest56 classified as 1 ->  correct
+p(1|xtest57): 0.9999985172841377, xtest57 classified as 1 ->  correct
+p(1|xtest58): 0.9999998411067156, xtest58 classified as 1 ->  correct
+p(1|xtest59): 0.9999979913574012, xtest59 classified as 1 ->  correct
+p(1|xtest60): 0.9999766052621858, xtest60 classified as 1 ->  correct
+p(1|xtest61): 0.9999989737757315, xtest61 classified as 1 ->  correct
+p(1|xtest62): 0.9998557604697657, xtest62 classified as 1 ->  correct
+p(1|xtest63): 0.999712897610941, xtest63 classified as 1 ->  correct
+p(1|xtest64): 0.9999992856389766, xtest64 classified as 1 ->  correct
+p(1|xtest65): 0.9999953488185114, xtest65 classified as 1 ->  correct
+p(1|xtest66): 0.999959981517691, xtest66 classified as 1 ->  correct
+p(1|xtest67): 0.9915549882988857, xtest67 classified as 1 ->  correct
+p(1|xtest68): 0.9999067486748773, xtest68 classified as 1 ->  correct
+p(1|xtest69): 0.9994594595355784, xtest69 classified as 1 ->  correct
+p(1|xtest70): 0.9999998929061961, xtest70 classified as 1 ->  correct
+p(1|xtest71): 0.999998152431907, xtest71 classified as 1 ->  correct
+p(1|xtest72): 0.999999820319374, xtest72 classified as 1 ->  correct
+p(1|xtest73): 0.9999999935463251, xtest73 classified as 1 ->  correct
+p(1|xtest74): 0.8902449131038117, xtest74 classified as 1 ->  correct
+p(1|xtest75): 0.999999983764233, xtest75 classified as 1 ->  correct
+p(1|xtest76): 0.9999998648249283, xtest76 classified as 1 ->  correct
+p(1|xtest77): 0.999965546177984, xtest77 classified as 1 ->  correct
+p(1|xtest78): 0.9999999040209638, xtest78 classified as 1 ->  correct
+p(1|xtest79): 0.9999760972479164, xtest79 classified as 1 ->  correct
+p(1|xtest80): 0.9999897433096445, xtest80 classified as 1 ->  correct
+p(1|xtest81): 0.9999989474033386, xtest81 classified as 1 ->  correct
+p(1|xtest82): 0.9972865834083515, xtest82 classified as 1 ->  correct
+p(1|xtest83): 0.9989331995600665, xtest83 classified as 1 ->  correct
+p(1|xtest84): 0.9994498019378976, xtest84 classified as 1 ->  correct
+p(1|xtest85): 0.925780379294326, xtest85 classified as 1 ->  correct
+p(1|xtest86): 0.9999699463380389, xtest86 classified as 1 ->  correct
+p(1|xtest87): 0.9999999184716364, xtest87 classified as 1 ->  correct
+p(1|xtest88): 0.9997764088507357, xtest88 classified as 1 ->  correct
+p(1|xtest89): 0.9998602228625789, xtest89 classified as 1 ->  correct
+p(1|xtest90): 0.9999554584471066, xtest90 classified as 1 ->  correct
+p(1|xtest91): 0.9997493933345017, xtest91 classified as 1 ->  correct
+p(1|xtest92): 0.9963919255166529, xtest92 classified as 1 ->  correct
+p(1|xtest93): 0.9999998912718788, xtest93 classified as 1 ->  correct
+p(1|xtest94): 0.9990827177669688, xtest94 classified as 1 ->  correct
+p(1|xtest95): 0.9999979596102865, xtest95 classified as 1 ->  correct
+p(1|xtest96): 0.9999571285523211, xtest96 classified as 1 ->  correct
+p(1|xtest97): 0.9999937086461018, xtest97 classified as 1 ->  correct
+p(1|xtest98): 0.9999889116755716, xtest98 classified as 1 ->  correct
+p(1|xtest99): 0.9999563509756125, xtest99 classified as 1 ->  correct
+p(1|xtest100): 0.9999999957880541, xtest100 classified as 1 ->  correct
+p(1|xtest101): 0.9999766626200749, xtest101 classified as 1 ->  correct
+p(1|xtest102): 0.999999816688896, xtest102 classified as 1 ->  correct
+p(1|xtest103): 0.9990715604661391, xtest103 classified as 1 ->  correct
+p(1|xtest104): 0.9998982431135098, xtest104 classified as 1 ->  correct
+p(1|xtest105): 0.9999225361281812, xtest105 classified as 1 ->  correct
+p(1|xtest106): 0.9993550373088338, xtest106 classified as 1 ->  correct
+p(1|xtest107): 0.9999689076411604, xtest107 classified as 1 ->  correct
+p(1|xtest108): 0.9999936262419653, xtest108 classified as 1 ->  correct
+p(1|xtest109): 0.9999977479159889, xtest109 classified as 1 ->  correct
+p(1|xtest110): 0.9999999997374946, xtest110 classified as 1 ->  correct
+p(1|xtest111): 0.9985527797954511, xtest111 classified as 1 ->  correct
+p(1|xtest112): 0.9999601157510005, xtest112 classified as 1 ->  correct
+p(1|xtest113): 0.9954495967163323, xtest113 classified as 1 ->  correct
+p(1|xtest114): 0.9978020714735153, xtest114 classified as 1 ->  correct
+p(1|xtest115): 0.9999987498739794, xtest115 classified as 1 ->  correct
+p(1|xtest116): 0.9999999881640794, xtest116 classified as 1 ->  correct
+p(1|xtest117): 0.9999999999816227, xtest117 classified as 1 ->  correct
+p(1|xtest118): 0.9958365409922793, xtest118 classified as 1 ->  correct
+p(1|xtest119): 0.9972118065800981, xtest119 classified as 1 ->  correct
+p(1|xtest120): 0.9999981020184888, xtest120 classified as 1 ->  correct
+p(1|xtest121): 0.9999469065388426, xtest121 classified as 1 ->  correct
+p(1|xtest122): 0.9999996405124043, xtest122 classified as 1 ->  correct
+p(1|xtest123): 0.999892688605128, xtest123 classified as 1 ->  correct
+p(1|xtest124): 0.9967191387209269, xtest124 classified as 1 ->  correct
+p(1|xtest125): 0.9995759608808668, xtest125 classified as 1 ->  correct
+p(1|xtest126): 0.9999614440959388, xtest126 classified as 1 ->  correct
+p(1|xtest127): 0.9999988131255613, xtest127 classified as 1 ->  correct
+p(1|xtest128): 0.999999955848861, xtest128 classified as 1 ->  correct
+p(1|xtest129): 0.9999746068151816, xtest129 classified as 1 ->  correct
+p(1|xtest130): 0.9999924117423681, xtest130 classified as 1 ->  correct
+p(1|xtest131): 0.9997339449913003, xtest131 classified as 1 ->  correct
+p(1|xtest132): 0.9998335663734644, xtest132 classified as 1 ->  correct
+p(1|xtest133): 0.9999931544139956, xtest133 classified as 1 ->  correct
+p(1|xtest134): 0.9999772607455235, xtest134 classified as 1 ->  correct
+p(1|xtest135): 0.9999986568893439, xtest135 classified as 1 ->  correct
+p(1|xtest136): 0.99900553756232, xtest136 classified as 1 ->  correct
+p(1|xtest137): 0.9993996966655582, xtest137 classified as 1 ->  correct
+p(1|xtest138): 0.9999994766090071, xtest138 classified as 1 ->  correct
+p(1|xtest139): 0.9999859410401074, xtest139 classified as 1 ->  correct
+p(1|xtest140): 0.9999973911277037, xtest140 classified as 1 ->  correct
+p(1|xtest141): 0.9966485366553218, xtest141 classified as 1 ->  correct
+p(1|xtest142): 0.99999709517564, xtest142 classified as 1 ->  correct
+p(1|xtest143): 0.9999990575260688, xtest143 classified as 1 ->  correct
+p(1|xtest144): 0.999892012151037, xtest144 classified as 1 ->  correct
+p(1|xtest145): 0.9999999936958437, xtest145 classified as 1 ->  correct
+p(1|xtest146): 0.9996646037120226, xtest146 classified as 1 ->  correct
+p(1|xtest147): 0.999994554457867, xtest147 classified as 1 ->  correct
+p(1|xtest148): 0.9999415511963933, xtest148 classified as 1 ->  correct
+p(1|xtest149): 0.9999978111634262, xtest149 classified as 1 ->  correct
+p(1|xtest150): 0.9999028766930529, xtest150 classified as 1 ->  correct
+p(1|xtest151): 0.9997177934239041, xtest151 classified as 1 ->  correct
+p(1|xtest152): 0.9999996605293759, xtest152 classified as 1 ->  correct
+p(1|xtest153): 0.9999911980997814, xtest153 classified as 1 ->  correct
+p(1|xtest154): 0.9999585493312664, xtest154 classified as 1 ->  correct
+p(1|xtest155): 0.9999832216577638, xtest155 classified as 1 ->  correct
+p(1|xtest156): 0.9999949288970872, xtest156 classified as 1 ->  correct
+p(1|xtest157): 0.9999565961664092, xtest157 classified as 1 ->  correct
+p(1|xtest158): 0.9999479103177993, xtest158 classified as 1 ->  correct
+p(1|xtest159): 0.9999996323738852, xtest159 classified as 1 ->  correct
+p(1|xtest160): 0.9999959999927417, xtest160 classified as 1 ->  correct
+p(1|xtest161): 0.9999946917405148, xtest161 classified as 1 ->  correct
+p(1|xtest162): 0.9988147802770465, xtest162 classified as 1 ->  correct
+p(1|xtest163): 0.9999982566796866, xtest163 classified as 1 ->  correct
+p(1|xtest164): 0.9999881700778421, xtest164 classified as 1 ->  correct
+p(1|xtest165): 0.9999995623458594, xtest165 classified as 1 ->  correct
+p(1|xtest166): 0.9998107147691184, xtest166 classified as 1 ->  correct
+p(1|xtest167): 0.9999978128597183, xtest167 classified as 1 ->  correct
+p(1|xtest168): 0.9999992008520715, xtest168 classified as 1 ->  correct
+p(1|xtest169): 0.9987162861269807, xtest169 classified as 1 ->  correct
+p(1|xtest170): 0.9995607254627322, xtest170 classified as 1 ->  correct
+p(1|xtest171): 0.9999997879609398, xtest171 classified as 1 ->  correct
+p(1|xtest172): 0.9999998640818344, xtest172 classified as 1 ->  correct
+p(1|xtest173): 0.9999192108906678, xtest173 classified as 1 ->  correct
+p(1|xtest174): 0.9999998013087699, xtest174 classified as 1 ->  correct
+p(1|xtest175): 0.9999870816367009, xtest175 classified as 1 ->  correct
+p(1|xtest176): 0.997567269323369, xtest176 classified as 1 ->  correct
+p(1|xtest177): 0.9997628660539248, xtest177 classified as 1 ->  correct
+p(1|xtest178): 0.999998291883625, xtest178 classified as 1 ->  correct
+p(1|xtest179): 0.999970232762644, xtest179 classified as 1 ->  correct
+p(1|xtest180): 0.99999999984382, xtest180 classified as 1 ->  correct
+p(1|xtest181): 0.9999989997099041, xtest181 classified as 1 ->  correct
+p(1|xtest182): 0.9989125162344855, xtest182 classified as 1 ->  correct
+p(1|xtest183): 0.9998033250398349, xtest183 classified as 1 ->  correct
+p(1|xtest184): 0.9999991435260159, xtest184 classified as 1 ->  correct
+p(1|xtest185): 0.9999999884679108, xtest185 classified as 1 ->  correct
+p(1|xtest186): 0.9999924501963198, xtest186 classified as 1 ->  correct
+p(1|xtest187): 0.9999986663334185, xtest187 classified as 1 ->  correct
+p(1|xtest188): 0.9999996855543728, xtest188 classified as 1 ->  correct
+p(1|xtest189): 0.9999977061982706, xtest189 classified as 1 ->  correct
+p(1|xtest190): 0.9999999019005544, xtest190 classified as 1 ->  correct
+p(1|xtest191): 0.9973460265049635, xtest191 classified as 1 ->  correct
+p(1|xtest192): 0.9999633885033176, xtest192 classified as 1 ->  correct
+p(1|xtest193): 0.9987682074938499, xtest193 classified as 1 ->  correct
+p(1|xtest194): 0.9998672709235555, xtest194 classified as 1 ->  correct
+p(1|xtest195): 0.999994977698484, xtest195 classified as 1 ->  correct
+p(1|xtest196): 0.9997387169718617, xtest196 classified as 1 ->  correct
+p(1|xtest197): 0.9999997183994611, xtest197 classified as 1 ->  correct
+p(1|xtest198): 0.9999997018799299, xtest198 classified as 1 ->  correct
+p(1|xtest199): 0.9999988717875162, xtest199 classified as 1 ->  correct
+p(1|xtest200): 0.9992532614974368, xtest200 classified as 1 ->  correct
+p(1|xtest201): 0.9999764637452407, xtest201 classified as 1 ->  correct
+p(1|xtest202): 0.9999993788279441, xtest202 classified as 1 ->  correct
+p(1|xtest203): 0.9999993669926283, xtest203 classified as 1 ->  correct
+p(1|xtest204): 0.9999993055994464, xtest204 classified as 1 ->  correct
+p(1|xtest205): 0.9999519272467082, xtest205 classified as 1 ->  correct
+p(1|xtest206): 0.999994558038159, xtest206 classified as 1 ->  correct
+p(1|xtest207): 0.9999963341781043, xtest207 classified as 1 ->  correct
+p(1|xtest208): 0.9998692537391686, xtest208 classified as 1 ->  correct
+p(1|xtest209): 0.9999993181773078, xtest209 classified as 1 ->  correct
+p(1|xtest210): 0.9992372069906648, xtest210 classified as 1 ->  correct
+p(1|xtest211): 0.9999909165162126, xtest211 classified as 1 ->  correct
+p(1|xtest212): 0.9998418475678629, xtest212 classified as 1 ->  correct
+p(1|xtest213): 0.9999936631334025, xtest213 classified as 1 ->  correct
+p(1|xtest214): 0.9940917536584133, xtest214 classified as 1 ->  correct
+p(1|xtest215): 0.9999940441692855, xtest215 classified as 1 ->  correct
+p(1|xtest216): 0.9991469605375038, xtest216 classified as 1 ->  correct
+p(1|xtest217): 0.9999156258992477, xtest217 classified as 1 ->  correct
+p(1|xtest218): 0.9998586610300096, xtest218 classified as 1 ->  correct
+p(1|xtest219): 0.9999970134437093, xtest219 classified as 1 ->  correct
+p(1|xtest220): 0.9999530062783683, xtest220 classified as 1 ->  correct
+p(1|xtest221): 0.9996750779901137, xtest221 classified as 1 ->  correct
+p(1|xtest222): 0.9999998362079965, xtest222 classified as 1 ->  correct
+p(1|xtest223): 0.9999965556824921, xtest223 classified as 1 ->  correct
+p(1|xtest224): 0.9999969701787016, xtest224 classified as 1 ->  correct
+p(1|xtest225): 0.9828409558951132, xtest225 classified as 1 ->  correct
+p(1|xtest226): 0.9999562107013055, xtest226 classified as 1 ->  correct
+p(1|xtest227): 0.9999942300220689, xtest227 classified as 1 ->  correct
+p(1|xtest228): 0.9999444512304879, xtest228 classified as 1 ->  correct
+p(1|xtest229): 0.999999544655451, xtest229 classified as 1 ->  correct
+p(1|xtest230): 0.9999956347379335, xtest230 classified as 1 ->  correct
+p(1|xtest231): 0.9999902296545378, xtest231 classified as 1 ->  correct
+p(1|xtest232): 0.9994176567071201, xtest232 classified as 1 ->  correct
+p(1|xtest233): 0.995785655279615, xtest233 classified as 1 ->  correct
+p(1|xtest234): 0.9999728288596491, xtest234 classified as 1 ->  correct
+p(1|xtest235): 0.9999992249891261, xtest235 classified as 1 ->  correct
+p(1|xtest236): 0.999996570637526, xtest236 classified as 1 ->  correct
+p(1|xtest237): 0.9999955420246844, xtest237 classified as 1 ->  correct
+p(1|xtest238): 0.8551187298730586, xtest238 classified as 1 ->  correct
+p(1|xtest239): 0.9998870040683818, xtest239 classified as 1 ->  correct
+p(1|xtest240): 0.9999994538462583, xtest240 classified as 1 ->  correct
+p(1|xtest241): 0.9999996012202756, xtest241 classified as 1 ->  correct
+p(1|xtest242): 0.9987071858199451, xtest242 classified as 1 ->  correct
+p(1|xtest243): 0.9999868621599585, xtest243 classified as 1 ->  correct
+p(1|xtest244): 0.9999999730301236, xtest244 classified as 1 ->  correct
+p(1|xtest245): 0.99986796446009, xtest245 classified as 1 ->  correct
+p(1|xtest246): 0.9998312691069655, xtest246 classified as 1 ->  correct
+p(1|xtest247): 0.9999444111638274, xtest247 classified as 1 ->  correct
+p(1|xtest248): 0.9999998905146001, xtest248 classified as 1 ->  correct
+p(1|xtest249): 0.9999986893993073, xtest249 classified as 1 ->  correct
+p(1|xtest250): 0.9999737208589954, xtest250 classified as 1 ->  correct
+p(1|xtest251): 0.995218223679404, xtest251 classified as 1 ->  correct
+p(1|xtest252): 0.9999354842591026, xtest252 classified as 1 ->  correct
+p(1|xtest253): 0.9990922850362001, xtest253 classified as 1 ->  correct
+p(1|xtest254): 0.9995692609112834, xtest254 classified as 1 ->  correct
+p(1|xtest255): 0.9996430730216068, xtest255 classified as 1 ->  correct
+p(1|xtest256): 0.9997578290298901, xtest256 classified as 1 ->  correct
+p(1|xtest257): 0.9994311185021816, xtest257 classified as 1 ->  correct
+p(1|xtest258): 0.9999996875551201, xtest258 classified as 1 ->  correct
+p(1|xtest259): 0.9999935002930522, xtest259 classified as 1 ->  correct
+p(1|xtest260): 0.9871127621942775, xtest260 classified as 1 ->  correct
+p(1|xtest261): 0.9994136308543047, xtest261 classified as 1 ->  correct
+p(1|xtest262): 0.9997819533016102, xtest262 classified as 1 ->  correct
+p(1|xtest263): 0.9999937468362243, xtest263 classified as 1 ->  correct
+p(1|xtest264): 0.9999999448812763, xtest264 classified as 1 ->  correct
+p(1|xtest265): 0.9738259536939224, xtest265 classified as 1 ->  correct
+p(1|xtest266): 0.9999174166003675, xtest266 classified as 1 ->  correct
+p(1|xtest267): 0.9999993109429924, xtest267 classified as 1 ->  correct
+p(1|xtest268): 0.9998319585293789, xtest268 classified as 1 ->  correct
+p(1|xtest269): 0.9999904340088341, xtest269 classified as 1 ->  correct
+p(1|xtest270): 0.9751523050285564, xtest270 classified as 1 ->  correct
+p(1|xtest271): 0.9999999473647961, xtest271 classified as 1 ->  correct
+p(1|xtest272): 0.9999999529766073, xtest272 classified as 1 ->  correct
+p(1|xtest273): 0.9999794806501071, xtest273 classified as 1 ->  correct
+p(1|xtest274): 0.9999999999958611, xtest274 classified as 1 ->  correct
+p(1|xtest275): 0.9999198752368479, xtest275 classified as 1 ->  correct
+p(1|xtest276): 0.9995226208123631, xtest276 classified as 1 ->  correct
+p(1|xtest277): 0.9999913314469936, xtest277 classified as 1 ->  correct
+p(1|xtest278): 0.9999969283883451, xtest278 classified as 1 ->  correct
+p(1|xtest279): 0.9977790948558665, xtest279 classified as 1 ->  correct
+p(1|xtest280): 0.9999957819270107, xtest280 classified as 1 ->  correct
+p(1|xtest281): 0.9999998461245717, xtest281 classified as 1 ->  correct
+p(1|xtest282): 0.9994694012225945, xtest282 classified as 1 ->  correct
+p(1|xtest283): 0.9999979232970589, xtest283 classified as 1 ->  correct
+p(1|xtest284): 0.999995439162747, xtest284 classified as 1 ->  correct
+p(1|xtest285): 0.9999992307593402, xtest285 classified as 1 ->  correct
+p(1|xtest286): 0.9995553937385098, xtest286 classified as 1 ->  correct
+p(1|xtest287): 0.9999970378908678, xtest287 classified as 1 ->  correct
+p(1|xtest288): 0.9982004071110689, xtest288 classified as 1 ->  correct
+p(1|xtest289): 0.9989067365710002, xtest289 classified as 1 ->  correct
+p(1|xtest290): 0.9997249698055036, xtest290 classified as 1 ->  correct
+p(1|xtest291): 0.9999945090497554, xtest291 classified as 1 ->  correct
+p(1|xtest292): 0.9999994061185492, xtest292 classified as 1 ->  correct
+p(1|xtest293): 0.9999989875679879, xtest293 classified as 1 ->  correct
+p(1|xtest294): 0.9813450972042468, xtest294 classified as 1 ->  correct
+p(1|xtest295): 0.9912443388962064, xtest295 classified as 1 ->  correct
+p(1|xtest296): 0.9998539149556902, xtest296 classified as 1 ->  correct
+p(1|xtest297): 0.999999998515535, xtest297 classified as 1 ->  correct
+p(1|xtest298): 0.9999996356807996, xtest298 classified as 1 ->  correct
+p(1|xtest299): 0.9996987762418329, xtest299 classified as 1 ->  correct
+p(1|xtest300): 0.9999897038345442, xtest300 classified as 1 ->  correct
+p(1|xtest301): 0.999901458906673, xtest301 classified as 1 ->  correct
+p(1|xtest302): 0.9875069797944328, xtest302 classified as 1 ->  correct
+p(1|xtest303): 0.9999999313791208, xtest303 classified as 1 ->  correct
+p(1|xtest304): 0.9999982339930649, xtest304 classified as 1 ->  correct
+p(1|xtest305): 0.9977020374345483, xtest305 classified as 1 ->  correct
+p(1|xtest306): 0.9999999885344405, xtest306 classified as 1 ->  correct
+p(1|xtest307): 0.999998759309564, xtest307 classified as 1 ->  correct
+p(1|xtest308): 0.9999917019917107, xtest308 classified as 1 ->  correct
+p(1|xtest309): 0.9999997636180823, xtest309 classified as 1 ->  correct
+p(1|xtest310): 0.9998760291012144, xtest310 classified as 1 ->  correct
+p(1|xtest311): 0.9999999994087103, xtest311 classified as 1 ->  correct
+p(1|xtest312): 0.9999708513726313, xtest312 classified as 1 ->  correct
+p(1|xtest313): 0.9999999535418033, xtest313 classified as 1 ->  correct
+p(1|xtest314): 0.9999997579908937, xtest314 classified as 1 ->  correct
+p(1|xtest315): 0.9999920321815562, xtest315 classified as 1 ->  correct
+p(1|xtest316): 0.9981606218548656, xtest316 classified as 1 ->  correct
+p(1|xtest317): 0.9999872081790809, xtest317 classified as 1 ->  correct
+p(1|xtest318): 0.9995771296296321, xtest318 classified as 1 ->  correct
+p(1|xtest319): 0.9999999592741192, xtest319 classified as 1 ->  correct
+p(1|xtest320): 0.9999789267637332, xtest320 classified as 1 ->  correct
+p(1|xtest321): 0.9993806541064266, xtest321 classified as 1 ->  correct
+p(1|xtest322): 0.9999864170474049, xtest322 classified as 1 ->  correct
+p(1|xtest323): 0.9987810566049252, xtest323 classified as 1 ->  correct
+p(1|xtest324): 0.9998775074520299, xtest324 classified as 1 ->  correct
+p(1|xtest325): 0.9999999670632305, xtest325 classified as 1 ->  correct
+p(1|xtest326): 0.9999999938609674, xtest326 classified as 1 ->  correct
+p(1|xtest327): 0.9953887431437657, xtest327 classified as 1 ->  correct
+p(1|xtest328): 0.9932252382779768, xtest328 classified as 1 ->  correct
+p(1|xtest329): 0.999984246329891, xtest329 classified as 1 ->  correct
+p(1|xtest330): 0.999943109706218, xtest330 classified as 1 ->  correct
+p(1|xtest331): 0.9999928417944356, xtest331 classified as 1 ->  correct
+p(1|xtest332): 0.9999999220382, xtest332 classified as 1 ->  correct
+p(1|xtest333): 0.9999996371526754, xtest333 classified as 1 ->  correct
+p(1|xtest334): 0.9999987776171287, xtest334 classified as 1 ->  correct
+p(1|xtest335): 0.9992949841120952, xtest335 classified as 1 ->  correct
+p(1|xtest336): 0.9999979617130894, xtest336 classified as 1 ->  correct
+p(1|xtest337): 0.9999993595900059, xtest337 classified as 1 ->  correct
+p(1|xtest338): 0.9999901350172604, xtest338 classified as 1 ->  correct
+p(1|xtest339): 0.9999929278962455, xtest339 classified as 1 ->  correct
+p(1|xtest340): 0.9999984592810053, xtest340 classified as 1 ->  correct
+p(1|xtest341): 0.9999984594200255, xtest341 classified as 1 ->  correct
+p(1|xtest342): 0.9975310335779087, xtest342 classified as 1 ->  correct
+p(1|xtest343): 0.7981391920394298, xtest343 classified as 1 ->  correct
+p(1|xtest344): 0.999951592227633, xtest344 classified as 1 ->  correct
+p(1|xtest345): 0.9999929346629876, xtest345 classified as 1 ->  correct
+p(1|xtest346): 0.9999990780231045, xtest346 classified as 1 ->  correct
+p(1|xtest347): 0.9998977017569803, xtest347 classified as 1 ->  correct
+p(1|xtest348): 0.0033902602703722202, p(1|xtest349): 0.9964290865273161, xtest349 classified as 1 ->  correct
+p(1|xtest350): 0.9997698587341141, xtest350 classified as 1 ->  correct
+p(1|xtest351): 0.9999991371598762, xtest351 classified as 1 ->  correct
+p(1|xtest352): 0.9999999788642111, xtest352 classified as 1 ->  correct
+p(1|xtest353): 0.9999986722755518, xtest353 classified as 1 ->  correct
+p(1|xtest354): 0.9999998449684677, xtest354 classified as 1 ->  correct
+p(1|xtest355): 0.9999993800151266, xtest355 classified as 1 ->  correct
+p(1|xtest356): 0.9995018657300335, xtest356 classified as 1 ->  correct
+p(1|xtest357): 0.9998607494060938, xtest357 classified as 1 ->  correct
+p(1|xtest358): 0.9999999579195953, xtest358 classified as 1 ->  correct
+p(1|xtest359): 0.9665036863904615, xtest359 classified as 1 ->  correct
+p(1|xtest360): 0.9999118539278038, xtest360 classified as 1 ->  correct
+p(1|xtest361): 0.9992016084726836, xtest361 classified as 1 ->  correct
+p(1|xtest362): 0.9999699880903541, xtest362 classified as 1 ->  correct
+p(1|xtest363): 0.9999942100518103, xtest363 classified as 1 ->  correct
+p(1|xtest364): 0.9999999890298131, xtest364 classified as 1 ->  correct
+p(1|xtest365): 0.9999999932596899, xtest365 classified as 1 ->  correct
+p(1|xtest366): 0.9999885640995477, xtest366 classified as 1 ->  correct
+p(1|xtest367): 0.9997767900363919, xtest367 classified as 1 ->  correct
+p(1|xtest368): 0.999997177608024, xtest368 classified as 1 ->  correct
+p(1|xtest369): 0.9994260408698138, xtest369 classified as 1 ->  correct
+p(1|xtest370): 0.9994739197777022, xtest370 classified as 1 ->  correct
+p(1|xtest371): 0.9999753957871278, xtest371 classified as 1 ->  correct
+p(1|xtest372): 0.999999536457932, xtest372 classified as 1 ->  correct
+p(1|xtest373): 0.9941205899816021, xtest373 classified as 1 ->  correct
+p(1|xtest374): 0.9999988236261373, xtest374 classified as 1 ->  correct
+p(1|xtest375): 0.9999906539102114, xtest375 classified as 1 ->  correct
+p(1|xtest376): 0.9998686787963215, xtest376 classified as 1 ->  correct
+p(1|xtest377): 0.9999257140127182, xtest377 classified as 1 ->  correct
+p(1|xtest378): 0.9999430675315056, xtest378 classified as 1 ->  correct
+p(1|xtest379): 0.9999831090792886, xtest379 classified as 1 ->  correct
+p(1|xtest380): 0.9999971126360949, xtest380 classified as 1 ->  correct
+p(1|xtest381): 0.9999998931494484, xtest381 classified as 1 ->  correct
+p(1|xtest382): 0.9996980901646274, xtest382 classified as 1 ->  correct
+p(1|xtest383): 0.9999098538888488, xtest383 classified as 1 ->  correct
+p(1|xtest384): 0.99999590955144, xtest384 classified as 1 ->  correct
+p(1|xtest385): 0.9958898453179656, xtest385 classified as 1 ->  correct
+p(1|xtest386): 0.9999556486231712, xtest386 classified as 1 ->  correct
+p(1|xtest387): 0.9830694061411731, xtest387 classified as 1 ->  correct
+p(1|xtest388): 0.9998701738409694, xtest388 classified as 1 ->  correct
+p(1|xtest389): 0.9999131888428491, xtest389 classified as 1 ->  correct
+p(1|xtest390): 0.9999646826605685, xtest390 classified as 1 ->  correct
+p(1|xtest391): 0.9992110539411287, xtest391 classified as 1 ->  correct
+p(1|xtest392): 0.999999897431817, xtest392 classified as 1 ->  correct
+p(1|xtest393): 0.999999976860441, xtest393 classified as 1 ->  correct
+p(1|xtest394): 0.9999999993810438, xtest394 classified as 1 ->  correct
+p(1|xtest395): 0.9999143497058112, xtest395 classified as 1 ->  correct
+p(1|xtest396): 0.996905089911655, xtest396 classified as 1 ->  correct
+p(1|xtest397): 0.999995550711216, xtest397 classified as 1 ->  correct
+p(1|xtest398): 0.9999943729482171, xtest398 classified as 1 ->  correct
+p(1|xtest399): 0.9999979990439879, xtest399 classified as 1 ->  correct
+p(1|xtest400): 0.9999530251968957, xtest400 classified as 1 ->  correct
+p(1|xtest401): 0.9998914179589503, xtest401 classified as 1 ->  correct
+p(1|xtest402): 0.9999999999315765, xtest402 classified as 1 ->  correct
+p(1|xtest403): 0.999999283804873, xtest403 classified as 1 ->  correct
+p(1|xtest404): 0.9998367666266218, xtest404 classified as 1 ->  correct
+p(1|xtest405): 0.9999999913574055, xtest405 classified as 1 ->  correct
+p(1|xtest406): 0.999993315051669, xtest406 classified as 1 ->  correct
+p(1|xtest407): 0.9915475080970756, xtest407 classified as 1 ->  correct
+p(1|xtest408): 0.9999896290435689, xtest408 classified as 1 ->  correct
+p(1|xtest409): 0.9999904349517492, xtest409 classified as 1 ->  correct
+p(1|xtest410): 0.9999120502732762, xtest410 classified as 1 ->  correct
+p(1|xtest411): 0.9999995507711494, xtest411 classified as 1 ->  correct
+p(1|xtest412): 0.9999982848489383, xtest412 classified as 1 ->  correct
+p(1|xtest413): 0.9999999912787881, xtest413 classified as 1 ->  correct
+p(1|xtest414): 0.9999999364553556, xtest414 classified as 1 ->  correct
+p(1|xtest415): 0.9999850064570994, xtest415 classified as 1 ->  correct
+p(1|xtest416): 0.9999702937946539, xtest416 classified as 1 ->  correct
+p(1|xtest417): 0.9994378199573843, xtest417 classified as 1 ->  correct
+p(1|xtest418): 0.993005355546449, xtest418 classified as 1 ->  correct
+p(1|xtest419): 0.999972345569011, xtest419 classified as 1 ->  correct
+p(1|xtest420): 0.9996037840383294, xtest420 classified as 1 ->  correct
+p(1|xtest421): 0.99927344647852, xtest421 classified as 1 ->  correct
+p(1|xtest422): 0.9999999949567042, xtest422 classified as 1 ->  correct
+p(1|xtest423): 0.9999998365124839, xtest423 classified as 1 ->  correct
+p(1|xtest424): 0.9999999927948338, xtest424 classified as 1 ->  correct
+p(1|xtest425): 0.997261892411032, xtest425 classified as 1 ->  correct
+p(1|xtest426): 0.9999993778710734, xtest426 classified as 1 ->  correct
+p(1|xtest427): 0.9999919067935399, xtest427 classified as 1 ->  correct
+p(1|xtest428): 0.9999998631956454, xtest428 classified as 1 ->  correct
+p(1|xtest429): 0.9999974753731671, xtest429 classified as 1 ->  correct
+p(1|xtest430): 0.999999114888741, xtest430 classified as 1 ->  correct
+p(1|xtest431): 0.9999999993041861, xtest431 classified as 1 ->  correct
+p(1|xtest432): 0.9999693662044087, xtest432 classified as 1 ->  correct
+p(1|xtest433): 0.9999916274517862, xtest433 classified as 1 ->  correct
+p(1|xtest434): 0.9999683284759034, xtest434 classified as 1 ->  correct
+p(1|xtest435): 0.9998247799555707, xtest435 classified as 1 ->  correct
+p(1|xtest436): 0.9989706118320093, xtest436 classified as 1 ->  correct
+p(1|xtest437): 0.9961143160978181, xtest437 classified as 1 ->  correct
+p(1|xtest438): 0.9999999829724077, xtest438 classified as 1 ->  correct
+p(1|xtest439): 0.9998609505230109, xtest439 classified as 1 ->  correct
+p(1|xtest440): 0.9982091558543454, xtest440 classified as 1 ->  correct
+p(1|xtest441): 0.6549754854625306, xtest441 classified as 1 ->  correct
+p(1|xtest442): 0.9999997023199714, xtest442 classified as 1 ->  correct
+p(1|xtest443): 0.9999955929368156, xtest443 classified as 1 ->  correct
+p(1|xtest444): 0.9999970557171762, xtest444 classified as 1 ->  correct
+p(1|xtest445): 0.999703627489177, xtest445 classified as 1 ->  correct
+p(1|xtest446): 0.9993386570565767, xtest446 classified as 1 ->  correct
+p(1|xtest447): 0.9998918525113909, xtest447 classified as 1 ->  correct
+p(1|xtest448): 0.9872839700763271, xtest448 classified as 1 ->  correct
+p(1|xtest449): 0.9993101386576261, xtest449 classified as 1 ->  correct
+p(1|xtest450): 0.9996761500985167, xtest450 classified as 1 ->  correct
+p(1|xtest451): 0.9993604375501166, xtest451 classified as 1 ->  correct
+p(1|xtest452): 0.9999919178281708, xtest452 classified as 1 ->  correct
+p(1|xtest453): 0.9999999999992637, xtest453 classified as 1 ->  correct
+p(1|xtest454): 0.9999980507554548, xtest454 classified as 1 ->  correct
+p(1|xtest455): 0.9991863055861763, xtest455 classified as 1 ->  correct
+p(1|xtest456): 0.9999999762864108, xtest456 classified as 1 ->  correct
+p(1|xtest457): 0.9999941703237277, xtest457 classified as 1 ->  correct
+p(1|xtest458): 0.9999999808660293, xtest458 classified as 1 ->  correct
+p(1|xtest459): 0.9999999469400086, xtest459 classified as 1 ->  correct
+p(1|xtest460): 0.9891273244285546, xtest460 classified as 1 ->  correct
+p(1|xtest461): 0.9981575676404401, xtest461 classified as 1 ->  correct
+p(1|xtest462): 0.9999999283457262, xtest462 classified as 1 ->  correct
+p(1|xtest463): 0.9999999924293775, xtest463 classified as 1 ->  correct
+p(1|xtest464): 0.9946992359566593, xtest464 classified as 1 ->  correct
+p(1|xtest465): 0.999999927430233, xtest465 classified as 1 ->  correct
+p(1|xtest466): 0.9999994042003214, xtest466 classified as 1 ->  correct
+p(1|xtest467): 0.9999844549411386, xtest467 classified as 1 ->  correct
+p(1|xtest468): 0.9999578509106275, xtest468 classified as 1 ->  correct
+p(1|xtest469): 0.998789875834863, xtest469 classified as 1 ->  correct
+p(1|xtest470): 0.9756582155255098, xtest470 classified as 1 ->  correct
+p(1|xtest471): 0.9999999264761444, xtest471 classified as 1 ->  correct
+p(1|xtest472): 0.9999501315623405, xtest472 classified as 1 ->  correct
+p(1|xtest473): 0.9999997010503113, xtest473 classified as 1 ->  correct
+p(1|xtest474): 0.9999998853525602, xtest474 classified as 1 ->  correct
+p(1|xtest475): 0.9999997357301679, xtest475 classified as 1 ->  correct
+p(1|xtest476): 0.9999944444040583, xtest476 classified as 1 ->  correct
+p(1|xtest477): 0.9999611272597869, xtest477 classified as 1 ->  correct
+p(1|xtest478): 0.9999960154391371, xtest478 classified as 1 ->  correct
+p(1|xtest479): 0.999999374967156, xtest479 classified as 1 ->  correct
+p(1|xtest480): 0.9999999697590118, xtest480 classified as 1 ->  correct
+p(1|xtest481): 0.9998227515005683, xtest481 classified as 1 ->  correct
+p(1|xtest482): 0.9999997931729058, xtest482 classified as 1 ->  correct
+p(1|xtest483): 0.999993347198569, xtest483 classified as 1 ->  correct
+p(1|xtest484): 0.9999997576732188, xtest484 classified as 1 ->  correct
+p(1|xtest485): 0.003927691264145807, p(1|xtest486): 0.9999999842695773, xtest486 classified as 1 ->  correct
+p(1|xtest487): 0.9971835396482296, xtest487 classified as 1 ->  correct
+p(1|xtest488): 0.9999985126920335, xtest488 classified as 1 ->  correct
+p(1|xtest489): 0.9999963494336526, xtest489 classified as 1 ->  correct
+p(1|xtest490): 0.9999989842771216, xtest490 classified as 1 ->  correct
+p(1|xtest491): 0.9999969059531911, xtest491 classified as 1 ->  correct
+p(1|xtest492): 0.9996258388690568, xtest492 classified as 1 ->  correct
+p(1|xtest493): 0.9987538398790871, xtest493 classified as 1 ->  correct
+p(1|xtest494): 0.999996054123711, xtest494 classified as 1 ->  correct
+p(1|xtest495): 0.9999952403274959, xtest495 classified as 1 ->  correct
+p(1|xtest496): 0.9999946328427929, xtest496 classified as 1 ->  correct
+p(1|xtest497): 0.97490191273666, xtest497 classified as 1 ->  correct
+p(1|xtest498): 0.9997792983105298, xtest498 classified as 1 ->  correct
+p(1|xtest499): 0.9999998528084287, xtest499 classified as 1 ->  correct
+p(1|xtest500): 0.9999210444922408, xtest500 classified as 1 ->  correct
+p(1|xtest501): 0.9999999997469253, xtest501 classified as 1 ->  correct
+p(1|xtest502): 0.999999982673622, xtest502 classified as 1 ->  correct
+p(1|xtest503): 0.99989935995981, xtest503 classified as 1 ->  correct
+p(1|xtest504): 0.9999585133737452, xtest504 classified as 1 ->  correct
+p(1|xtest505): 0.9996820291362786, xtest505 classified as 1 ->  correct
+p(1|xtest506): 0.9996673988805346, xtest506 classified as 1 ->  correct
+p(1|xtest507): 0.9999993169344045, xtest507 classified as 1 ->  correct
+p(1|xtest508): 0.9913489257115116, xtest508 classified as 1 ->  correct
+p(1|xtest509): 0.999999942217543, xtest509 classified as 1 ->  correct
+p(1|xtest510): 0.9996424543534477, xtest510 classified as 1 ->  correct
+p(1|xtest511): 0.9999823559559892, xtest511 classified as 1 ->  correct
+p(1|xtest512): 0.9999358167865408, xtest512 classified as 1 ->  correct
+p(1|xtest513): 0.9999998876214848, xtest513 classified as 1 ->  correct
+p(1|xtest514): 0.9599953413489185, xtest514 classified as 1 ->  correct
+p(1|xtest515): 0.9999609669531192, xtest515 classified as 1 ->  correct
+p(1|xtest516): 0.9999998699084942, xtest516 classified as 1 ->  correct
+p(1|xtest517): 0.9976274940329809, xtest517 classified as 1 ->  correct
+p(1|xtest518): 0.9999999924523518, xtest518 classified as 1 ->  correct
+p(1|xtest519): 0.9998156858570554, xtest519 classified as 1 ->  correct
+p(1|xtest520): 0.9999999100090776, xtest520 classified as 1 ->  correct
+p(1|xtest521): 0.9939602015284147, xtest521 classified as 1 ->  correct
+p(1|xtest522): 0.999889965086322, xtest522 classified as 1 ->  correct
+p(1|xtest523): 0.9999998325099656, xtest523 classified as 1 ->  correct
+p(1|xtest524): 0.9971273813478755, xtest524 classified as 1 ->  correct
+p(1|xtest525): 0.9999998838715901, xtest525 classified as 1 ->  correct
+p(1|xtest526): 0.9999789739488676, xtest526 classified as 1 ->  correct
+p(1|xtest527): 0.9999977836173356, xtest527 classified as 1 ->  correct
+p(1|xtest528): 0.9998718095882094, xtest528 classified as 1 ->  correct
+p(1|xtest529): 0.9997676158721535, xtest529 classified as 1 ->  correct
+p(1|xtest530): 0.9999456141132478, xtest530 classified as 1 ->  correct
+p(1|xtest531): 0.9995777789150133, xtest531 classified as 1 ->  correct
+p(1|xtest532): 0.9999887080881875, xtest532 classified as 1 ->  correct
+p(1|xtest533): 0.9999999702538394, xtest533 classified as 1 ->  correct
+p(1|xtest534): 0.9999224434511371, xtest534 classified as 1 ->  correct
+p(1|xtest535): 0.9999991641321196, xtest535 classified as 1 ->  correct
+p(1|xtest536): 0.9999992357478976, xtest536 classified as 1 ->  correct
+p(1|xtest537): 0.9990823988147752, xtest537 classified as 1 ->  correct
+p(1|xtest538): 0.9987019669030387, xtest538 classified as 1 ->  correct
+p(1|xtest539): 0.9999983350603778, xtest539 classified as 1 ->  correct
+p(1|xtest540): 0.9967221549845784, xtest540 classified as 1 ->  correct
+p(1|xtest541): 0.9996547738803072, xtest541 classified as 1 ->  correct
+p(1|xtest542): 0.9999967792586719, xtest542 classified as 1 ->  correct
+p(1|xtest543): 0.99857367776253, xtest543 classified as 1 ->  correct
+p(1|xtest544): 0.9997821369583683, xtest544 classified as 1 ->  correct
+p(1|xtest545): 0.9999934083174589, xtest545 classified as 1 ->  correct
+p(1|xtest546): 0.9999485761048632, xtest546 classified as 1 ->  correct
+p(1|xtest547): 0.9999783250303514, xtest547 classified as 1 ->  correct
+p(1|xtest548): 0.9999996352238248, xtest548 classified as 1 ->  correct
+p(1|xtest549): 0.9999446269072034, xtest549 classified as 1 ->  correct
+p(1|xtest550): 0.9980436884036754, xtest550 classified as 1 ->  correct
+p(1|xtest551): 0.9980345003268181, xtest551 classified as 1 ->  correct
+p(1|xtest552): 0.9996813676123492, xtest552 classified as 1 ->  correct
+p(1|xtest553): 0.9999999857113258, xtest553 classified as 1 ->  correct
+p(1|xtest554): 0.9998777205473122, xtest554 classified as 1 ->  correct
+p(1|xtest555): 0.9989426275829062, xtest555 classified as 1 ->  correct
+p(1|xtest556): 0.9999795648571702, xtest556 classified as 1 ->  correct
+p(1|xtest557): 0.9999991451589538, xtest557 classified as 1 ->  correct
+p(1|xtest558): 0.9999999962820518, xtest558 classified as 1 ->  correct
+p(1|xtest559): 0.9999124021630538, xtest559 classified as 1 ->  correct
+p(1|xtest560): 0.999999751603823, xtest560 classified as 1 ->  correct
+p(1|xtest561): 0.9999388320988641, xtest561 classified as 1 ->  correct
+p(1|xtest562): 0.9999999931385672, xtest562 classified as 1 ->  correct
+p(1|xtest563): 0.9999838873497022, xtest563 classified as 1 ->  correct
+p(1|xtest564): 0.9997722090704237, xtest564 classified as 1 ->  correct
+p(1|xtest565): 0.9999998596079716, xtest565 classified as 1 ->  correct
+p(1|xtest566): 0.9861430020871771, xtest566 classified as 1 ->  correct
+p(1|xtest567): 0.9999999197707257, xtest567 classified as 1 ->  correct
+p(1|xtest568): 0.9997707763136471, xtest568 classified as 1 ->  correct
+p(1|xtest569): 0.9999055229945865, xtest569 classified as 1 ->  correct
+p(1|xtest570): 0.9999999646149175, xtest570 classified as 1 ->  correct
+p(1|xtest571): 0.9996978968193584, xtest571 classified as 1 ->  correct
+p(1|xtest572): 0.9999984558385563, xtest572 classified as 1 ->  correct
+p(1|xtest573): 0.9966323286978134, xtest573 classified as 1 ->  correct
+p(1|xtest574): 0.9999936881899523, xtest574 classified as 1 ->  correct
+p(1|xtest575): 0.999997578337323, xtest575 classified as 1 ->  correct
+p(1|xtest576): 0.9999716374158834, xtest576 classified as 1 ->  correct
+p(1|xtest577): 0.9975947450269285, xtest577 classified as 1 ->  correct
+p(1|xtest578): 0.9999975393899435, xtest578 classified as 1 ->  correct
+p(1|xtest579): 0.9999473111445863, xtest579 classified as 1 ->  correct
+p(1|xtest580): 0.9997865712557279, xtest580 classified as 1 ->  correct
+p(1|xtest581): 0.9999996627426239, xtest581 classified as 1 ->  correct
+p(1|xtest582): 0.9999934842874384, xtest582 classified as 1 ->  correct
+p(1|xtest583): 0.999711322925385, xtest583 classified as 1 ->  correct
+p(1|xtest584): 0.9999999778891859, xtest584 classified as 1 ->  correct
+p(1|xtest585): 0.9997381791415554, xtest585 classified as 1 ->  correct
+p(1|xtest586): 0.9999870836722995, xtest586 classified as 1 ->  correct
+p(1|xtest587): 0.9999984579198241, xtest587 classified as 1 ->  correct
+p(1|xtest588): 0.9999985168297731, xtest588 classified as 1 ->  correct
+p(1|xtest589): 0.9999885250523953, xtest589 classified as 1 ->  correct
+p(1|xtest590): 0.9999875482004342, xtest590 classified as 1 ->  correct
+p(1|xtest591): 0.999992140715432, xtest591 classified as 1 ->  correct
+p(1|xtest592): 0.9981365224433607, xtest592 classified as 1 ->  correct
+p(1|xtest593): 0.9135995059608286, xtest593 classified as 1 ->  correct
+p(1|xtest594): 0.9999989059528948, xtest594 classified as 1 ->  correct
+p(1|xtest595): 0.9968750013720464, xtest595 classified as 1 ->  correct
+p(1|xtest596): 0.999999684558553, xtest596 classified as 1 ->  correct
+p(1|xtest597): 0.9999863801710307, xtest597 classified as 1 ->  correct
+p(1|xtest598): 0.999976640527986, xtest598 classified as 1 ->  correct
+p(1|xtest599): 0.9999996375737578, xtest599 classified as 1 ->  correct
+p(1|xtest600): 0.9999998774417879, xtest600 classified as 1 ->  correct
+p(1|xtest601): 0.9998588705721081, xtest601 classified as 1 ->  correct
+p(1|xtest602): 0.9999991504025816, xtest602 classified as 1 ->  correct
+p(1|xtest603): 0.9999825219946105, xtest603 classified as 1 ->  correct
+p(1|xtest604): 0.9999993737388949, xtest604 classified as 1 ->  correct
+p(1|xtest605): 0.999992332983957, xtest605 classified as 1 ->  correct
+p(1|xtest606): 0.9999974625103993, xtest606 classified as 1 ->  correct
+p(1|xtest607): 0.9999433469122392, xtest607 classified as 1 ->  correct
+p(1|xtest608): 0.9999877354640186, xtest608 classified as 1 ->  correct
+p(1|xtest609): 0.9993723104165554, xtest609 classified as 1 ->  correct
+p(1|xtest610): 0.9999026867080457, xtest610 classified as 1 ->  correct
+p(1|xtest611): 0.9999938276305729, xtest611 classified as 1 ->  correct
+p(1|xtest612): 0.9999976777358485, xtest612 classified as 1 ->  correct
+p(1|xtest613): 0.9999994218581113, xtest613 classified as 1 ->  correct
+p(1|xtest614): 0.9998695507738024, xtest614 classified as 1 ->  correct
+p(1|xtest615): 0.9935135080605662, xtest615 classified as 1 ->  correct
+p(1|xtest616): 0.9997561262702699, xtest616 classified as 1 ->  correct
+p(1|xtest617): 0.9999352592972617, xtest617 classified as 1 ->  correct
+p(1|xtest618): 0.9999960559838712, xtest618 classified as 1 ->  correct
+p(1|xtest619): 0.9999893896210984, xtest619 classified as 1 ->  correct
+p(1|xtest620): 0.9999995802102918, xtest620 classified as 1 ->  correct
+p(1|xtest621): 0.9974439811392055, xtest621 classified as 1 ->  correct
+p(1|xtest622): 0.9999757883501605, xtest622 classified as 1 ->  correct
+p(1|xtest623): 0.9997683469389921, xtest623 classified as 1 ->  correct
+p(1|xtest624): 0.9999962083390648, xtest624 classified as 1 ->  correct
+p(1|xtest625): 0.9998419842222106, xtest625 classified as 1 ->  correct
+p(1|xtest626): 0.9999477907407792, xtest626 classified as 1 ->  correct
+p(1|xtest627): 0.9999999908858043, xtest627 classified as 1 ->  correct
+p(1|xtest628): 0.9999998465104993, xtest628 classified as 1 ->  correct
+p(1|xtest629): 0.9999999978061793, xtest629 classified as 1 ->  correct
+p(1|xtest630): 0.9999997065952312, xtest630 classified as 1 ->  correct
+p(1|xtest631): 0.9999999270792057, xtest631 classified as 1 ->  correct
+p(1|xtest632): 0.9999293913492062, xtest632 classified as 1 ->  correct
+p(1|xtest633): 0.9999999947029106, xtest633 classified as 1 ->  correct
+p(1|xtest634): 0.9999999991674151, xtest634 classified as 1 ->  correct
+p(1|xtest635): 0.999999880585486, xtest635 classified as 1 ->  correct
+p(1|xtest636): 0.9999999997209066, xtest636 classified as 1 ->  correct
+p(1|xtest637): 0.999928623829295, xtest637 classified as 1 ->  correct
+p(1|xtest638): 0.9999995115908477, xtest638 classified as 1 ->  correct
+p(1|xtest639): 0.9999999942227062, xtest639 classified as 1 ->  correct
+p(1|xtest640): 0.9981716492892718, xtest640 classified as 1 ->  correct
+p(1|xtest641): 0.9999999959643124, xtest641 classified as 1 ->  correct
+p(1|xtest642): 0.9999898215052584, xtest642 classified as 1 ->  correct
+p(1|xtest643): 0.9999863129943612, xtest643 classified as 1 ->  correct
+p(1|xtest644): 0.999927077806453, xtest644 classified as 1 ->  correct
+p(1|xtest645): 0.27337805193614406, p(1|xtest646): 0.9999998830580402, xtest646 classified as 1 ->  correct
+p(1|xtest647): 0.9999256409334184, xtest647 classified as 1 ->  correct
+p(1|xtest648): 0.9999999993503284, xtest648 classified as 1 ->  correct
+p(1|xtest649): 0.9988904531233144, xtest649 classified as 1 ->  correct
+p(1|xtest650): 0.9999598483167973, xtest650 classified as 1 ->  correct
+p(1|xtest651): 0.9999858889005991, xtest651 classified as 1 ->  correct
+p(1|xtest652): 0.9999003656878793, xtest652 classified as 1 ->  correct
+p(1|xtest653): 0.9999990334171794, xtest653 classified as 1 ->  correct
+p(1|xtest654): 0.9992989080930662, xtest654 classified as 1 ->  correct
+p(1|xtest655): 0.9999913230950133, xtest655 classified as 1 ->  correct
+p(1|xtest656): 0.9996709993898016, xtest656 classified as 1 ->  correct
+p(1|xtest657): 0.9996485983438926, xtest657 classified as 1 ->  correct
+p(1|xtest658): 0.9999773574211396, xtest658 classified as 1 ->  correct
+p(1|xtest659): 0.9999112261608175, xtest659 classified as 1 ->  correct
+p(1|xtest660): 0.9999998410118287, xtest660 classified as 1 ->  correct
+p(1|xtest661): 0.9999883973563225, xtest661 classified as 1 ->  correct
+p(1|xtest662): 0.999953136035077, xtest662 classified as 1 ->  correct
+p(1|xtest663): 0.9999959655159055, xtest663 classified as 1 ->  correct
+p(1|xtest664): 0.9999344195144353, xtest664 classified as 1 ->  correct
+p(1|xtest665): 0.9999999991097199, xtest665 classified as 1 ->  correct
+p(1|xtest666): 0.9999986274252574, xtest666 classified as 1 ->  correct
+p(1|xtest667): 0.9951063451688833, xtest667 classified as 1 ->  correct
+p(1|xtest668): 0.9999998999697999, xtest668 classified as 1 ->  correct
+p(1|xtest669): 0.9999152752151342, xtest669 classified as 1 ->  correct
+p(1|xtest670): 0.9999997169011046, xtest670 classified as 1 ->  correct
+p(1|xtest671): 0.9999965954742757, xtest671 classified as 1 ->  correct
+p(1|xtest672): 0.9999993244047426, xtest672 classified as 1 ->  correct
+p(1|xtest673): 0.9999991411472233, xtest673 classified as 1 ->  correct
+p(1|xtest674): 0.9999693630331792, xtest674 classified as 1 ->  correct
+p(1|xtest675): 0.9999949443248022, xtest675 classified as 1 ->  correct
+p(1|xtest676): 0.9999997519189829, xtest676 classified as 1 ->  correct
+p(1|xtest677): 0.9997557535536609, xtest677 classified as 1 ->  correct
+p(1|xtest678): 0.9999997372939426, xtest678 classified as 1 ->  correct
+p(1|xtest679): 0.9999995246505468, xtest679 classified as 1 ->  correct
+p(1|xtest680): 0.9999999888053922, xtest680 classified as 1 ->  correct
+p(1|xtest681): 0.9999948449972856, xtest681 classified as 1 ->  correct
+p(1|xtest682): 0.9999999567705401, xtest682 classified as 1 ->  correct
+p(1|xtest683): 0.9999989231821353, xtest683 classified as 1 ->  correct
+p(1|xtest684): 0.9999999972140414, xtest684 classified as 1 ->  correct
+p(1|xtest685): 0.999773171711475, xtest685 classified as 1 ->  correct
+p(1|xtest686): 0.999969973590547, xtest686 classified as 1 ->  correct
+p(1|xtest687): 0.999999853541825, xtest687 classified as 1 ->  correct
+p(1|xtest688): 0.9999999956970371, xtest688 classified as 1 ->  correct
+p(1|xtest689): 0.9999960708402016, xtest689 classified as 1 ->  correct
+p(1|xtest690): 0.999999365771388, xtest690 classified as 1 ->  correct
+p(1|xtest691): 0.99999974607081, xtest691 classified as 1 ->  correct
+p(1|xtest692): 0.9999999999717839, xtest692 classified as 1 ->  correct
+p(1|xtest693): 0.9999999991357422, xtest693 classified as 1 ->  correct
+p(1|xtest694): 0.9999977770789279, xtest694 classified as 1 ->  correct
+p(1|xtest695): 0.9999999878183746, xtest695 classified as 1 ->  correct
+p(1|xtest696): 0.9999999670388231, xtest696 classified as 1 ->  correct
+p(1|xtest697): 0.9999999621784516, xtest697 classified as 1 ->  correct
+p(1|xtest698): 0.999983622742032, xtest698 classified as 1 ->  correct
+p(1|xtest699): 0.9999646848122481, xtest699 classified as 1 ->  correct
+p(1|xtest700): 0.9999999954808287, xtest700 classified as 1 ->  correct
+p(1|xtest701): 0.9999998404283567, xtest701 classified as 1 ->  correct
+p(1|xtest702): 0.9998850858197587, xtest702 classified as 1 ->  correct
+p(1|xtest703): 0.9999999301947211, xtest703 classified as 1 ->  correct
+p(1|xtest704): 0.9999999736289158, xtest704 classified as 1 ->  correct
+p(1|xtest705): 0.9999442544096409, xtest705 classified as 1 ->  correct
+p(1|xtest706): 0.9999949892428616, xtest706 classified as 1 ->  correct
+p(1|xtest707): 0.9999997269136789, xtest707 classified as 1 ->  correct
+p(1|xtest708): 0.9999929274634931, xtest708 classified as 1 ->  correct
+p(1|xtest709): 0.9974534569549839, xtest709 classified as 1 ->  correct
+p(1|xtest710): 0.9997359204429017, xtest710 classified as 1 ->  correct
+p(1|xtest711): 0.9979467407191063, xtest711 classified as 1 ->  correct
+p(1|xtest712): 0.9996279414485404, xtest712 classified as 1 ->  correct
+p(1|xtest713): 0.9999700241703106, xtest713 classified as 1 ->  correct
+p(1|xtest714): 0.9995815165038221, xtest714 classified as 1 ->  correct
+p(1|xtest715): 0.9999955842864356, xtest715 classified as 1 ->  correct
+p(1|xtest716): 0.9999215202751897, xtest716 classified as 1 ->  correct
+p(1|xtest717): 0.9996084473979809, xtest717 classified as 1 ->  correct
+p(1|xtest718): 0.9999995355050454, xtest718 classified as 1 ->  correct
+p(1|xtest719): 0.9998961794451711, xtest719 classified as 1 ->  correct
+p(1|xtest720): 0.9999948483135169, xtest720 classified as 1 ->  correct
+p(1|xtest721): 0.9992767109669798, xtest721 classified as 1 ->  correct
+p(1|xtest722): 0.9999890804822479, xtest722 classified as 1 ->  correct
+p(1|xtest723): 0.9999989733354187, xtest723 classified as 1 ->  correct
+p(1|xtest724): 0.9999988642241825, xtest724 classified as 1 ->  correct
+p(1|xtest725): 0.9999976941686486, xtest725 classified as 1 ->  correct
+p(1|xtest726): 0.9996892099370044, xtest726 classified as 1 ->  correct
+p(1|xtest727): 0.9996683725211789, xtest727 classified as 1 ->  correct
+p(1|xtest728): 0.9999996233026853, xtest728 classified as 1 ->  correct
+p(1|xtest729): 0.999996193672755, xtest729 classified as 1 ->  correct
+p(1|xtest730): 0.999960490272198, xtest730 classified as 1 ->  correct
+p(1|xtest731): 0.999999301601863, xtest731 classified as 1 ->  correct
+p(1|xtest732): 0.9999604787357965, xtest732 classified as 1 ->  correct
+p(1|xtest733): 0.9999732237490991, xtest733 classified as 1 ->  correct
+p(1|xtest734): 0.9999986470842109, xtest734 classified as 1 ->  correct
+p(1|xtest735): 0.999996720559672, xtest735 classified as 1 ->  correct
+p(1|xtest736): 0.9999909634557552, xtest736 classified as 1 ->  correct
+p(1|xtest737): 0.9999986080395302, xtest737 classified as 1 ->  correct
+p(1|xtest738): 0.9999536366004123, xtest738 classified as 1 ->  correct
+p(1|xtest739): 0.9999994871980479, xtest739 classified as 1 ->  correct
+p(1|xtest740): 0.9999792040176898, xtest740 classified as 1 ->  correct
+p(1|xtest741): 0.9999952971273284, xtest741 classified as 1 ->  correct
+p(1|xtest742): 0.9993667920133831, xtest742 classified as 1 ->  correct
+p(1|xtest743): 0.9999952282998962, xtest743 classified as 1 ->  correct
+p(1|xtest744): 0.9926959664070546, xtest744 classified as 1 ->  correct
+p(1|xtest745): 0.9855128787081382, xtest745 classified as 1 ->  correct
+p(1|xtest746): 0.9999969781148408, xtest746 classified as 1 ->  correct
+p(1|xtest747): 0.9999955007696897, xtest747 classified as 1 ->  correct
+p(1|xtest748): 0.9993934419633862, xtest748 classified as 1 ->  correct
+p(1|xtest749): 0.9955414758185107, xtest749 classified as 1 ->  correct
+p(1|xtest750): 0.9999900618230693, xtest750 classified as 1 ->  correct
+p(1|xtest751): 0.9989162939781089, xtest751 classified as 1 ->  correct
+p(1|xtest752): 0.9996651782912458, xtest752 classified as 1 ->  correct
+p(1|xtest753): 0.9984862546181915, xtest753 classified as 1 ->  correct
+p(1|xtest754): 0.9999233930561233, xtest754 classified as 1 ->  correct
+p(1|xtest755): 0.9999195964126469, xtest755 classified as 1 ->  correct
+p(1|xtest756): 0.9999849497409081, xtest756 classified as 1 ->  correct
+p(1|xtest757): 0.9999972684984844, xtest757 classified as 1 ->  correct
+p(1|xtest758): 0.9979541364250174, xtest758 classified as 1 ->  correct
+p(1|xtest759): 0.9984065808650308, xtest759 classified as 1 ->  correct
+p(1|xtest760): 0.9999843333526333, xtest760 classified as 1 ->  correct
+p(1|xtest761): 0.9999983652199023, xtest761 classified as 1 ->  correct
+p(1|xtest762): 0.9999916360558311, xtest762 classified as 1 ->  correct
+p(1|xtest763): 0.9999840905401994, xtest763 classified as 1 ->  correct
+p(1|xtest764): 0.9999985615295715, xtest764 classified as 1 ->  correct
+p(1|xtest765): 0.999999339239687, xtest765 classified as 1 ->  correct
+p(1|xtest766): 0.9999992117047257, xtest766 classified as 1 ->  correct
+p(1|xtest767): 0.9999934951575298, xtest767 classified as 1 ->  correct
+p(1|xtest768): 0.9999999849930992, xtest768 classified as 1 ->  correct
+p(1|xtest769): 0.9999911831948123, xtest769 classified as 1 ->  correct
+p(1|xtest770): 0.9999999892402586, xtest770 classified as 1 ->  correct
+p(1|xtest771): 0.9999770839809825, xtest771 classified as 1 ->  correct
+p(1|xtest772): 0.9999999853934545, xtest772 classified as 1 ->  correct
+p(1|xtest773): 0.9999999810552035, xtest773 classified as 1 ->  correct
+p(1|xtest774): 0.9999999980132657, xtest774 classified as 1 ->  correct
+p(1|xtest775): 0.99999928017809, xtest775 classified as 1 ->  correct
+p(1|xtest776): 0.9999967035480111, xtest776 classified as 1 ->  correct
+p(1|xtest777): 0.9998949891410815, xtest777 classified as 1 ->  correct
+p(1|xtest778): 0.9999980268056445, xtest778 classified as 1 ->  correct
+p(1|xtest779): 0.9999239000265712, xtest779 classified as 1 ->  correct
+p(1|xtest780): 0.9999960281038294, xtest780 classified as 1 ->  correct
+p(1|xtest781): 0.999995218707431, xtest781 classified as 1 ->  correct
+p(1|xtest782): 0.9999980959590579, xtest782 classified as 1 ->  correct
+p(1|xtest783): 0.9999999996572573, xtest783 classified as 1 ->  correct
+p(1|xtest784): 0.9999973959733057, xtest784 classified as 1 ->  correct
+p(1|xtest785): 0.9999979552094055, xtest785 classified as 1 ->  correct
+p(1|xtest786): 0.9999877452214248, xtest786 classified as 1 ->  correct
+p(1|xtest787): 0.9999888052646217, xtest787 classified as 1 ->  correct
+p(1|xtest788): 0.9999816627781468, xtest788 classified as 1 ->  correct
+p(1|xtest789): 0.9999862139458277, xtest789 classified as 1 ->  correct
+p(1|xtest790): 0.9999825732354218, xtest790 classified as 1 ->  correct
+p(1|xtest791): 0.9999918645368867, xtest791 classified as 1 ->  correct
+p(1|xtest792): 0.9945157172959115, xtest792 classified as 1 ->  correct
+p(1|xtest793): 0.9999978710008071, xtest793 classified as 1 ->  correct
+p(1|xtest794): 0.9999971984307636, xtest794 classified as 1 ->  correct
+p(1|xtest795): 0.9999828849506538, xtest795 classified as 1 ->  correct
+p(1|xtest796): 0.9998338166885034, xtest796 classified as 1 ->  correct
+p(1|xtest797): 0.9999976210483374, xtest797 classified as 1 ->  correct
+p(1|xtest798): 0.9999759881380698, xtest798 classified as 1 ->  correct
+p(1|xtest799): 0.9962608416062892, xtest799 classified as 1 ->  correct
+p(1|xtest800): 0.9999966607845809, xtest800 classified as 1 ->  correct
+p(1|xtest801): 0.9997079925829327, xtest801 classified as 1 ->  correct
+p(1|xtest802): 0.9924219807785787, xtest802 classified as 1 ->  correct
+p(1|xtest803): 0.999890144081053, xtest803 classified as 1 ->  correct
+p(1|xtest804): 0.9997752021599287, xtest804 classified as 1 ->  correct
+p(1|xtest805): 0.9999971678489219, xtest805 classified as 1 ->  correct
+p(1|xtest806): 0.99999080273726, xtest806 classified as 1 ->  correct
+p(1|xtest807): 0.9999997870018201, xtest807 classified as 1 ->  correct
+p(1|xtest808): 0.9999999100470162, xtest808 classified as 1 ->  correct
+p(1|xtest809): 0.9999961945027757, xtest809 classified as 1 ->  correct
+p(1|xtest810): 0.9999955667605885, xtest810 classified as 1 ->  correct
+p(1|xtest811): 0.9999928434355954, xtest811 classified as 1 ->  correct
+p(1|xtest812): 0.9999999880350526, xtest812 classified as 1 ->  correct
+p(1|xtest813): 0.9999975753462819, xtest813 classified as 1 ->  correct
+p(1|xtest814): 0.9999719914522913, xtest814 classified as 1 ->  correct
+p(1|xtest815): 0.9996800397345729, xtest815 classified as 1 ->  correct
+p(1|xtest816): 0.9751252406211252, xtest816 classified as 1 ->  correct
+p(1|xtest817): 0.9993685113762987, xtest817 classified as 1 ->  correct
+p(1|xtest818): 0.9986870899971738, xtest818 classified as 1 ->  correct
+p(1|xtest819): 0.9998841190514374, xtest819 classified as 1 ->  correct
+p(1|xtest820): 0.9985726244280819, xtest820 classified as 1 ->  correct
+p(1|xtest821): 0.999983605316782, xtest821 classified as 1 ->  correct
+p(1|xtest822): 0.9999993886872445, xtest822 classified as 1 ->  correct
+p(1|xtest823): 0.9999998594817905, xtest823 classified as 1 ->  correct
+p(1|xtest824): 0.9999994756304854, xtest824 classified as 1 ->  correct
+p(1|xtest825): 0.9999923866181906, xtest825 classified as 1 ->  correct
+p(1|xtest826): 0.9999938987202609, xtest826 classified as 1 ->  correct
+p(1|xtest827): 0.9999523573617197, xtest827 classified as 1 ->  correct
+p(1|xtest828): 0.9999957545377991, xtest828 classified as 1 ->  correct
+p(1|xtest829): 0.9999993171770609, xtest829 classified as 1 ->  correct
+p(1|xtest830): 0.999997541228675, xtest830 classified as 1 ->  correct
+p(1|xtest831): 0.9999997225831444, xtest831 classified as 1 ->  correct
+p(1|xtest832): 0.9999767623144068, xtest832 classified as 1 ->  correct
+p(1|xtest833): 0.9932201831120421, xtest833 classified as 1 ->  correct
+p(1|xtest834): 0.9999771559591086, xtest834 classified as 1 ->  correct
+p(1|xtest835): 0.999999359730146, xtest835 classified as 1 ->  correct
+p(1|xtest836): 0.9999986380563041, xtest836 classified as 1 ->  correct
+p(1|xtest837): 0.9999879490809557, xtest837 classified as 1 ->  correct
+p(1|xtest838): 0.9999999801642969, xtest838 classified as 1 ->  correct
+p(1|xtest839): 0.9999982258400963, xtest839 classified as 1 ->  correct
+p(1|xtest840): 0.9999997820959865, xtest840 classified as 1 ->  correct
+p(1|xtest841): 0.9999987093541691, xtest841 classified as 1 ->  correct
+p(1|xtest842): 0.9999936910105437, xtest842 classified as 1 ->  correct
+p(1|xtest843): 0.9999759993371566, xtest843 classified as 1 ->  correct
+p(1|xtest844): 0.9983045095357389, xtest844 classified as 1 ->  correct
+p(1|xtest845): 0.9999419052640731, xtest845 classified as 1 ->  correct
+p(1|xtest846): 0.999997806309164, xtest846 classified as 1 ->  correct
+p(1|xtest847): 0.9999999065761819, xtest847 classified as 1 ->  correct
+p(1|xtest848): 0.9999990472361839, xtest848 classified as 1 ->  correct
+p(1|xtest849): 0.9995600148705732, xtest849 classified as 1 ->  correct
+p(1|xtest850): 0.9999999846276748, xtest850 classified as 1 ->  correct
+p(1|xtest851): 0.9999996842983816, xtest851 classified as 1 ->  correct
+p(1|xtest852): 0.999999874314367, xtest852 classified as 1 ->  correct
+p(1|xtest853): 0.9999990063247333, xtest853 classified as 1 ->  correct
+p(1|xtest854): 0.9999998274570663, xtest854 classified as 1 ->  correct
+p(1|xtest855): 0.9999877556615924, xtest855 classified as 1 ->  correct
+p(1|xtest856): 0.9999986376597748, xtest856 classified as 1 ->  correct
+p(1|xtest857): 0.999997304120841, xtest857 classified as 1 ->  correct
+p(1|xtest858): 0.9999152551777112, xtest858 classified as 1 ->  correct
+p(1|xtest859): 0.9999997194476175, xtest859 classified as 1 ->  correct
+p(1|xtest860): 0.9999999999197213, xtest860 classified as 1 ->  correct
+p(1|xtest861): 0.9999999803313678, xtest861 classified as 1 ->  correct
+p(1|xtest862): 0.9999999667195525, xtest862 classified as 1 ->  correct
+p(1|xtest863): 0.9999519775871061, xtest863 classified as 1 ->  correct
+p(1|xtest864): 0.9999999975365617, xtest864 classified as 1 ->  correct
+p(1|xtest865): 0.9999999948943039, xtest865 classified as 1 ->  correct
+p(1|xtest866): 0.9999997927291598, xtest866 classified as 1 ->  correct
+p(1|xtest867): 0.9979372106305366, xtest867 classified as 1 ->  correct
+p(1|xtest868): 0.9999937226384991, xtest868 classified as 1 ->  correct
+p(1|xtest869): 0.9995392406722501, xtest869 classified as 1 ->  correct
+p(1|xtest870): 0.9999998890649878, xtest870 classified as 1 ->  correct
+p(1|xtest871): 0.9999959585877519, xtest871 classified as 1 ->  correct
+p(1|xtest872): 0.9999966732666901, xtest872 classified as 1 ->  correct
+p(1|xtest873): 0.9996875142858945, xtest873 classified as 1 ->  correct
+p(1|xtest874): 0.9999996403491233, xtest874 classified as 1 ->  correct
+p(1|xtest875): 0.9999761466276414, xtest875 classified as 1 ->  correct
+p(1|xtest876): 0.9999307530967206, xtest876 classified as 1 ->  correct
+p(1|xtest877): 0.999977066014869, xtest877 classified as 1 ->  correct
+p(1|xtest878): 0.9999867789153402, xtest878 classified as 1 ->  correct
+p(1|xtest879): 0.9999993246111422, xtest879 classified as 1 ->  correct
+p(1|xtest880): 0.9999998611089465, xtest880 classified as 1 ->  correct
+p(1|xtest881): 0.9999869823038186, xtest881 classified as 1 ->  correct
+p(1|xtest882): 0.999245357049875, xtest882 classified as 1 ->  correct
+p(1|xtest883): 0.9999999981052112, xtest883 classified as 1 ->  correct
+p(1|xtest884): 0.9999999547133471, xtest884 classified as 1 ->  correct
+p(1|xtest885): 0.9999996717933384, xtest885 classified as 1 ->  correct
+p(1|xtest886): 0.9999999465282148, xtest886 classified as 1 ->  correct
+p(1|xtest887): 0.9999997030889354, xtest887 classified as 1 ->  correct
+p(1|xtest888): 0.9999999962809021, xtest888 classified as 1 ->  correct
+p(1|xtest889): 0.9999999910456109, xtest889 classified as 1 ->  correct
+p(1|xtest890): 0.9999976322121371, xtest890 classified as 1 ->  correct
+p(1|xtest891): 0.9999810977840397, xtest891 classified as 1 ->  correct
+p(1|xtest892): 0.9995445564609616, xtest892 classified as 1 ->  correct
+p(1|xtest893): 0.999999989300587, xtest893 classified as 1 ->  correct
+p(1|xtest894): 0.9999998412982068, xtest894 classified as 1 ->  correct
+p(1|xtest895): 0.9999999977847138, xtest895 classified as 1 ->  correct
+p(1|xtest896): 0.9999999972066993, xtest896 classified as 1 ->  correct
+p(1|xtest897): 0.9999675635276336, xtest897 classified as 1 ->  correct
+p(1|xtest898): 0.9995685495884467, xtest898 classified as 1 ->  correct
+p(1|xtest899): 0.9999889829481191, xtest899 classified as 1 ->  correct
+p(1|xtest900): 0.9999984391994765, xtest900 classified as 1 ->  correct
+p(1|xtest901): 0.9999944795699093, xtest901 classified as 1 ->  correct
+p(1|xtest902): 0.9999993951958314, xtest902 classified as 1 ->  correct
+p(1|xtest903): 0.9999889204393921, xtest903 classified as 1 ->  correct
+p(1|xtest904): 0.9999999817424673, xtest904 classified as 1 ->  correct
+p(1|xtest905): 0.9999999505284265, xtest905 classified as 1 ->  correct
+p(1|xtest906): 0.9997296998045865, xtest906 classified as 1 ->  correct
+p(1|xtest907): 0.9775851054172514, xtest907 classified as 1 ->  correct
+p(1|xtest908): 0.9999947424739263, xtest908 classified as 1 ->  correct
+p(1|xtest909): 0.9999993262731246, xtest909 classified as 1 ->  correct
+p(1|xtest910): 0.9999997065647974, xtest910 classified as 1 ->  correct
+p(1|xtest911): 0.9999995949918518, xtest911 classified as 1 ->  correct
+p(1|xtest912): 0.9999808586609377, xtest912 classified as 1 ->  correct
+p(1|xtest913): 0.9999998628742693, xtest913 classified as 1 ->  correct
+p(1|xtest914): 0.999948595229312, xtest914 classified as 1 ->  correct
+p(1|xtest915): 0.9998482060331682, xtest915 classified as 1 ->  correct
+p(1|xtest916): 0.9999984926888008, xtest916 classified as 1 ->  correct
+p(1|xtest917): 0.9988405456226598, xtest917 classified as 1 ->  correct
+p(1|xtest918): 0.9999984093275296, xtest918 classified as 1 ->  correct
+p(1|xtest919): 0.9990944522110953, xtest919 classified as 1 ->  correct
+p(1|xtest920): 0.9999998118713812, xtest920 classified as 1 ->  correct
+p(1|xtest921): 0.9999998895003321, xtest921 classified as 1 ->  correct
+p(1|xtest922): 0.999999977593491, xtest922 classified as 1 ->  correct
+p(1|xtest923): 0.9984005554078167, xtest923 classified as 1 ->  correct
+p(1|xtest924): 0.9999992558033222, xtest924 classified as 1 ->  correct
+p(1|xtest925): 0.9999999748703263, xtest925 classified as 1 ->  correct
+p(1|xtest926): 0.9999977733799583, xtest926 classified as 1 ->  correct
+p(1|xtest927): 0.9999999807046028, xtest927 classified as 1 ->  correct
+p(1|xtest928): 0.999999594223573, xtest928 classified as 1 ->  correct
+p(1|xtest929): 0.9999987900998412, xtest929 classified as 1 ->  correct
+p(1|xtest930): 0.9999997982162573, xtest930 classified as 1 ->  correct
+p(1|xtest931): 0.9999999830168741, xtest931 classified as 1 ->  correct
+p(1|xtest932): 0.9999998456112847, xtest932 classified as 1 ->  correct
+p(1|xtest933): 0.9999986362520181, xtest933 classified as 1 ->  correct
+p(1|xtest934): 0.9999999658491728, xtest934 classified as 1 ->  correct
+p(1|xtest935): 0.9999913712799257, xtest935 classified as 1 ->  correct
+p(1|xtest936): 0.9980558765789579, xtest936 classified as 1 ->  correct
+p(1|xtest937): 0.9998098119849711, xtest937 classified as 1 ->  correct
+p(1|xtest938): 0.9999999991940869, xtest938 classified as 1 ->  correct
+p(1|xtest939): 0.9999999993982887, xtest939 classified as 1 ->  correct
+p(1|xtest940): 0.9999990716583921, xtest940 classified as 1 ->  correct
+p(1|xtest941): 0.9999679787556617, xtest941 classified as 1 ->  correct
+p(1|xtest942): 0.999997634632377, xtest942 classified as 1 ->  correct
+p(1|xtest943): 0.9999593537053224, xtest943 classified as 1 ->  correct
+p(1|xtest944): 0.9998112090169011, xtest944 classified as 1 ->  correct
+p(1|xtest945): 0.9999999686530795, xtest945 classified as 1 ->  correct
+p(1|xtest946): 0.9999964736699453, xtest946 classified as 1 ->  correct
+p(1|xtest947): 0.9999995614259206, xtest947 classified as 1 ->  correct
+p(1|xtest948): 0.999952950710503, xtest948 classified as 1 ->  correct
+p(1|xtest949): 0.9999616763579173, xtest949 classified as 1 ->  correct
+p(1|xtest950): 0.9999876995434739, xtest950 classified as 1 ->  correct
+p(1|xtest951): 0.999996828062414, xtest951 classified as 1 ->  correct
+p(1|xtest952): 0.9999991547023752, xtest952 classified as 1 ->  correct
+p(1|xtest953): 0.999997660331736, xtest953 classified as 1 ->  correct
+p(1|xtest954): 0.9994960684578083, xtest954 classified as 1 ->  correct
+p(1|xtest955): 0.9999980045648199, xtest955 classified as 1 ->  correct
+p(1|xtest956): 0.9999999815118025, xtest956 classified as 1 ->  correct
+p(1|xtest957): 0.9999974698351755, xtest957 classified as 1 ->  correct
+p(1|xtest958): 0.9999999999608638, xtest958 classified as 1 ->  correct
+p(1|xtest959): 0.9999995063828185, xtest959 classified as 1 ->  correct
+p(1|xtest960): 0.999999963945617, xtest960 classified as 1 ->  correct
+p(1|xtest961): 0.9999966946911695, xtest961 classified as 1 ->  correct
+p(1|xtest962): 0.9999995500784594, xtest962 classified as 1 ->  correct
+p(1|xtest963): 0.9999989284147778, xtest963 classified as 1 ->  correct
+p(1|xtest964): 0.9999999317369686, xtest964 classified as 1 ->  correct
+p(1|xtest965): 0.9999998992485012, xtest965 classified as 1 ->  correct
+p(1|xtest966): 0.999999998645758, xtest966 classified as 1 ->  correct
+p(1|xtest967): 0.9999999581106367, xtest967 classified as 1 ->  correct
+p(1|xtest968): 0.9999999622744368, xtest968 classified as 1 ->  correct
+p(1|xtest969): 0.999999999569976, xtest969 classified as 1 ->  correct
+p(1|xtest970): 0.9999999286710117, xtest970 classified as 1 ->  correct
+p(1|xtest971): 0.9999999979375049, xtest971 classified as 1 ->  correct
+p(1|xtest972): 0.9999962772581434, xtest972 classified as 1 ->  correct
+p(1|xtest973): 0.999888555146107, xtest973 classified as 1 ->  correct
+p(1|xtest974): 0.999993258231931, xtest974 classified as 1 ->  correct
+p(1|xtest975): 0.9999944914503002, xtest975 classified as 1 ->  correct
+p(1|xtest976): 0.9994780499844346, xtest976 classified as 1 ->  correct
+p(1|xtest977): 0.9999999813182411, xtest977 classified as 1 ->  correct
+p(1|xtest978): 0.9999822145438806, xtest978 classified as 1 ->  correct
+p(1|xtest979): 0.9999960136894973, xtest979 classified as 1 ->  correct
+p(1|xtest980): 0.9999996110153716, xtest980 classified as 1 ->  correct
+p(1|xtest981): 0.9988262124025972, xtest981 classified as 1 ->  correct
+p(1|xtest982): 0.9999884325469753, xtest982 classified as 1 ->  correct
+p(1|xtest983): 0.9999584754666442, xtest983 classified as 1 ->  correct
+p(1|xtest984): 0.9999860245956878, xtest984 classified as 1 ->  correct
+p(1|xtest985): 0.9999948034990136, xtest985 classified as 1 ->  correct
+p(1|xtest986): 0.9999999469609394, xtest986 classified as 1 ->  correct
+p(1|xtest987): 0.9999986439287487, xtest987 classified as 1 ->  correct
+p(1|xtest988): 0.999914783470316, xtest988 classified as 1 ->  correct
+p(1|xtest989): 0.999999960059303, xtest989 classified as 1 ->  correct
+p(1|xtest990): 0.9999985092160226, xtest990 classified as 1 ->  correct
+p(1|xtest991): 0.9999957564599401, xtest991 classified as 1 ->  correct
+p(1|xtest992): 0.9999969443328699, xtest992 classified as 1 ->  correct
+p(1|xtest993): 0.9999992412466894, xtest993 classified as 1 ->  correct
+p(1|xtest994): 0.9999924743373527, xtest994 classified as 1 ->  correct
+p(1|xtest995): 0.9999993425802954, xtest995 classified as 1 ->  correct
+p(1|xtest996): 0.9999900982864833, xtest996 classified as 1 ->  correct
+p(1|xtest997): 0.9986777442212896, xtest997 classified as 1 ->  correct
+p(1|xtest998): 0.9999949506701691, xtest998 classified as 1 ->  correct
+p(1|xtest999): 0.999951234239276, xtest999 classified as 1 ->  correct
+p(1|xtest1000): 0.9999897596148395, xtest1000 classified as 1 ->  correct
+p(1|xtest1001): 0.9999994865860178, xtest1001 classified as 1 ->  correct
+p(1|xtest1002): 0.996674411295943, xtest1002 classified as 1 ->  correct
+p(1|xtest1003): 0.9998502693658858, xtest1003 classified as 1 ->  correct
+p(1|xtest1004): 0.999613472182615, xtest1004 classified as 1 ->  correct
+p(1|xtest1005): 0.9999996471951039, xtest1005 classified as 1 ->  correct
+p(1|xtest1006): 0.9999999655524102, xtest1006 classified as 1 ->  correct
+p(1|xtest1007): 0.9999997600092704, xtest1007 classified as 1 ->  correct
+p(1|xtest1008): 0.9999987104527666, xtest1008 classified as 1 ->  correct
+p(1|xtest1009): 0.9999962984126703, xtest1009 classified as 1 ->  correct
+p(1|xtest1010): 0.999999867889816, xtest1010 classified as 1 ->  correct
+p(1|xtest1011): 0.9999996082601059, xtest1011 classified as 1 ->  correct
+p(1|xtest1012): 0.9998774411514081, xtest1012 classified as 1 ->  correct
+p(1|xtest1013): 0.9998858714258828, xtest1013 classified as 1 ->  correct
+p(1|xtest1014): 0.99999973732383, xtest1014 classified as 1 ->  correct
+p(1|xtest1015): 0.9999040446218065, xtest1015 classified as 1 ->  correct
+p(1|xtest1016): 0.9999985372027155, xtest1016 classified as 1 ->  correct
+p(1|xtest1017): 0.9999992510568545, xtest1017 classified as 1 ->  correct
+p(1|xtest1018): 0.999959762055832, xtest1018 classified as 1 ->  correct
+p(1|xtest1019): 0.9998257133844222, xtest1019 classified as 1 ->  correct
+p(1|xtest1020): 0.9999999506662727, xtest1020 classified as 1 ->  correct
+p(1|xtest1021): 0.9990226169037454, xtest1021 classified as 1 ->  correct
+p(1|xtest1022): 0.9999877671507992, xtest1022 classified as 1 ->  correct
+p(1|xtest1023): 0.9999501514629484, xtest1023 classified as 1 ->  correct
+p(1|xtest1024): 0.9999628102230891, xtest1024 classified as 1 ->  correct
+p(1|xtest1025): 0.9999999799915118, xtest1025 classified as 1 ->  correct
+p(1|xtest1026): 0.9891985377816848, xtest1026 classified as 1 ->  correct
+p(1|xtest1027): 0.9999129449861188, xtest1027 classified as 1 ->  correct
+p(1|xtest1028): 0.9999948534012436, xtest1028 classified as 1 ->  correct
+p(1|xtest1029): 0.9999977033603761, xtest1029 classified as 1 ->  correct
+p(1|xtest1030): 0.9999994589983778, xtest1030 classified as 1 ->  correct
+p(1|xtest1031): 0.9999997953543539, xtest1031 classified as 1 ->  correct
+p(1|xtest1032): 0.9999999671510746, xtest1032 classified as 1 ->  correct
+p(1|xtest1033): 0.999998503766221, xtest1033 classified as 1 ->  correct
+p(1|xtest1034): 0.9999964929583248, xtest1034 classified as 1 ->  correct
+p(1|xtest1035): 0.9955354909006656, xtest1035 classified as 1 ->  correct
+p(1|xtest1036): 0.9999995720439092, xtest1036 classified as 1 ->  correct
+p(1|xtest1037): 0.999999809895112, xtest1037 classified as 1 ->  correct
+p(1|xtest1038): 0.9999971558711884, xtest1038 classified as 1 ->  correct
+p(1|xtest1039): 0.999999717946764, xtest1039 classified as 1 ->  correct
+p(1|xtest1040): 0.9999999822255016, xtest1040 classified as 1 ->  correct
+p(1|xtest1041): 0.9999915355712445, xtest1041 classified as 1 ->  correct
+p(1|xtest1042): 0.9999999375777785, xtest1042 classified as 1 ->  correct
+p(1|xtest1043): 0.9999999192541872, xtest1043 classified as 1 ->  correct
+p(1|xtest1044): 0.9999999226956262, xtest1044 classified as 1 ->  correct
+p(1|xtest1045): 0.999999967021393, xtest1045 classified as 1 ->  correct
+p(1|xtest1046): 0.9999994637632303, xtest1046 classified as 1 ->  correct
+p(1|xtest1047): 0.9999988838107072, xtest1047 classified as 1 ->  correct
+p(1|xtest1048): 0.9999911896234388, xtest1048 classified as 1 ->  correct
+p(1|xtest1049): 0.9999958686918998, xtest1049 classified as 1 ->  correct
+p(1|xtest1050): 0.9999608887080971, xtest1050 classified as 1 ->  correct
+p(1|xtest1051): 0.9999965476035206, xtest1051 classified as 1 ->  correct
+p(1|xtest1052): 0.9999942908169789, xtest1052 classified as 1 ->  correct
+p(1|xtest1053): 0.9999916781293128, xtest1053 classified as 1 ->  correct
+p(1|xtest1054): 0.9999995052297136, xtest1054 classified as 1 ->  correct
+p(1|xtest1055): 0.9999982516332665, xtest1055 classified as 1 ->  correct
+p(1|xtest1056): 0.9999761894896327, xtest1056 classified as 1 ->  correct
+p(1|xtest1057): 0.9999991651638422, xtest1057 classified as 1 ->  correct
+p(1|xtest1058): 0.9999945642108936, xtest1058 classified as 1 ->  correct
+p(1|xtest1059): 0.9999934861976975, xtest1059 classified as 1 ->  correct
+p(1|xtest1060): 0.9999999984433405, xtest1060 classified as 1 ->  correct
+p(1|xtest1061): 0.9982103906335476, xtest1061 classified as 1 ->  correct
+p(1|xtest1062): 0.999988103903956, xtest1062 classified as 1 ->  correct
+p(1|xtest1063): 0.9999999840473763, xtest1063 classified as 1 ->  correct
+p(1|xtest1064): 0.999796683218071, xtest1064 classified as 1 ->  correct
+p(1|xtest1065): 0.9999682977807461, xtest1065 classified as 1 ->  correct
+p(1|xtest1066): 0.9998711031600199, xtest1066 classified as 1 ->  correct
+p(1|xtest1067): 0.999992537929625, xtest1067 classified as 1 ->  correct
+p(1|xtest1068): 0.9999993776324182, xtest1068 classified as 1 ->  correct
+p(1|xtest1069): 0.999999754566122, xtest1069 classified as 1 ->  correct
+p(1|xtest1070): 0.9999991511320236, xtest1070 classified as 1 ->  correct
+p(1|xtest1071): 0.9988623997642492, xtest1071 classified as 1 ->  correct
+p(1|xtest1072): 0.9999898997656993, xtest1072 classified as 1 ->  correct
+p(1|xtest1073): 0.9999989958956154, xtest1073 classified as 1 ->  correct
+p(1|xtest1074): 0.9999982876478749, xtest1074 classified as 1 ->  correct
+p(1|xtest1075): 0.9999992215572875, xtest1075 classified as 1 ->  correct
+p(1|xtest1076): 0.9999778709404267, xtest1076 classified as 1 ->  correct
+p(1|xtest1077): 0.9832506990708785, xtest1077 classified as 1 ->  correct
+p(1|xtest1078): 0.9999552144075913, xtest1078 classified as 1 ->  correct
+p(1|xtest1079): 0.9967959774344718, xtest1079 classified as 1 ->  correct
+p(1|xtest1080): 0.9999978570895269, xtest1080 classified as 1 ->  correct
+p(1|xtest1081): 0.9999688997638705, xtest1081 classified as 1 ->  correct
+p(1|xtest1082): 0.9999999972586768, xtest1082 classified as 1 ->  correct
+p(1|xtest1083): 0.9999997396247778, xtest1083 classified as 1 ->  correct
+p(1|xtest1084): 0.9999999542092385, xtest1084 classified as 1 ->  correct
+p(1|xtest1085): 0.9999987393493225, xtest1085 classified as 1 ->  correct
+p(1|xtest1086): 0.9999556948525254, xtest1086 classified as 1 ->  correct
+p(1|xtest1087): 0.9924590669866448, xtest1087 classified as 1 ->  correct
+p(1|xtest1088): 0.9939549916737954, xtest1088 classified as 1 ->  correct
+p(1|xtest1089): 0.9884759076185077, xtest1089 classified as 1 ->  correct
+p(1|xtest1090): 0.9603276242050588, xtest1090 classified as 1 ->  correct
+p(1|xtest1091): 0.7331604783831756, xtest1091 classified as 1 ->  correct
+p(1|xtest1092): 0.9999798751217504, xtest1092 classified as 1 ->  correct
+p(1|xtest1093): 0.955846340972453, xtest1093 classified as 1 ->  correct
+p(1|xtest1094): 0.9992176794901042, xtest1094 classified as 1 ->  correct
+p(1|xtest1095): 0.999402771962194, xtest1095 classified as 1 ->  correct
+p(1|xtest1096): 0.9999946969620805, xtest1096 classified as 1 ->  correct
+p(1|xtest1097): 0.9972726109847788, xtest1097 classified as 1 ->  correct
+p(1|xtest1098): 0.9999427184428329, xtest1098 classified as 1 ->  correct
+p(1|xtest1099): 0.9717710013577403, xtest1099 classified as 1 ->  correct
+p(1|xtest1100): 0.9999953741867558, xtest1100 classified as 1 ->  correct
+p(1|xtest1101): 0.9999438798910343, xtest1101 classified as 1 ->  correct
+p(1|xtest1102): 0.9999611288168267, xtest1102 classified as 1 ->  correct
+p(1|xtest1103): 0.9999741506929158, xtest1103 classified as 1 ->  correct
+p(1|xtest1104): 0.999732482212867, xtest1104 classified as 1 ->  correct
+p(1|xtest1105): 0.9999956519404739, xtest1105 classified as 1 ->  correct
+p(1|xtest1106): 0.9999904226151916, xtest1106 classified as 1 ->  correct
+p(1|xtest1107): 0.9999969791139331, xtest1107 classified as 1 ->  correct
+p(1|xtest1108): 0.9996472193690913, xtest1108 classified as 1 ->  correct
+p(1|xtest1109): 0.9999580078985691, xtest1109 classified as 1 ->  correct
+p(1|xtest1110): 0.999946411830621, xtest1110 classified as 1 ->  correct
+p(1|xtest1111): 0.9998853561290156, xtest1111 classified as 1 ->  correct
+p(1|xtest1112): 0.9999835842583723, xtest1112 classified as 1 ->  correct
+p(1|xtest1113): 0.9987398594554406, xtest1113 classified as 1 ->  correct
+p(1|xtest1114): 0.9996381204683277, xtest1114 classified as 1 ->  correct
+p(1|xtest1115): 0.9999142530473414, xtest1115 classified as 1 ->  correct
+p(1|xtest1116): 0.9850006026435996, xtest1116 classified as 1 ->  correct
+p(1|xtest1117): 0.9983386219997833, xtest1117 classified as 1 ->  correct
+p(1|xtest1118): 0.9999355899073751, xtest1118 classified as 1 ->  correct
+p(1|xtest1119): 0.9999990004933652, xtest1119 classified as 1 ->  correct
+p(1|xtest1120): 0.9999580649189523, xtest1120 classified as 1 ->  correct
+p(1|xtest1121): 0.9999583096994233, xtest1121 classified as 1 ->  correct
+p(1|xtest1122): 0.9999933971767359, xtest1122 classified as 1 ->  correct
+p(1|xtest1123): 0.999973608648215, xtest1123 classified as 1 ->  correct
+p(1|xtest1124): 0.999999833376561, xtest1124 classified as 1 ->  correct
+p(1|xtest1125): 0.9999979176453454, xtest1125 classified as 1 ->  correct
+p(1|xtest1126): 0.9995697030656252, xtest1126 classified as 1 ->  correct
+p(1|xtest1127): 0.999875291474202, xtest1127 classified as 1 ->  correct
+p(1|xtest1128): 0.9999817613972556, xtest1128 classified as 1 ->  correct
+p(1|xtest1129): 0.9999998333103726, xtest1129 classified as 1 ->  correct
+p(1|xtest1130): 0.9997411348587169, xtest1130 classified as 1 ->  correct
+p(1|xtest1131): 0.9999896431443984, xtest1131 classified as 1 ->  correct
+p(1|xtest1132): 0.9998368017784282, xtest1132 classified as 1 ->  correct
+p(1|xtest1133): 0.998011887326049, xtest1133 classified as 1 ->  correct
+p(1|xtest1134): 0.9999979068040911, xtest1134 classified as 1 ->  correct
+p(1|xtest1135): 5.4968237326962905E-15, xtest1135 classified as 7 -> correct
+p(1|xtest1136): 2.0677930322959914E-14, xtest1136 classified as 7 -> correct
+p(1|xtest1137): 3.202947861692673E-10, xtest1137 classified as 7 -> correct
+p(1|xtest1138): 1.6122355546707766E-12, xtest1138 classified as 7 -> correct
+p(1|xtest1139): 5.3113560173591424E-11, xtest1139 classified as 7 -> correct
+p(1|xtest1140): 3.4124352041242295E-7, xtest1140 classified as 7 -> correct
+p(1|xtest1141): 1.3047132280207634E-10, xtest1141 classified as 7 -> correct
+p(1|xtest1142): 1.604429582815969E-19, xtest1142 classified as 7 -> correct
+p(1|xtest1143): 4.1052624040750564E-12, xtest1143 classified as 7 -> correct
+p(1|xtest1144): 4.1031830704705695E-8, xtest1144 classified as 7 -> correct
+p(1|xtest1145): 6.338806804072311E-21, xtest1145 classified as 7 -> correct
+p(1|xtest1146): 1.982912671530954E-9, xtest1146 classified as 7 -> correct
+p(1|xtest1147): 2.5778227973259816E-12, xtest1147 classified as 7 -> correct
+p(1|xtest1148): 1.2019723934547655E-13, xtest1148 classified as 7 -> correct
+p(1|xtest1149): 7.101463406713097E-13, xtest1149 classified as 7 -> correct
+p(1|xtest1150): 0.005419997511150198, xtest1150 classified as 7 -> correct
+p(1|xtest1151): 6.842471912129392E-11, xtest1151 classified as 7 -> correct
+p(1|xtest1152): 2.8693861100588766E-6, xtest1152 classified as 7 -> correct
+p(1|xtest1153): 1.3103041753303612E-7, xtest1153 classified as 7 -> correct
+p(1|xtest1154): 2.9422586783989615E-15, xtest1154 classified as 7 -> correct
+p(1|xtest1155): 1.3109368370330611E-9, xtest1155 classified as 7 -> correct
+p(1|xtest1156): 2.3405129404656696E-13, xtest1156 classified as 7 -> correct
+p(1|xtest1157): 1.2178021035204818E-12, xtest1157 classified as 7 -> correct
+p(1|xtest1158): 0.0012178537618388536, xtest1158 classified as 7 -> correct
+p(1|xtest1159): 2.2177171654113955E-15, xtest1159 classified as 7 -> correct
+p(1|xtest1160): 1.5565673827952786E-12, xtest1160 classified as 7 -> correct
+p(1|xtest1161): 1.4739114818198699E-6, xtest1161 classified as 7 -> correct
+p(1|xtest1162): 1.2775340392695697E-6, xtest1162 classified as 7 -> correct
+p(1|xtest1163): 4.5443482018818035E-12, xtest1163 classified as 7 -> correct
+p(1|xtest1164): 3.998673354776491E-11, xtest1164 classified as 7 -> correct
+p(1|xtest1165): 4.138488353630337E-8, xtest1165 classified as 7 -> correct
+p(1|xtest1166): 7.282636464023875E-8, xtest1166 classified as 7 -> correct
+p(1|xtest1167): 2.0383204738928417E-9, xtest1167 classified as 7 -> correct
+p(1|xtest1168): 0.0019972373333646746, xtest1168 classified as 7 -> correct
+p(1|xtest1169): 2.073890435361382E-11, xtest1169 classified as 7 -> correct
+p(1|xtest1170): 1.2974394289020043E-9, xtest1170 classified as 7 -> correct
+p(1|xtest1171): 3.5105582997878827E-7, xtest1171 classified as 7 -> correct
+p(1|xtest1172): 7.1905137687142335E-12, xtest1172 classified as 7 -> correct
+p(1|xtest1173): 3.6407252899206966E-4, xtest1173 classified as 7 -> correct
+p(1|xtest1174): 2.4079818336330953E-11, xtest1174 classified as 7 -> correct
+p(1|xtest1175): 6.513541516043878E-10, xtest1175 classified as 7 -> correct
+p(1|xtest1176): 6.741865727787394E-10, xtest1176 classified as 7 -> correct
+p(1|xtest1177): 1.3156378331517198E-5, xtest1177 classified as 7 -> correct
+p(1|xtest1178): 3.63092070968941E-19, xtest1178 classified as 7 -> correct
+p(1|xtest1179): 5.048761402566118E-13, xtest1179 classified as 7 -> correct
+p(1|xtest1180): 5.287462069670015E-13, xtest1180 classified as 7 -> correct
+p(1|xtest1181): 3.5893946231157465E-13, xtest1181 classified as 7 -> correct
+p(1|xtest1182): 4.044514286388218E-9, xtest1182 classified as 7 -> correct
+p(1|xtest1183): 2.988043680623066E-17, xtest1183 classified as 7 -> correct
+p(1|xtest1184): 3.8770713139167485E-16, xtest1184 classified as 7 -> correct
+p(1|xtest1185): 4.678521484893988E-13, xtest1185 classified as 7 -> correct
+p(1|xtest1186): 1.7163739234736538E-9, xtest1186 classified as 7 -> correct
+p(1|xtest1187): 2.765119208861549E-4, xtest1187 classified as 7 -> correct
+p(1|xtest1188): 4.078469614921975E-12, xtest1188 classified as 7 -> correct
+p(1|xtest1189): 8.167592126764962E-13, xtest1189 classified as 7 -> correct
+p(1|xtest1190): 8.500095677844097E-13, xtest1190 classified as 7 -> correct
+p(1|xtest1191): 1.7425012959748237E-12, xtest1191 classified as 7 -> correct
+p(1|xtest1192): 1.2343126714742335E-6, xtest1192 classified as 7 -> correct
+p(1|xtest1193): 9.640034681032534E-16, xtest1193 classified as 7 -> correct
+p(1|xtest1194): 6.5098243464399E-16, xtest1194 classified as 7 -> correct
+p(1|xtest1195): 5.0313402913881136E-8, xtest1195 classified as 7 -> correct
+p(1|xtest1196): 7.94879790115374E-8, xtest1196 classified as 7 -> correct
+p(1|xtest1197): 1.3760625826168315E-18, xtest1197 classified as 7 -> correct
+p(1|xtest1198): 1.1033430281283863E-12, xtest1198 classified as 7 -> correct
+p(1|xtest1199): 2.5798738948666304E-8, xtest1199 classified as 7 -> correct
+p(1|xtest1200): 0.017892316160997707, xtest1200 classified as 7 -> correct
+p(1|xtest1201): 1.640471645286679E-20, xtest1201 classified as 7 -> correct
+p(1|xtest1202): 1.3529944757176866E-9, xtest1202 classified as 7 -> correct
+p(1|xtest1203): 3.6642857635221007E-4, xtest1203 classified as 7 -> correct
+p(1|xtest1204): 1.1591034698877234E-4, xtest1204 classified as 7 -> correct
+p(1|xtest1205): 4.744183287748117E-7, xtest1205 classified as 7 -> correct
+p(1|xtest1206): 1.4206530764030856E-10, xtest1206 classified as 7 -> correct
+p(1|xtest1207): 2.3913821367255213E-8, xtest1207 classified as 7 -> correct
+p(1|xtest1208): 1.2609209819457533E-7, xtest1208 classified as 7 -> correct
+p(1|xtest1209): 9.274876106394319E-8, xtest1209 classified as 7 -> correct
+p(1|xtest1210): 1.3969049638735624E-7, xtest1210 classified as 7 -> correct
+p(1|xtest1211): 1.1507466168915459E-12, xtest1211 classified as 7 -> correct
+p(1|xtest1212): 8.503003575710253E-17, xtest1212 classified as 7 -> correct
+p(1|xtest1213): 3.9518409643822867E-10, xtest1213 classified as 7 -> correct
+p(1|xtest1214): 2.4612246654579246E-14, xtest1214 classified as 7 -> correct
+p(1|xtest1215): 1.3041621592729914E-14, xtest1215 classified as 7 -> correct
+p(1|xtest1216): 4.0127413508691266E-10, xtest1216 classified as 7 -> correct
+p(1|xtest1217): 1.5699061608293483E-12, xtest1217 classified as 7 -> correct
+p(1|xtest1218): 7.264287420300615E-8, xtest1218 classified as 7 -> correct
+p(1|xtest1219): 1.1775045956439341E-14, xtest1219 classified as 7 -> correct
+p(1|xtest1220): 1.3451352187209598E-8, xtest1220 classified as 7 -> correct
+p(1|xtest1221): 4.230903260150051E-9, xtest1221 classified as 7 -> correct
+p(1|xtest1222): 4.6603891949767595E-8, xtest1222 classified as 7 -> correct
+p(1|xtest1223): 2.0015530640134333E-10, xtest1223 classified as 7 -> correct
+p(1|xtest1224): 1.8344803052169805E-9, xtest1224 classified as 7 -> correct
+p(1|xtest1225): 1.8856608902489036E-6, xtest1225 classified as 7 -> correct
+p(1|xtest1226): 6.255077681345495E-16, xtest1226 classified as 7 -> correct
+p(1|xtest1227): 1.4433288608583816E-8, xtest1227 classified as 7 -> correct
+p(1|xtest1228): 4.706976514073359E-8, xtest1228 classified as 7 -> correct
+p(1|xtest1229): 2.499296509583997E-16, xtest1229 classified as 7 -> correct
+p(1|xtest1230): 6.896691091959884E-7, xtest1230 classified as 7 -> correct
+p(1|xtest1231): 3.212403496044655E-11, xtest1231 classified as 7 -> correct
+p(1|xtest1232): 6.444965364578066E-5, xtest1232 classified as 7 -> correct
+p(1|xtest1233): 5.8183457945996056E-9, xtest1233 classified as 7 -> correct
+p(1|xtest1234): 6.891649095848178E-12, xtest1234 classified as 7 -> correct
+p(1|xtest1235): 1.4796230240463288E-6, xtest1235 classified as 7 -> correct
+p(1|xtest1236): 4.144154369977186E-9, xtest1236 classified as 7 -> correct
+p(1|xtest1237): 0.024304891012668556, xtest1237 classified as 7 -> correct
+p(1|xtest1238): 1.2107248400344495E-13, xtest1238 classified as 7 -> correct
+p(1|xtest1239): 1.4754526838429176E-10, xtest1239 classified as 7 -> correct
+p(1|xtest1240): 1.9380459818811266E-10, xtest1240 classified as 7 -> correct
+p(1|xtest1241): 2.120877958186363E-18, xtest1241 classified as 7 -> correct
+p(1|xtest1242): 9.536387919176344E-17, xtest1242 classified as 7 -> correct
+p(1|xtest1243): 5.014188059617548E-12, xtest1243 classified as 7 -> correct
+p(1|xtest1244): 8.829473187730962E-11, xtest1244 classified as 7 -> correct
+p(1|xtest1245): 9.163393604085664E-8, xtest1245 classified as 7 -> correct
+p(1|xtest1246): 2.8660004691354153E-13, xtest1246 classified as 7 -> correct
+p(1|xtest1247): 3.588265624276662E-5, xtest1247 classified as 7 -> correct
+p(1|xtest1248): 6.021570010058993E-17, xtest1248 classified as 7 -> correct
+p(1|xtest1249): 1.670143292322431E-10, xtest1249 classified as 7 -> correct
+p(1|xtest1250): 1.4324863236063654E-10, xtest1250 classified as 7 -> correct
+p(1|xtest1251): 1.4077381067543174E-17, xtest1251 classified as 7 -> correct
+p(1|xtest1252): 4.597962736635864E-7, xtest1252 classified as 7 -> correct
+p(1|xtest1253): 1.793182505416566E-19, xtest1253 classified as 7 -> correct
+p(1|xtest1254): 5.939310771669698E-7, xtest1254 classified as 7 -> correct
+p(1|xtest1255): 5.135745667216992E-9, xtest1255 classified as 7 -> correct
+p(1|xtest1256): 1.553734552507681E-13, xtest1256 classified as 7 -> correct
+p(1|xtest1257): 1.944007841359623E-11, xtest1257 classified as 7 -> correct
+p(1|xtest1258): 1.6198356533195648E-14, xtest1258 classified as 7 -> correct
+p(1|xtest1259): 5.630306175683584E-6, xtest1259 classified as 7 -> correct
+p(1|xtest1260): 1.0023552829518207E-5, xtest1260 classified as 7 -> correct
+p(1|xtest1261): 0.9981821851084999, xtest1261 classified as 1 -> WRONG!
+p(1|xtest1262): 1.0603627851032619E-9, xtest1262 classified as 7 -> correct
+p(1|xtest1263): 2.8534275622720245E-9, xtest1263 classified as 7 -> correct
+p(1|xtest1264): 0.00896355553157298, xtest1264 classified as 7 -> correct
+p(1|xtest1265): 3.364373708832664E-18, xtest1265 classified as 7 -> correct
+p(1|xtest1266): 5.6178880655091E-7, xtest1266 classified as 7 -> correct
+p(1|xtest1267): 2.3009327027813077E-8, xtest1267 classified as 7 -> correct
+p(1|xtest1268): 0.01409709419019383, xtest1268 classified as 7 -> correct
+p(1|xtest1269): 2.127691765379641E-14, xtest1269 classified as 7 -> correct
+p(1|xtest1270): 1.8036685462532082E-6, xtest1270 classified as 7 -> correct
+p(1|xtest1271): 6.74633905779535E-12, xtest1271 classified as 7 -> correct
+p(1|xtest1272): 3.264523077543538E-5, xtest1272 classified as 7 -> correct
+p(1|xtest1273): 1.7089729695399847E-11, xtest1273 classified as 7 -> correct
+p(1|xtest1274): 5.159803800224629E-8, xtest1274 classified as 7 -> correct
+p(1|xtest1275): 2.088538016640236E-7, xtest1275 classified as 7 -> correct
+p(1|xtest1276): 1.716401722116605E-4, xtest1276 classified as 7 -> correct
+p(1|xtest1277): 1.0321378319522236E-14, xtest1277 classified as 7 -> correct
+p(1|xtest1278): 3.6500422385650266E-22, xtest1278 classified as 7 -> correct
+p(1|xtest1279): 7.175516879676281E-11, xtest1279 classified as 7 -> correct
+p(1|xtest1280): 2.324922554663284E-10, xtest1280 classified as 7 -> correct
+p(1|xtest1281): 4.011405911802516E-9, xtest1281 classified as 7 -> correct
+p(1|xtest1282): 1.417451287521422E-11, xtest1282 classified as 7 -> correct
+p(1|xtest1283): 1.3243903386419474E-11, xtest1283 classified as 7 -> correct
+p(1|xtest1284): 4.506965593497271E-16, xtest1284 classified as 7 -> correct
+p(1|xtest1285): 0.9674836271285339, xtest1285 classified as 1 -> WRONG!
+p(1|xtest1286): 1.808472076892474E-6, xtest1286 classified as 7 -> correct
+p(1|xtest1287): 1.1191961620076568E-5, xtest1287 classified as 7 -> correct
+p(1|xtest1288): 3.1226215624558273E-15, xtest1288 classified as 7 -> correct
+p(1|xtest1289): 0.06858980728322868, xtest1289 classified as 7 -> correct
+p(1|xtest1290): 1.5192403682397805E-6, xtest1290 classified as 7 -> correct
+p(1|xtest1291): 5.205739523412764E-20, xtest1291 classified as 7 -> correct
+p(1|xtest1292): 2.49232037610042E-9, xtest1292 classified as 7 -> correct
+p(1|xtest1293): 2.770580267370777E-13, xtest1293 classified as 7 -> correct
+p(1|xtest1294): 1.8122951744867895E-10, xtest1294 classified as 7 -> correct
+p(1|xtest1295): 3.060667921411408E-6, xtest1295 classified as 7 -> correct
+p(1|xtest1296): 6.348428667000188E-10, xtest1296 classified as 7 -> correct
+p(1|xtest1297): 8.375706433834052E-9, xtest1297 classified as 7 -> correct
+p(1|xtest1298): 2.2430200841455944E-8, xtest1298 classified as 7 -> correct
+p(1|xtest1299): 4.239973220322016E-12, xtest1299 classified as 7 -> correct
+p(1|xtest1300): 1.7736780301463457E-18, xtest1300 classified as 7 -> correct
+p(1|xtest1301): 2.9040542952407058E-9, xtest1301 classified as 7 -> correct
+p(1|xtest1302): 3.834768459334149E-5, xtest1302 classified as 7 -> correct
+p(1|xtest1303): 3.1973260036785986E-6, xtest1303 classified as 7 -> correct
+p(1|xtest1304): 2.7497813134079583E-13, xtest1304 classified as 7 -> correct
+p(1|xtest1305): 1.0356617007189024E-4, xtest1305 classified as 7 -> correct
+p(1|xtest1306): 1.0128822633074162E-9, xtest1306 classified as 7 -> correct
+p(1|xtest1307): 7.696348861691962E-9, xtest1307 classified as 7 -> correct
+p(1|xtest1308): 0.020401524013782625, xtest1308 classified as 7 -> correct
+p(1|xtest1309): 1.6372190701047074E-18, xtest1309 classified as 7 -> correct
+p(1|xtest1310): 3.982494511511951E-5, xtest1310 classified as 7 -> correct
+p(1|xtest1311): 7.384888153998506E-24, xtest1311 classified as 7 -> correct
+p(1|xtest1312): 3.7604291405211263E-6, xtest1312 classified as 7 -> correct
+p(1|xtest1313): 2.4173302343563314E-6, xtest1313 classified as 7 -> correct
+p(1|xtest1314): 0.5654925235694322, xtest1314 classified as 1 -> WRONG!
+p(1|xtest1315): 1.8722943409276564E-9, xtest1315 classified as 7 -> correct
+p(1|xtest1316): 5.131029762547295E-6, xtest1316 classified as 7 -> correct
+p(1|xtest1317): 1.6925199649965215E-8, xtest1317 classified as 7 -> correct
+p(1|xtest1318): 3.2327817032702025E-12, xtest1318 classified as 7 -> correct
+p(1|xtest1319): 4.6049996617146985E-9, xtest1319 classified as 7 -> correct
+p(1|xtest1320): 3.851299661531894E-15, xtest1320 classified as 7 -> correct
+p(1|xtest1321): 2.0459503622933008E-11, xtest1321 classified as 7 -> correct
+p(1|xtest1322): 2.197455397794154E-10, xtest1322 classified as 7 -> correct
+p(1|xtest1323): 1.2656312306378963E-5, xtest1323 classified as 7 -> correct
+p(1|xtest1324): 2.534057561120732E-4, xtest1324 classified as 7 -> correct
+p(1|xtest1325): 1.1112490896528413E-9, xtest1325 classified as 7 -> correct
+p(1|xtest1326): 8.146498149806718E-11, xtest1326 classified as 7 -> correct
+p(1|xtest1327): 2.766385904595396E-13, xtest1327 classified as 7 -> correct
+p(1|xtest1328): 3.6103077468414727E-12, xtest1328 classified as 7 -> correct
+p(1|xtest1329): 5.4638986702778114E-8, xtest1329 classified as 7 -> correct
+p(1|xtest1330): 0.18508820745796628, xtest1330 classified as 7 -> correct
+p(1|xtest1331): 1.923436041552135E-11, xtest1331 classified as 7 -> correct
+p(1|xtest1332): 2.987069029740294E-11, xtest1332 classified as 7 -> correct
+p(1|xtest1333): 1.0576647195597684E-11, xtest1333 classified as 7 -> correct
+p(1|xtest1334): 6.313655548160069E-8, xtest1334 classified as 7 -> correct
+p(1|xtest1335): 4.509120215440671E-11, xtest1335 classified as 7 -> correct
+p(1|xtest1336): 3.771013278476512E-10, xtest1336 classified as 7 -> correct
+p(1|xtest1337): 3.075638456966415E-10, xtest1337 classified as 7 -> correct
+p(1|xtest1338): 3.706612815394681E-15, xtest1338 classified as 7 -> correct
+p(1|xtest1339): 1.018605661955619E-10, xtest1339 classified as 7 -> correct
+p(1|xtest1340): 3.7198023982406604E-8, xtest1340 classified as 7 -> correct
+p(1|xtest1341): 1.1685625289390401E-6, xtest1341 classified as 7 -> correct
+p(1|xtest1342): 2.9741570555421907E-7, xtest1342 classified as 7 -> correct
+p(1|xtest1343): 7.727978111295963E-14, xtest1343 classified as 7 -> correct
+p(1|xtest1344): 5.834854760223774E-11, xtest1344 classified as 7 -> correct
+p(1|xtest1345): 9.816240792837852E-6, xtest1345 classified as 7 -> correct
+p(1|xtest1346): 0.1958385000900945, xtest1346 classified as 7 -> correct
+p(1|xtest1347): 0.0023420846491288313, xtest1347 classified as 7 -> correct
+p(1|xtest1348): 1.1972461675164467E-9, xtest1348 classified as 7 -> correct
+p(1|xtest1349): 2.7427960917209815E-13, xtest1349 classified as 7 -> correct
+p(1|xtest1350): 3.1263375482498186E-14, xtest1350 classified as 7 -> correct
+p(1|xtest1351): 1.2941598700667168E-22, xtest1351 classified as 7 -> correct
+p(1|xtest1352): 3.6923580232234814E-7, xtest1352 classified as 7 -> correct
+p(1|xtest1353): 2.5988361151515447E-10, xtest1353 classified as 7 -> correct
+p(1|xtest1354): 1.1816512682847668E-8, xtest1354 classified as 7 -> correct
+p(1|xtest1355): 1.7424057525324335E-10, xtest1355 classified as 7 -> correct
+p(1|xtest1356): 4.280505200390268E-11, xtest1356 classified as 7 -> correct
+p(1|xtest1357): 6.832084291881599E-14, xtest1357 classified as 7 -> correct
+p(1|xtest1358): 1.0396289530982051E-18, xtest1358 classified as 7 -> correct
+p(1|xtest1359): 1.5323794659502029E-9, xtest1359 classified as 7 -> correct
+p(1|xtest1360): 1.8869804126494765E-16, xtest1360 classified as 7 -> correct
+p(1|xtest1361): 1.0808102756887837E-13, xtest1361 classified as 7 -> correct
+p(1|xtest1362): 2.0291042186515265E-14, xtest1362 classified as 7 -> correct
+p(1|xtest1363): 5.1171464798521064E-12, xtest1363 classified as 7 -> correct
+p(1|xtest1364): 6.413904392412572E-5, xtest1364 classified as 7 -> correct
+p(1|xtest1365): 1.1121435002342264E-6, xtest1365 classified as 7 -> correct
+p(1|xtest1366): 2.1341685173987484E-7, xtest1366 classified as 7 -> correct
+p(1|xtest1367): 1.8810046385839497E-15, xtest1367 classified as 7 -> correct
+p(1|xtest1368): 3.843592221187328E-13, xtest1368 classified as 7 -> correct
+p(1|xtest1369): 1.8529486306723822E-9, xtest1369 classified as 7 -> correct
+p(1|xtest1370): 6.726353019015865E-14, xtest1370 classified as 7 -> correct
+p(1|xtest1371): 1.3829931377411572E-10, xtest1371 classified as 7 -> correct
+p(1|xtest1372): 5.863324706125563E-10, xtest1372 classified as 7 -> correct
+p(1|xtest1373): 1.6013239741310077E-10, xtest1373 classified as 7 -> correct
+p(1|xtest1374): 3.9139477794383345E-13, xtest1374 classified as 7 -> correct
+p(1|xtest1375): 8.01164614051718E-11, xtest1375 classified as 7 -> correct
+p(1|xtest1376): 0.006938435628164721, xtest1376 classified as 7 -> correct
+p(1|xtest1377): 9.430245399488306E-13, xtest1377 classified as 7 -> correct
+p(1|xtest1378): 5.761601589695954E-10, xtest1378 classified as 7 -> correct
+p(1|xtest1379): 2.557289791636635E-7, xtest1379 classified as 7 -> correct
+p(1|xtest1380): 5.221966358996051E-12, xtest1380 classified as 7 -> correct
+p(1|xtest1381): 5.547620048271381E-11, xtest1381 classified as 7 -> correct
+p(1|xtest1382): 1.1582261995526531E-9, xtest1382 classified as 7 -> correct
+p(1|xtest1383): 3.7242862069878905E-14, xtest1383 classified as 7 -> correct
+p(1|xtest1384): 2.384755365424109E-10, xtest1384 classified as 7 -> correct
+p(1|xtest1385): 1.9821629684319236E-16, xtest1385 classified as 7 -> correct
+p(1|xtest1386): 2.2759785632521924E-6, xtest1386 classified as 7 -> correct
+p(1|xtest1387): 1.4775163855312237E-9, xtest1387 classified as 7 -> correct
+p(1|xtest1388): 0.0031183251523674875, xtest1388 classified as 7 -> correct
+p(1|xtest1389): 7.84675182807834E-12, xtest1389 classified as 7 -> correct
+p(1|xtest1390): 3.888527773601304E-6, xtest1390 classified as 7 -> correct
+p(1|xtest1391): 1.5900091320688177E-4, xtest1391 classified as 7 -> correct
+p(1|xtest1392): 9.380983603983334E-18, xtest1392 classified as 7 -> correct
+p(1|xtest1393): 5.755246916863553E-6, xtest1393 classified as 7 -> correct
+p(1|xtest1394): 1.0094985413634396E-10, xtest1394 classified as 7 -> correct
+p(1|xtest1395): 9.04552162646052E-16, xtest1395 classified as 7 -> correct
+p(1|xtest1396): 1.7243421018858257E-9, xtest1396 classified as 7 -> correct
+p(1|xtest1397): 1.544825945750059E-11, xtest1397 classified as 7 -> correct
+p(1|xtest1398): 6.080984537495921E-18, xtest1398 classified as 7 -> correct
+p(1|xtest1399): 7.752584891049491E-11, xtest1399 classified as 7 -> correct
+p(1|xtest1400): 9.40055904844297E-4, xtest1400 classified as 7 -> correct
+p(1|xtest1401): 3.9141895234892334E-10, xtest1401 classified as 7 -> correct
+p(1|xtest1402): 4.810075811626743E-12, xtest1402 classified as 7 -> correct
+p(1|xtest1403): 1.1354640013411097E-8, xtest1403 classified as 7 -> correct
+p(1|xtest1404): 5.417884538835931E-4, xtest1404 classified as 7 -> correct
+p(1|xtest1405): 3.233916678744625E-14, xtest1405 classified as 7 -> correct
+p(1|xtest1406): 4.457322272190375E-10, xtest1406 classified as 7 -> correct
+p(1|xtest1407): 1.5377930647206978E-12, xtest1407 classified as 7 -> correct
+p(1|xtest1408): 4.613519666969875E-9, xtest1408 classified as 7 -> correct
+p(1|xtest1409): 0.01599526507355746, xtest1409 classified as 7 -> correct
+p(1|xtest1410): 1.317092838376417E-7, xtest1410 classified as 7 -> correct
+p(1|xtest1411): 4.131121719327038E-8, xtest1411 classified as 7 -> correct
+p(1|xtest1412): 1.8273223420361709E-7, xtest1412 classified as 7 -> correct
+p(1|xtest1413): 5.405516980046981E-10, xtest1413 classified as 7 -> correct
+p(1|xtest1414): 4.0459859474199387E-7, xtest1414 classified as 7 -> correct
+p(1|xtest1415): 3.311757377056377E-8, xtest1415 classified as 7 -> correct
+p(1|xtest1416): 4.57501970528018E-13, xtest1416 classified as 7 -> correct
+p(1|xtest1417): 8.640932889776438E-4, xtest1417 classified as 7 -> correct
+p(1|xtest1418): 7.982462405162337E-10, xtest1418 classified as 7 -> correct
+p(1|xtest1419): 6.489285540393002E-8, xtest1419 classified as 7 -> correct
+p(1|xtest1420): 6.740796838484237E-4, xtest1420 classified as 7 -> correct
+p(1|xtest1421): 9.971625527766253E-12, xtest1421 classified as 7 -> correct
+p(1|xtest1422): 1.4612055553573316E-13, xtest1422 classified as 7 -> correct
+p(1|xtest1423): 3.297683567762696E-9, xtest1423 classified as 7 -> correct
+p(1|xtest1424): 1.2969880369463738E-12, xtest1424 classified as 7 -> correct
+p(1|xtest1425): 7.323007913448712E-5, xtest1425 classified as 7 -> correct
+p(1|xtest1426): 1.574006977036931E-10, xtest1426 classified as 7 -> correct
+p(1|xtest1427): 5.4392694968317924E-15, xtest1427 classified as 7 -> correct
+p(1|xtest1428): 2.7609748163300885E-9, xtest1428 classified as 7 -> correct
+p(1|xtest1429): 9.105193634452176E-16, xtest1429 classified as 7 -> correct
+p(1|xtest1430): 5.505190157485426E-15, xtest1430 classified as 7 -> correct
+p(1|xtest1431): 8.13789393344347E-13, xtest1431 classified as 7 -> correct
+p(1|xtest1432): 4.623374808754174E-14, xtest1432 classified as 7 -> correct
+p(1|xtest1433): 9.231872150919754E-11, xtest1433 classified as 7 -> correct
+p(1|xtest1434): 1.7174491876171677E-9, xtest1434 classified as 7 -> correct
+p(1|xtest1435): 5.0033133039515503E-11, xtest1435 classified as 7 -> correct
+p(1|xtest1436): 1.0623717832680957E-6, xtest1436 classified as 7 -> correct
+p(1|xtest1437): 4.326466688523604E-7, xtest1437 classified as 7 -> correct
+p(1|xtest1438): 2.2361742166613994E-14, xtest1438 classified as 7 -> correct
+p(1|xtest1439): 2.6830787043288413E-12, xtest1439 classified as 7 -> correct
+p(1|xtest1440): 3.163749868099795E-11, xtest1440 classified as 7 -> correct
+p(1|xtest1441): 1.8004255846567034E-7, xtest1441 classified as 7 -> correct
+p(1|xtest1442): 6.39263660484368E-10, xtest1442 classified as 7 -> correct
+p(1|xtest1443): 9.447783560807575E-8, xtest1443 classified as 7 -> correct
+p(1|xtest1444): 7.344827780207328E-7, xtest1444 classified as 7 -> correct
+p(1|xtest1445): 2.533997529833884E-12, xtest1445 classified as 7 -> correct
+p(1|xtest1446): 2.0075276784926933E-7, xtest1446 classified as 7 -> correct
+p(1|xtest1447): 8.086599392061712E-7, xtest1447 classified as 7 -> correct
+p(1|xtest1448): 8.079370488134302E-12, xtest1448 classified as 7 -> correct
+p(1|xtest1449): 1.809450776981571E-15, xtest1449 classified as 7 -> correct
+p(1|xtest1450): 1.6098475629868355E-10, xtest1450 classified as 7 -> correct
+p(1|xtest1451): 3.0236102444941455E-11, xtest1451 classified as 7 -> correct
+p(1|xtest1452): 5.885202205986293E-20, xtest1452 classified as 7 -> correct
+p(1|xtest1453): 1.6349476743677673E-5, xtest1453 classified as 7 -> correct
+p(1|xtest1454): 2.0136927071699137E-22, xtest1454 classified as 7 -> correct
+p(1|xtest1455): 0.001255080374456395, xtest1455 classified as 7 -> correct
+p(1|xtest1456): 5.7573297538322956E-11, xtest1456 classified as 7 -> correct
+p(1|xtest1457): 9.421564209957908E-10, xtest1457 classified as 7 -> correct
+p(1|xtest1458): 4.906605600751334E-13, xtest1458 classified as 7 -> correct
+p(1|xtest1459): 5.634788249624638E-4, xtest1459 classified as 7 -> correct
+p(1|xtest1460): 3.8215435114303374E-12, xtest1460 classified as 7 -> correct
+p(1|xtest1461): 4.076479706278389E-9, xtest1461 classified as 7 -> correct
+p(1|xtest1462): 7.897701728131016E-6, xtest1462 classified as 7 -> correct
+p(1|xtest1463): 9.487538663098804E-13, xtest1463 classified as 7 -> correct
+p(1|xtest1464): 3.8982627681933396E-6, xtest1464 classified as 7 -> correct
+p(1|xtest1465): 5.7798357983891955E-12, xtest1465 classified as 7 -> correct
+p(1|xtest1466): 1.3989937302936297E-11, xtest1466 classified as 7 -> correct
+p(1|xtest1467): 2.24190976908756E-10, xtest1467 classified as 7 -> correct
+p(1|xtest1468): 9.003349405364221E-4, xtest1468 classified as 7 -> correct
+p(1|xtest1469): 0.10429567921854781, xtest1469 classified as 7 -> correct
+p(1|xtest1470): 6.864979727409868E-7, xtest1470 classified as 7 -> correct
+p(1|xtest1471): 0.019503954131040984, xtest1471 classified as 7 -> correct
+p(1|xtest1472): 4.9315886008466584E-8, xtest1472 classified as 7 -> correct
+p(1|xtest1473): 1.355059967760686E-13, xtest1473 classified as 7 -> correct
+p(1|xtest1474): 2.8114322497072387E-15, xtest1474 classified as 7 -> correct
+p(1|xtest1475): 4.9741724490644315E-17, xtest1475 classified as 7 -> correct
+p(1|xtest1476): 3.749158988268169E-14, xtest1476 classified as 7 -> correct
+p(1|xtest1477): 2.6151545364022954E-14, xtest1477 classified as 7 -> correct
+p(1|xtest1478): 9.833419388027822E-9, xtest1478 classified as 7 -> correct
+p(1|xtest1479): 1.7907081257829122E-11, xtest1479 classified as 7 -> correct
+p(1|xtest1480): 5.568287153838797E-9, xtest1480 classified as 7 -> correct
+p(1|xtest1481): 4.7630926665886034E-11, xtest1481 classified as 7 -> correct
+p(1|xtest1482): 1.4285476785191137E-11, xtest1482 classified as 7 -> correct
+p(1|xtest1483): 4.937256613606346E-13, xtest1483 classified as 7 -> correct
+p(1|xtest1484): 9.512088783700068E-17, xtest1484 classified as 7 -> correct
+p(1|xtest1485): 1.3387692156079501E-10, xtest1485 classified as 7 -> correct
+p(1|xtest1486): 3.3175781129333376E-9, xtest1486 classified as 7 -> correct
+p(1|xtest1487): 2.955040001957418E-21, xtest1487 classified as 7 -> correct
+p(1|xtest1488): 9.539314434884292E-7, xtest1488 classified as 7 -> correct
+p(1|xtest1489): 3.0726022607682442E-6, xtest1489 classified as 7 -> correct
+p(1|xtest1490): 1.650695081404346E-9, xtest1490 classified as 7 -> correct
+p(1|xtest1491): 6.391571507889297E-17, xtest1491 classified as 7 -> correct
+p(1|xtest1492): 1.5905106635017653E-11, xtest1492 classified as 7 -> correct
+p(1|xtest1493): 8.426964856700673E-5, xtest1493 classified as 7 -> correct
+p(1|xtest1494): 1.7481102886554575E-14, xtest1494 classified as 7 -> correct
+p(1|xtest1495): 1.4673378639122109E-9, xtest1495 classified as 7 -> correct
+p(1|xtest1496): 3.830979402965572E-19, xtest1496 classified as 7 -> correct
+p(1|xtest1497): 2.1892750230565744E-5, xtest1497 classified as 7 -> correct
+p(1|xtest1498): 5.4387479640716E-5, xtest1498 classified as 7 -> correct
+p(1|xtest1499): 3.139187862072357E-14, xtest1499 classified as 7 -> correct
+p(1|xtest1500): 1.388257643230294E-5, xtest1500 classified as 7 -> correct
+p(1|xtest1501): 1.9091971037832883E-8, xtest1501 classified as 7 -> correct
+p(1|xtest1502): 4.4906910463123595E-5, xtest1502 classified as 7 -> correct
+p(1|xtest1503): 2.5050100496223337E-18, xtest1503 classified as 7 -> correct
+p(1|xtest1504): 6.823201030311596E-19, xtest1504 classified as 7 -> correct
+p(1|xtest1505): 2.1083169774660178E-8, xtest1505 classified as 7 -> correct
+p(1|xtest1506): 9.2452078050846E-14, xtest1506 classified as 7 -> correct
+p(1|xtest1507): 8.485991167979189E-13, xtest1507 classified as 7 -> correct
+p(1|xtest1508): 0.0057188379162169565, xtest1508 classified as 7 -> correct
+p(1|xtest1509): 1.2303662353702527E-10, xtest1509 classified as 7 -> correct
+p(1|xtest1510): 3.138275539225654E-9, xtest1510 classified as 7 -> correct
+p(1|xtest1511): 1.1762231422122228E-10, xtest1511 classified as 7 -> correct
+p(1|xtest1512): 5.326943758157831E-11, xtest1512 classified as 7 -> correct
+p(1|xtest1513): 3.7356203655422415E-9, xtest1513 classified as 7 -> correct
+p(1|xtest1514): 2.443959831920017E-5, xtest1514 classified as 7 -> correct
+p(1|xtest1515): 2.3684043667527213E-8, xtest1515 classified as 7 -> correct
+p(1|xtest1516): 2.6061650996958657E-12, xtest1516 classified as 7 -> correct
+p(1|xtest1517): 6.2618478374759955E-15, xtest1517 classified as 7 -> correct
+p(1|xtest1518): 2.2433965682476923E-12, xtest1518 classified as 7 -> correct
+p(1|xtest1519): 4.4952659536131916E-13, xtest1519 classified as 7 -> correct
+p(1|xtest1520): 1.4145881036693757E-17, xtest1520 classified as 7 -> correct
+p(1|xtest1521): 6.083231617420937E-17, xtest1521 classified as 7 -> correct
+p(1|xtest1522): 5.438952709992952E-7, xtest1522 classified as 7 -> correct
+p(1|xtest1523): 1.8248063071191906E-9, xtest1523 classified as 7 -> correct
+p(1|xtest1524): 1.6297317163198091E-12, xtest1524 classified as 7 -> correct
+p(1|xtest1525): 5.196332922828548E-6, xtest1525 classified as 7 -> correct
+p(1|xtest1526): 1.9797371774580476E-14, xtest1526 classified as 7 -> correct
+p(1|xtest1527): 4.912979267153854E-6, xtest1527 classified as 7 -> correct
+p(1|xtest1528): 6.68192993476083E-14, xtest1528 classified as 7 -> correct
+p(1|xtest1529): 0.01432399317253642, xtest1529 classified as 7 -> correct
+p(1|xtest1530): 1.9001946605293033E-9, xtest1530 classified as 7 -> correct
+p(1|xtest1531): 8.125201335950246E-5, xtest1531 classified as 7 -> correct
+p(1|xtest1532): 2.3065980895355226E-16, xtest1532 classified as 7 -> correct
+p(1|xtest1533): 0.8119331545312386, xtest1533 classified as 1 -> WRONG!
+p(1|xtest1534): 1.993278006242117E-10, xtest1534 classified as 7 -> correct
+p(1|xtest1535): 0.37659027058087724, xtest1535 classified as 7 -> correct
+p(1|xtest1536): 1.3732774839172396E-11, xtest1536 classified as 7 -> correct
+p(1|xtest1537): 5.505370688188596E-7, xtest1537 classified as 7 -> correct
+p(1|xtest1538): 0.001319920935338361, xtest1538 classified as 7 -> correct
+p(1|xtest1539): 4.05844194476018E-12, xtest1539 classified as 7 -> correct
+p(1|xtest1540): 4.08201334034067E-12, xtest1540 classified as 7 -> correct
+p(1|xtest1541): 2.542537185242365E-7, xtest1541 classified as 7 -> correct
+p(1|xtest1542): 2.6181263338788143E-12, xtest1542 classified as 7 -> correct
+p(1|xtest1543): 0.1825939589417304, xtest1543 classified as 7 -> correct
+p(1|xtest1544): 3.547360553641024E-13, xtest1544 classified as 7 -> correct
+p(1|xtest1545): 2.2170917348343402E-13, xtest1545 classified as 7 -> correct
+p(1|xtest1546): 2.4094308599624027E-4, xtest1546 classified as 7 -> correct
+p(1|xtest1547): 0.2580243937292913, xtest1547 classified as 7 -> correct
+p(1|xtest1548): 1.8676601914618628E-7, xtest1548 classified as 7 -> correct
+p(1|xtest1549): 1.8387398532225766E-11, xtest1549 classified as 7 -> correct
+p(1|xtest1550): 1.2463873947121954E-5, xtest1550 classified as 7 -> correct
+p(1|xtest1551): 1.1484262187745458E-10, xtest1551 classified as 7 -> correct
+p(1|xtest1552): 4.862507392846471E-14, xtest1552 classified as 7 -> correct
+p(1|xtest1553): 1.0017280268398301E-13, xtest1553 classified as 7 -> correct
+p(1|xtest1554): 1.3199107995758015E-15, xtest1554 classified as 7 -> correct
+p(1|xtest1555): 1.671226216906051E-17, xtest1555 classified as 7 -> correct
+p(1|xtest1556): 1.8896663665591153E-21, xtest1556 classified as 7 -> correct
+p(1|xtest1557): 3.1125249539071735E-10, xtest1557 classified as 7 -> correct
+p(1|xtest1558): 1.8357615350555036E-9, xtest1558 classified as 7 -> correct
+p(1|xtest1559): 1.5104868534314497E-8, xtest1559 classified as 7 -> correct
+p(1|xtest1560): 2.3469143884912303E-14, xtest1560 classified as 7 -> correct
+p(1|xtest1561): 3.78871621903247E-22, xtest1561 classified as 7 -> correct
+p(1|xtest1562): 9.076508738816257E-9, xtest1562 classified as 7 -> correct
+p(1|xtest1563): 7.510337176271388E-18, xtest1563 classified as 7 -> correct
+p(1|xtest1564): 4.777112093608056E-9, xtest1564 classified as 7 -> correct
+p(1|xtest1565): 0.12092281159999617, xtest1565 classified as 7 -> correct
+p(1|xtest1566): 7.349310424976625E-9, xtest1566 classified as 7 -> correct
+p(1|xtest1567): 1.041117736361492E-9, xtest1567 classified as 7 -> correct
+p(1|xtest1568): 3.8460638667193324E-13, xtest1568 classified as 7 -> correct
+p(1|xtest1569): 1.460053918280916E-15, xtest1569 classified as 7 -> correct
+p(1|xtest1570): 1.0586048307170188E-9, xtest1570 classified as 7 -> correct
+p(1|xtest1571): 1.484481724590735E-7, xtest1571 classified as 7 -> correct
+p(1|xtest1572): 7.160729234984787E-7, xtest1572 classified as 7 -> correct
+p(1|xtest1573): 0.015314070024757648, xtest1573 classified as 7 -> correct
+p(1|xtest1574): 2.8175569826208144E-12, xtest1574 classified as 7 -> correct
+p(1|xtest1575): 1.1059661345270032E-8, xtest1575 classified as 7 -> correct
+p(1|xtest1576): 7.823204931690212E-12, xtest1576 classified as 7 -> correct
+p(1|xtest1577): 0.17151672713176194, xtest1577 classified as 7 -> correct
+p(1|xtest1578): 2.776002024065441E-10, xtest1578 classified as 7 -> correct
+p(1|xtest1579): 1.2590412776775065E-4, xtest1579 classified as 7 -> correct
+p(1|xtest1580): 8.428660251320402E-7, xtest1580 classified as 7 -> correct
+p(1|xtest1581): 1.8200996197085697E-14, xtest1581 classified as 7 -> correct
+p(1|xtest1582): 1.1795635646735422E-11, xtest1582 classified as 7 -> correct
+p(1|xtest1583): 1.4089259015752653E-11, xtest1583 classified as 7 -> correct
+p(1|xtest1584): 1.046809853610108E-14, xtest1584 classified as 7 -> correct
+p(1|xtest1585): 8.672984561276027E-12, xtest1585 classified as 7 -> correct
+p(1|xtest1586): 7.698858173903656E-19, xtest1586 classified as 7 -> correct
+p(1|xtest1587): 4.76756177144209E-18, xtest1587 classified as 7 -> correct
+p(1|xtest1588): 4.3969965495562793E-7, xtest1588 classified as 7 -> correct
+p(1|xtest1589): 3.8758591319242397E-13, xtest1589 classified as 7 -> correct
+p(1|xtest1590): 8.250562425376667E-10, xtest1590 classified as 7 -> correct
+p(1|xtest1591): 1.2279472810743517E-7, xtest1591 classified as 7 -> correct
+p(1|xtest1592): 2.6816386894723225E-17, xtest1592 classified as 7 -> correct
+p(1|xtest1593): 2.3941765001422793E-10, xtest1593 classified as 7 -> correct
+p(1|xtest1594): 4.1866209371226507E-7, xtest1594 classified as 7 -> correct
+p(1|xtest1595): 9.374502377022592E-9, xtest1595 classified as 7 -> correct
+p(1|xtest1596): 2.0062047660653732E-5, xtest1596 classified as 7 -> correct
+p(1|xtest1597): 1.310623035469291E-8, xtest1597 classified as 7 -> correct
+p(1|xtest1598): 1.8888076406085214E-5, xtest1598 classified as 7 -> correct
+p(1|xtest1599): 1.680348321614256E-8, xtest1599 classified as 7 -> correct
+p(1|xtest1600): 2.6387991201376046E-11, xtest1600 classified as 7 -> correct
+p(1|xtest1601): 4.746502036901984E-12, xtest1601 classified as 7 -> correct
+p(1|xtest1602): 5.1673950809379705E-11, xtest1602 classified as 7 -> correct
+p(1|xtest1603): 6.042117811580833E-15, xtest1603 classified as 7 -> correct
+p(1|xtest1604): 6.363591038942754E-10, xtest1604 classified as 7 -> correct
+p(1|xtest1605): 7.076689092242207E-11, xtest1605 classified as 7 -> correct
+p(1|xtest1606): 2.706678510138049E-9, xtest1606 classified as 7 -> correct
+p(1|xtest1607): 2.675739949371324E-13, xtest1607 classified as 7 -> correct
+p(1|xtest1608): 5.146368639115277E-14, xtest1608 classified as 7 -> correct
+p(1|xtest1609): 1.0890229488637365E-14, xtest1609 classified as 7 -> correct
+p(1|xtest1610): 1.2721805315562443E-12, xtest1610 classified as 7 -> correct
+p(1|xtest1611): 2.990279619407813E-14, xtest1611 classified as 7 -> correct
+p(1|xtest1612): 7.125782911974472E-15, xtest1612 classified as 7 -> correct
+p(1|xtest1613): 5.270315399395408E-9, xtest1613 classified as 7 -> correct
+p(1|xtest1614): 1.9786109683726096E-14, xtest1614 classified as 7 -> correct
+p(1|xtest1615): 0.010136062176785558, xtest1615 classified as 7 -> correct
+p(1|xtest1616): 4.1248043791266237E-14, xtest1616 classified as 7 -> correct
+p(1|xtest1617): 3.372235712078647E-16, xtest1617 classified as 7 -> correct
+p(1|xtest1618): 4.375566183655938E-5, xtest1618 classified as 7 -> correct
+p(1|xtest1619): 1.0313914161736227E-12, xtest1619 classified as 7 -> correct
+p(1|xtest1620): 3.92633360050886E-10, xtest1620 classified as 7 -> correct
+p(1|xtest1621): 5.2342945078855554E-15, xtest1621 classified as 7 -> correct
+p(1|xtest1622): 1.1668965149901383E-17, xtest1622 classified as 7 -> correct
+p(1|xtest1623): 8.427637937590082E-13, xtest1623 classified as 7 -> correct
+p(1|xtest1624): 2.230522009685731E-12, xtest1624 classified as 7 -> correct
+p(1|xtest1625): 5.178270993659716E-14, xtest1625 classified as 7 -> correct
+p(1|xtest1626): 2.597272813176175E-15, xtest1626 classified as 7 -> correct
+p(1|xtest1627): 2.557168965220785E-11, xtest1627 classified as 7 -> correct
+p(1|xtest1628): 1.3933590598839766E-14, xtest1628 classified as 7 -> correct
+p(1|xtest1629): 0.007570337102628732, xtest1629 classified as 7 -> correct
+p(1|xtest1630): 2.793796086210007E-15, xtest1630 classified as 7 -> correct
+p(1|xtest1631): 2.166807251443749E-7, xtest1631 classified as 7 -> correct
+p(1|xtest1632): 1.1138556462100404E-18, xtest1632 classified as 7 -> correct
+p(1|xtest1633): 1.5918179484342943E-8, xtest1633 classified as 7 -> correct
+p(1|xtest1634): 5.781957737458374E-17, xtest1634 classified as 7 -> correct
+p(1|xtest1635): 0.005639812067199639, xtest1635 classified as 7 -> correct
+p(1|xtest1636): 2.319185721298172E-4, xtest1636 classified as 7 -> correct
+p(1|xtest1637): 8.594264941407652E-11, xtest1637 classified as 7 -> correct
+p(1|xtest1638): 8.241225045095117E-4, xtest1638 classified as 7 -> correct
+p(1|xtest1639): 2.8322753629677476E-15, xtest1639 classified as 7 -> correct
+p(1|xtest1640): 9.523491005767534E-8, xtest1640 classified as 7 -> correct
+p(1|xtest1641): 2.485099873275527E-10, xtest1641 classified as 7 -> correct
+p(1|xtest1642): 0.44287398166834085, xtest1642 classified as 7 -> correct
+p(1|xtest1643): 6.689491045449263E-7, xtest1643 classified as 7 -> correct
+p(1|xtest1644): 3.420934891458103E-9, xtest1644 classified as 7 -> correct
+p(1|xtest1645): 1.3900448729278981E-7, xtest1645 classified as 7 -> correct
+p(1|xtest1646): 6.3515013933087E-13, xtest1646 classified as 7 -> correct
+p(1|xtest1647): 1.5168029178852403E-7, xtest1647 classified as 7 -> correct
+p(1|xtest1648): 8.529250904786045E-5, xtest1648 classified as 7 -> correct
+p(1|xtest1649): 1.5270216709417734E-7, xtest1649 classified as 7 -> correct
+p(1|xtest1650): 5.4562809766378535E-8, xtest1650 classified as 7 -> correct
+p(1|xtest1651): 5.694051747372494E-15, xtest1651 classified as 7 -> correct
+p(1|xtest1652): 8.940007556772279E-8, xtest1652 classified as 7 -> correct
+p(1|xtest1653): 1.5454944293179951E-12, xtest1653 classified as 7 -> correct
+p(1|xtest1654): 1.118454063131199E-14, xtest1654 classified as 7 -> correct
+p(1|xtest1655): 5.021943456481628E-10, xtest1655 classified as 7 -> correct
+p(1|xtest1656): 3.7938741755369353E-10, xtest1656 classified as 7 -> correct
+p(1|xtest1657): 9.667588366631888E-11, xtest1657 classified as 7 -> correct
+p(1|xtest1658): 7.543807813312089E-7, xtest1658 classified as 7 -> correct
+p(1|xtest1659): 7.022296892040957E-12, xtest1659 classified as 7 -> correct
+p(1|xtest1660): 1.520663046655295E-11, xtest1660 classified as 7 -> correct
+p(1|xtest1661): 8.614640069620723E-8, xtest1661 classified as 7 -> correct
+p(1|xtest1662): 1.1864230548926884E-15, xtest1662 classified as 7 -> correct
+p(1|xtest1663): 4.908872837191272E-15, xtest1663 classified as 7 -> correct
+p(1|xtest1664): 4.574407362228879E-14, xtest1664 classified as 7 -> correct
+p(1|xtest1665): 5.4939839303814973E-14, xtest1665 classified as 7 -> correct
+p(1|xtest1666): 4.3716762617863954E-10, xtest1666 classified as 7 -> correct
+p(1|xtest1667): 5.922527128717301E-10, xtest1667 classified as 7 -> correct
+p(1|xtest1668): 1.8328996032557165E-7, xtest1668 classified as 7 -> correct
+p(1|xtest1669): 9.169428818752376E-13, xtest1669 classified as 7 -> correct
+p(1|xtest1670): 2.2698482787224677E-9, xtest1670 classified as 7 -> correct
+p(1|xtest1671): 2.5289678907335655E-5, xtest1671 classified as 7 -> correct
+p(1|xtest1672): 3.568884068609082E-8, xtest1672 classified as 7 -> correct
+p(1|xtest1673): 1.1901392484235347E-14, xtest1673 classified as 7 -> correct
+p(1|xtest1674): 2.1218942053087177E-16, xtest1674 classified as 7 -> correct
+p(1|xtest1675): 1.631736432489056E-19, xtest1675 classified as 7 -> correct
+p(1|xtest1676): 4.0744426594281915E-19, xtest1676 classified as 7 -> correct
+p(1|xtest1677): 1.0927045548360293E-16, xtest1677 classified as 7 -> correct
+p(1|xtest1678): 6.96332227639826E-18, xtest1678 classified as 7 -> correct
+p(1|xtest1679): 8.689355172832303E-19, xtest1679 classified as 7 -> correct
+p(1|xtest1680): 5.31642482133256E-18, xtest1680 classified as 7 -> correct
+p(1|xtest1681): 5.729032928545739E-16, xtest1681 classified as 7 -> correct
+p(1|xtest1682): 9.94504911596412E-15, xtest1682 classified as 7 -> correct
+p(1|xtest1683): 4.924696625578215E-20, xtest1683 classified as 7 -> correct
+p(1|xtest1684): 1.5133880429985183E-14, xtest1684 classified as 7 -> correct
+p(1|xtest1685): 5.679015965317746E-13, xtest1685 classified as 7 -> correct
+p(1|xtest1686): 5.644849297075152E-14, xtest1686 classified as 7 -> correct
+p(1|xtest1687): 4.747662167853107E-15, xtest1687 classified as 7 -> correct
+p(1|xtest1688): 4.059666464814462E-15, xtest1688 classified as 7 -> correct
+p(1|xtest1689): 8.348747539754299E-18, xtest1689 classified as 7 -> correct
+p(1|xtest1690): 3.9349467773844524E-18, xtest1690 classified as 7 -> correct
+p(1|xtest1691): 6.52299035058785E-16, xtest1691 classified as 7 -> correct
+p(1|xtest1692): 1.181274210072978E-16, xtest1692 classified as 7 -> correct
+p(1|xtest1693): 5.477694104882589E-9, xtest1693 classified as 7 -> correct
+p(1|xtest1694): 4.710222019480244E-18, xtest1694 classified as 7 -> correct
+p(1|xtest1695): 6.1219762529519585E-15, xtest1695 classified as 7 -> correct
+p(1|xtest1696): 1.9239539728735646E-5, xtest1696 classified as 7 -> correct
+p(1|xtest1697): 4.908594211447488E-16, xtest1697 classified as 7 -> correct
+p(1|xtest1698): 3.5525997866902075E-16, xtest1698 classified as 7 -> correct
+p(1|xtest1699): 1.2816715256500415E-7, xtest1699 classified as 7 -> correct
+p(1|xtest1700): 3.583532382689372E-15, xtest1700 classified as 7 -> correct
+p(1|xtest1701): 4.116253805951398E-14, xtest1701 classified as 7 -> correct
+p(1|xtest1702): 1.3711798889160441E-17, xtest1702 classified as 7 -> correct
+p(1|xtest1703): 1.9854811787181956E-17, xtest1703 classified as 7 -> correct
+p(1|xtest1704): 9.905195465048225E-15, xtest1704 classified as 7 -> correct
+p(1|xtest1705): 1.6240579805459696E-15, xtest1705 classified as 7 -> correct
+p(1|xtest1706): 2.865881800252328E-17, xtest1706 classified as 7 -> correct
+p(1|xtest1707): 3.6310579671503207E-4, xtest1707 classified as 7 -> correct
+p(1|xtest1708): 1.7574393231547134E-16, xtest1708 classified as 7 -> correct
+p(1|xtest1709): 2.5636630132966505E-13, xtest1709 classified as 7 -> correct
+p(1|xtest1710): 3.42915047997239E-13, xtest1710 classified as 7 -> correct
+p(1|xtest1711): 5.477559012850022E-10, xtest1711 classified as 7 -> correct
+p(1|xtest1712): 6.509195494811376E-10, xtest1712 classified as 7 -> correct
+p(1|xtest1713): 4.535360972808178E-13, xtest1713 classified as 7 -> correct
+p(1|xtest1714): 1.4103368068377918E-16, xtest1714 classified as 7 -> correct
+p(1|xtest1715): 9.653634556963595E-11, xtest1715 classified as 7 -> correct
+p(1|xtest1716): 2.2410948596708913E-12, xtest1716 classified as 7 -> correct
+p(1|xtest1717): 3.636323241917202E-11, xtest1717 classified as 7 -> correct
+p(1|xtest1718): 3.647518624524959E-8, xtest1718 classified as 7 -> correct
+p(1|xtest1719): 1.476968134527322E-12, xtest1719 classified as 7 -> correct
+p(1|xtest1720): 2.8038925160985807E-16, xtest1720 classified as 7 -> correct
+p(1|xtest1721): 0.042733477262602966, xtest1721 classified as 7 -> correct
+p(1|xtest1722): 5.2373268577213166E-14, xtest1722 classified as 7 -> correct
+p(1|xtest1723): 4.1891788412423144E-10, xtest1723 classified as 7 -> correct
+p(1|xtest1724): 9.680600578951248E-15, xtest1724 classified as 7 -> correct
+p(1|xtest1725): 3.256609556641936E-15, xtest1725 classified as 7 -> correct
+p(1|xtest1726): 9.849456286543867E-12, xtest1726 classified as 7 -> correct
+p(1|xtest1727): 4.511679282843097E-10, xtest1727 classified as 7 -> correct
+p(1|xtest1728): 1.3125971361884284E-14, xtest1728 classified as 7 -> correct
+p(1|xtest1729): 8.630312815699809E-19, xtest1729 classified as 7 -> correct
+p(1|xtest1730): 1.222467991901766E-13, xtest1730 classified as 7 -> correct
+p(1|xtest1731): 1.2800987931884175E-11, xtest1731 classified as 7 -> correct
+p(1|xtest1732): 1.175510646863706E-12, xtest1732 classified as 7 -> correct
+p(1|xtest1733): 1.2401138737424929E-17, xtest1733 classified as 7 -> correct
+p(1|xtest1734): 3.3995645229269086E-16, xtest1734 classified as 7 -> correct
+p(1|xtest1735): 1.170289410482457E-9, xtest1735 classified as 7 -> correct
+p(1|xtest1736): 8.03690596131439E-12, xtest1736 classified as 7 -> correct
+p(1|xtest1737): 1.1137506877592914E-9, xtest1737 classified as 7 -> correct
+p(1|xtest1738): 1.0708411958231776E-5, xtest1738 classified as 7 -> correct
+p(1|xtest1739): 5.234549540665099E-7, xtest1739 classified as 7 -> correct
+p(1|xtest1740): 7.252764459828293E-8, xtest1740 classified as 7 -> correct
+p(1|xtest1741): 4.977837878679223E-7, xtest1741 classified as 7 -> correct
+p(1|xtest1742): 1.1606679242652868E-5, xtest1742 classified as 7 -> correct
+p(1|xtest1743): 5.582815752697508E-9, xtest1743 classified as 7 -> correct
+p(1|xtest1744): 3.0303698297692156E-6, xtest1744 classified as 7 -> correct
+p(1|xtest1745): 6.024274513487216E-8, xtest1745 classified as 7 -> correct
+p(1|xtest1746): 7.500938927567077E-13, xtest1746 classified as 7 -> correct
+p(1|xtest1747): 0.029661484552752488, xtest1747 classified as 7 -> correct
+p(1|xtest1748): 4.953913892331853E-7, xtest1748 classified as 7 -> correct
+p(1|xtest1749): 1.0658113253180508E-6, xtest1749 classified as 7 -> correct
+p(1|xtest1750): 3.703581565122267E-8, xtest1750 classified as 7 -> correct
+p(1|xtest1751): 4.578908169501256E-21, xtest1751 classified as 7 -> correct
+p(1|xtest1752): 1.8705603997170132E-16, xtest1752 classified as 7 -> correct
+p(1|xtest1753): 7.187621225087645E-21, xtest1753 classified as 7 -> correct
+p(1|xtest1754): 6.704429758767241E-16, xtest1754 classified as 7 -> correct
+p(1|xtest1755): 2.5190903494763048E-22, xtest1755 classified as 7 -> correct
+p(1|xtest1756): 1.0134501512766394E-20, xtest1756 classified as 7 -> correct
+p(1|xtest1757): 2.956976795782805E-13, xtest1757 classified as 7 -> correct
+p(1|xtest1758): 2.0313672657293547E-13, xtest1758 classified as 7 -> correct
+p(1|xtest1759): 5.759175781270637E-16, xtest1759 classified as 7 -> correct
+p(1|xtest1760): 3.2240832525037473E-11, xtest1760 classified as 7 -> correct
+p(1|xtest1761): 3.895808653834962E-17, xtest1761 classified as 7 -> correct
+p(1|xtest1762): 7.844112961425243E-12, xtest1762 classified as 7 -> correct
+p(1|xtest1763): 1.9782973532981025E-16, xtest1763 classified as 7 -> correct
+p(1|xtest1764): 5.286798501936937E-18, xtest1764 classified as 7 -> correct
+p(1|xtest1765): 2.4727331564011164E-15, xtest1765 classified as 7 -> correct
+p(1|xtest1766): 6.13987286200365E-12, xtest1766 classified as 7 -> correct
+p(1|xtest1767): 3.200601440001621E-14, xtest1767 classified as 7 -> correct
+p(1|xtest1768): 1.032699511309949E-13, xtest1768 classified as 7 -> correct
+p(1|xtest1769): 3.7989947584313475E-16, xtest1769 classified as 7 -> correct
+p(1|xtest1770): 1.0842053605679402E-15, xtest1770 classified as 7 -> correct
+p(1|xtest1771): 4.340337215253932E-19, xtest1771 classified as 7 -> correct
+p(1|xtest1772): 3.4798482879309665E-11, xtest1772 classified as 7 -> correct
+p(1|xtest1773): 3.838135780651339E-20, xtest1773 classified as 7 -> correct
+p(1|xtest1774): 1.5927507383584962E-18, xtest1774 classified as 7 -> correct
+p(1|xtest1775): 5.2463365159134925E-12, xtest1775 classified as 7 -> correct
+p(1|xtest1776): 1.3714443956277215E-16, xtest1776 classified as 7 -> correct
+p(1|xtest1777): 5.555534117641235E-15, xtest1777 classified as 7 -> correct
+p(1|xtest1778): 3.420690820072063E-14, xtest1778 classified as 7 -> correct
+p(1|xtest1779): 1.720099477783927E-14, xtest1779 classified as 7 -> correct
+p(1|xtest1780): 1.9748122195931423E-11, xtest1780 classified as 7 -> correct
+p(1|xtest1781): 8.709411844786303E-16, xtest1781 classified as 7 -> correct
+p(1|xtest1782): 3.2719178440212737E-10, xtest1782 classified as 7 -> correct
+p(1|xtest1783): 7.424304515374324E-16, xtest1783 classified as 7 -> correct
+p(1|xtest1784): 1.3331748000876977E-15, xtest1784 classified as 7 -> correct
+p(1|xtest1785): 3.5473468445425414E-16, xtest1785 classified as 7 -> correct
+p(1|xtest1786): 1.5624665077260666E-15, xtest1786 classified as 7 -> correct
+p(1|xtest1787): 1.651490643958017E-14, xtest1787 classified as 7 -> correct
+p(1|xtest1788): 3.233069218638385E-6, xtest1788 classified as 7 -> correct
+p(1|xtest1789): 2.9344381031849777E-15, xtest1789 classified as 7 -> correct
+p(1|xtest1790): 8.813487480926311E-9, xtest1790 classified as 7 -> correct
+p(1|xtest1791): 1.0971404695324546E-11, xtest1791 classified as 7 -> correct
+p(1|xtest1792): 1.3262568335037494E-11, xtest1792 classified as 7 -> correct
+p(1|xtest1793): 3.4696776120895145E-12, xtest1793 classified as 7 -> correct
+p(1|xtest1794): 2.651883469120176E-6, xtest1794 classified as 7 -> correct
+p(1|xtest1795): 9.665116346627804E-5, xtest1795 classified as 7 -> correct
+p(1|xtest1796): 2.58052076243367E-12, xtest1796 classified as 7 -> correct
+p(1|xtest1797): 4.310403051070908E-10, xtest1797 classified as 7 -> correct
+p(1|xtest1798): 4.084603238222437E-14, xtest1798 classified as 7 -> correct
+p(1|xtest1799): 4.6684365594971596E-5, xtest1799 classified as 7 -> correct
+p(1|xtest1800): 0.5265261796007094, xtest1800 classified as 1 -> WRONG!
+p(1|xtest1801): 0.9891898230410968, xtest1801 classified as 1 -> WRONG!
+p(1|xtest1802): 2.6098200882046568E-9, xtest1802 classified as 7 -> correct
+p(1|xtest1803): 2.8760155202462705E-12, xtest1803 classified as 7 -> correct
+p(1|xtest1804): 0.014276823908515687, xtest1804 classified as 7 -> correct
+p(1|xtest1805): 6.356318276807746E-16, xtest1805 classified as 7 -> correct
+p(1|xtest1806): 0.1270027466850134, xtest1806 classified as 7 -> correct
+p(1|xtest1807): 1.8618605496498399E-16, xtest1807 classified as 7 -> correct
+p(1|xtest1808): 3.2252535069769515E-14, xtest1808 classified as 7 -> correct
+p(1|xtest1809): 2.1768556040877643E-11, xtest1809 classified as 7 -> correct
+p(1|xtest1810): 1.2021410897377791E-10, xtest1810 classified as 7 -> correct
+p(1|xtest1811): 1.4877901663715214E-14, xtest1811 classified as 7 -> correct
+p(1|xtest1812): 3.0417502209038723E-13, xtest1812 classified as 7 -> correct
+p(1|xtest1813): 7.967601704488062E-14, xtest1813 classified as 7 -> correct
+p(1|xtest1814): 1.046770694702657E-14, xtest1814 classified as 7 -> correct
+p(1|xtest1815): 5.572933730526689E-8, xtest1815 classified as 7 -> correct
+p(1|xtest1816): 2.4940171813204696E-12, xtest1816 classified as 7 -> correct
+p(1|xtest1817): 5.497755891659046E-13, xtest1817 classified as 7 -> correct
+p(1|xtest1818): 1.162708855210486E-16, xtest1818 classified as 7 -> correct
+p(1|xtest1819): 4.512852358886675E-18, xtest1819 classified as 7 -> correct
+p(1|xtest1820): 3.52217899086191E-10, xtest1820 classified as 7 -> correct
+p(1|xtest1821): 1.309768524342111E-9, xtest1821 classified as 7 -> correct
+p(1|xtest1822): 4.1488082307832123E-14, xtest1822 classified as 7 -> correct
+p(1|xtest1823): 8.077976578854583E-11, xtest1823 classified as 7 -> correct
+p(1|xtest1824): 1.1947372226185643E-15, xtest1824 classified as 7 -> correct
+p(1|xtest1825): 1.3572874679882056E-8, xtest1825 classified as 7 -> correct
+p(1|xtest1826): 8.050533523994739E-11, xtest1826 classified as 7 -> correct
+p(1|xtest1827): 2.5360934619035798E-11, xtest1827 classified as 7 -> correct
+p(1|xtest1828): 3.067221606722589E-12, xtest1828 classified as 7 -> correct
+p(1|xtest1829): 3.1062426403207514E-11, xtest1829 classified as 7 -> correct
+p(1|xtest1830): 2.3160841576215684E-17, xtest1830 classified as 7 -> correct
+p(1|xtest1831): 8.880299392138063E-16, xtest1831 classified as 7 -> correct
+p(1|xtest1832): 4.949358214325338E-13, xtest1832 classified as 7 -> correct
+p(1|xtest1833): 5.099640319766036E-8, xtest1833 classified as 7 -> correct
+p(1|xtest1834): 3.316909240884732E-14, xtest1834 classified as 7 -> correct
+p(1|xtest1835): 1.4509954553226162E-15, xtest1835 classified as 7 -> correct
+p(1|xtest1836): 6.319274372517075E-10, xtest1836 classified as 7 -> correct
+p(1|xtest1837): 6.764783306266803E-17, xtest1837 classified as 7 -> correct
+p(1|xtest1838): 5.336620158875086E-14, xtest1838 classified as 7 -> correct
+p(1|xtest1839): 2.59755829202777E-13, xtest1839 classified as 7 -> correct
+p(1|xtest1840): 2.7604832217568154E-15, xtest1840 classified as 7 -> correct
+p(1|xtest1841): 3.706621952851587E-15, xtest1841 classified as 7 -> correct
+p(1|xtest1842): 1.764721291687913E-11, xtest1842 classified as 7 -> correct
+p(1|xtest1843): 8.819322761694914E-18, xtest1843 classified as 7 -> correct
+p(1|xtest1844): 1.239201478365839E-18, xtest1844 classified as 7 -> correct
+p(1|xtest1845): 8.104373110576086E-10, xtest1845 classified as 7 -> correct
+p(1|xtest1846): 1.78075410725045E-20, xtest1846 classified as 7 -> correct
+p(1|xtest1847): 3.004551278891982E-11, xtest1847 classified as 7 -> correct
+p(1|xtest1848): 5.755372405786766E-13, xtest1848 classified as 7 -> correct
+p(1|xtest1849): 0.002156275139011474, xtest1849 classified as 7 -> correct
+p(1|xtest1850): 4.600558592910098E-12, xtest1850 classified as 7 -> correct
+p(1|xtest1851): 1.6639797691436042E-15, xtest1851 classified as 7 -> correct
+p(1|xtest1852): 3.433116128898743E-11, xtest1852 classified as 7 -> correct
+p(1|xtest1853): 1.9625064690769205E-21, xtest1853 classified as 7 -> correct
+p(1|xtest1854): 8.347917153595819E-17, xtest1854 classified as 7 -> correct
+p(1|xtest1855): 1.551133718175222E-14, xtest1855 classified as 7 -> correct
+p(1|xtest1856): 8.668375556717233E-16, xtest1856 classified as 7 -> correct
+p(1|xtest1857): 6.947780933348944E-18, xtest1857 classified as 7 -> correct
+p(1|xtest1858): 1.0300995420740644E-12, xtest1858 classified as 7 -> correct
+p(1|xtest1859): 2.7944905046047517E-10, xtest1859 classified as 7 -> correct
+p(1|xtest1860): 4.801870885965185E-16, xtest1860 classified as 7 -> correct
+p(1|xtest1861): 1.3667404821781889E-17, xtest1861 classified as 7 -> correct
+p(1|xtest1862): 3.5726892506133303E-16, xtest1862 classified as 7 -> correct
+p(1|xtest1863): 2.9855352043207964E-13, xtest1863 classified as 7 -> correct
+p(1|xtest1864): 2.9993519873661317E-13, xtest1864 classified as 7 -> correct
+p(1|xtest1865): 9.840634419976707E-11, xtest1865 classified as 7 -> correct
+p(1|xtest1866): 2.6868825484579784E-12, xtest1866 classified as 7 -> correct
+p(1|xtest1867): 3.885963114756753E-14, xtest1867 classified as 7 -> correct
+p(1|xtest1868): 3.1138490289011937E-12, xtest1868 classified as 7 -> correct
+p(1|xtest1869): 4.789698354950595E-12, xtest1869 classified as 7 -> correct
+p(1|xtest1870): 1.3291466507181458E-6, xtest1870 classified as 7 -> correct
+p(1|xtest1871): 2.8502195205220607E-15, xtest1871 classified as 7 -> correct
+p(1|xtest1872): 1.6854946068157963E-12, xtest1872 classified as 7 -> correct
+p(1|xtest1873): 8.416746444996715E-4, xtest1873 classified as 7 -> correct
+p(1|xtest1874): 1.8343586953819338E-10, xtest1874 classified as 7 -> correct
+p(1|xtest1875): 2.1341606728811356E-15, xtest1875 classified as 7 -> correct
+p(1|xtest1876): 5.826045490073226E-16, xtest1876 classified as 7 -> correct
+p(1|xtest1877): 8.607010495277329E-15, xtest1877 classified as 7 -> correct
+p(1|xtest1878): 1.1502682498613252E-10, xtest1878 classified as 7 -> correct
+p(1|xtest1879): 8.382320673947984E-19, xtest1879 classified as 7 -> correct
+p(1|xtest1880): 1.3289940867194918E-12, xtest1880 classified as 7 -> correct
+p(1|xtest1881): 8.412302477023932E-20, xtest1881 classified as 7 -> correct
+p(1|xtest1882): 6.409378229304934E-17, xtest1882 classified as 7 -> correct
+p(1|xtest1883): 4.820429353797618E-16, xtest1883 classified as 7 -> correct
+p(1|xtest1884): 2.260841834617327E-11, xtest1884 classified as 7 -> correct
+p(1|xtest1885): 1.11797807444009E-13, xtest1885 classified as 7 -> correct
+p(1|xtest1886): 1.7245802787237895E-13, xtest1886 classified as 7 -> correct
+p(1|xtest1887): 9.592661733909524E-13, xtest1887 classified as 7 -> correct
+p(1|xtest1888): 3.4732850096452286E-7, xtest1888 classified as 7 -> correct
+p(1|xtest1889): 0.2703774759093762, xtest1889 classified as 7 -> correct
+p(1|xtest1890): 2.907707479236553E-11, xtest1890 classified as 7 -> correct
+p(1|xtest1891): 3.771339260791073E-8, xtest1891 classified as 7 -> correct
+p(1|xtest1892): 6.144440907471366E-11, xtest1892 classified as 7 -> correct
+p(1|xtest1893): 1.3671525532497311E-14, xtest1893 classified as 7 -> correct
+p(1|xtest1894): 5.880052173548413E-16, xtest1894 classified as 7 -> correct
+p(1|xtest1895): 1.6849260412143042E-11, xtest1895 classified as 7 -> correct
+p(1|xtest1896): 1.9095541534802657E-8, xtest1896 classified as 7 -> correct
+p(1|xtest1897): 1.987903727388248E-12, xtest1897 classified as 7 -> correct
+p(1|xtest1898): 5.090252110476602E-14, xtest1898 classified as 7 -> correct
+p(1|xtest1899): 5.378163562718869E-7, xtest1899 classified as 7 -> correct
+p(1|xtest1900): 8.965148506856824E-14, xtest1900 classified as 7 -> correct
+p(1|xtest1901): 4.3772979850848333E-4, xtest1901 classified as 7 -> correct
+p(1|xtest1902): 3.128262753555257E-10, xtest1902 classified as 7 -> correct
+p(1|xtest1903): 2.650989637063829E-16, xtest1903 classified as 7 -> correct
+p(1|xtest1904): 2.2355630519165882E-5, xtest1904 classified as 7 -> correct
+p(1|xtest1905): 7.2206885267855755E-12, xtest1905 classified as 7 -> correct
+p(1|xtest1906): 3.7605320245652E-17, xtest1906 classified as 7 -> correct
+p(1|xtest1907): 1.1116806216206917E-8, xtest1907 classified as 7 -> correct
+p(1|xtest1908): 5.673026899011233E-4, xtest1908 classified as 7 -> correct
+p(1|xtest1909): 3.4637453323170266E-10, xtest1909 classified as 7 -> correct
+p(1|xtest1910): 1.4673310679369386E-12, xtest1910 classified as 7 -> correct
+p(1|xtest1911): 1.314304986972054E-12, xtest1911 classified as 7 -> correct
+p(1|xtest1912): 4.1552959743707524E-14, xtest1912 classified as 7 -> correct
+p(1|xtest1913): 9.069119392196976E-12, xtest1913 classified as 7 -> correct
+p(1|xtest1914): 1.7227591756562546E-11, xtest1914 classified as 7 -> correct
+p(1|xtest1915): 1.4494373233611936E-11, xtest1915 classified as 7 -> correct
+p(1|xtest1916): 6.085145646520898E-14, xtest1916 classified as 7 -> correct
+p(1|xtest1917): 2.8675110039210535E-11, xtest1917 classified as 7 -> correct
+p(1|xtest1918): 1.977597048888378E-12, xtest1918 classified as 7 -> correct
+p(1|xtest1919): 5.146916149301143E-5, xtest1919 classified as 7 -> correct
+p(1|xtest1920): 2.826603167475548E-20, xtest1920 classified as 7 -> correct
+p(1|xtest1921): 8.61730019717E-21, xtest1921 classified as 7 -> correct
+p(1|xtest1922): 1.9735483908147223E-15, xtest1922 classified as 7 -> correct
+p(1|xtest1923): 2.277637206345462E-15, xtest1923 classified as 7 -> correct
+p(1|xtest1924): 2.4557091532937005E-17, xtest1924 classified as 7 -> correct
+p(1|xtest1925): 6.332087256531534E-23, xtest1925 classified as 7 -> correct
+p(1|xtest1926): 7.901295424090508E-18, xtest1926 classified as 7 -> correct
+p(1|xtest1927): 4.08826980325474E-18, xtest1927 classified as 7 -> correct
+p(1|xtest1928): 9.293937019864134E-18, xtest1928 classified as 7 -> correct
+p(1|xtest1929): 4.4795450558778366E-23, xtest1929 classified as 7 -> correct
+p(1|xtest1930): 4.455923883062421E-23, xtest1930 classified as 7 -> correct
+p(1|xtest1931): 3.410526926852171E-18, xtest1931 classified as 7 -> correct
+p(1|xtest1932): 1.3535298355445957E-19, xtest1932 classified as 7 -> correct
+p(1|xtest1933): 6.701875633447606E-11, xtest1933 classified as 7 -> correct
+p(1|xtest1934): 2.4347367853626553E-18, xtest1934 classified as 7 -> correct
+p(1|xtest1935): 2.9560794107833895E-19, xtest1935 classified as 7 -> correct
+p(1|xtest1936): 3.29006074829068E-18, xtest1936 classified as 7 -> correct
+p(1|xtest1937): 5.682989669626425E-13, xtest1937 classified as 7 -> correct
+p(1|xtest1938): 1.854230475951672E-14, xtest1938 classified as 7 -> correct
+p(1|xtest1939): 1.1812705022812302E-15, xtest1939 classified as 7 -> correct
+p(1|xtest1940): 8.392481054091763E-8, xtest1940 classified as 7 -> correct
+p(1|xtest1941): 4.3063088433825035E-18, xtest1941 classified as 7 -> correct
+p(1|xtest1942): 9.241674246449166E-20, xtest1942 classified as 7 -> correct
+p(1|xtest1943): 9.378164923968176E-20, xtest1943 classified as 7 -> correct
+p(1|xtest1944): 1.024806055983276E-18, xtest1944 classified as 7 -> correct
+p(1|xtest1945): 2.127914139828107E-24, xtest1945 classified as 7 -> correct
+p(1|xtest1946): 6.61934171310541E-17, xtest1946 classified as 7 -> correct
+p(1|xtest1947): 3.2722656482839407E-21, xtest1947 classified as 7 -> correct
+p(1|xtest1948): 4.322289149902403E-7, xtest1948 classified as 7 -> correct
+p(1|xtest1949): 1.0870640491749082E-18, xtest1949 classified as 7 -> correct
+p(1|xtest1950): 1.4933113653028968E-17, xtest1950 classified as 7 -> correct
+p(1|xtest1951): 1.725657475370233E-20, xtest1951 classified as 7 -> correct
+p(1|xtest1952): 5.6307460521162414E-21, xtest1952 classified as 7 -> correct
+p(1|xtest1953): 4.4005079863462274E-10, xtest1953 classified as 7 -> correct
+p(1|xtest1954): 1.947263234672302E-12, xtest1954 classified as 7 -> correct
+p(1|xtest1955): 3.2323303981099856E-5, xtest1955 classified as 7 -> correct
+p(1|xtest1956): 2.5145439832943886E-6, xtest1956 classified as 7 -> correct
+p(1|xtest1957): 2.105081562543315E-18, xtest1957 classified as 7 -> correct
+p(1|xtest1958): 6.369683102028015E-17, xtest1958 classified as 7 -> correct
+p(1|xtest1959): 3.2102153265454855E-9, xtest1959 classified as 7 -> correct
+p(1|xtest1960): 3.194869115644211E-8, xtest1960 classified as 7 -> correct
+p(1|xtest1961): 1.8688491784338244E-9, xtest1961 classified as 7 -> correct
+p(1|xtest1962): 1.4329884552063923E-14, xtest1962 classified as 7 -> correct
+p(1|xtest1963): 1.6065329798193872E-20, xtest1963 classified as 7 -> correct
+p(1|xtest1964): 6.354791946601444E-14, xtest1964 classified as 7 -> correct
+p(1|xtest1965): 4.035438408607941E-12, xtest1965 classified as 7 -> correct
+p(1|xtest1966): 1.159901924345901E-14, xtest1966 classified as 7 -> correct
+p(1|xtest1967): 4.3186747360118325E-10, xtest1967 classified as 7 -> correct
+p(1|xtest1968): 8.588493528566856E-10, xtest1968 classified as 7 -> correct
+p(1|xtest1969): 6.432235530433728E-17, xtest1969 classified as 7 -> correct
+p(1|xtest1970): 1.4698122831093299E-16, xtest1970 classified as 7 -> correct
+p(1|xtest1971): 1.0082315696915309E-13, xtest1971 classified as 7 -> correct
+p(1|xtest1972): 3.561514696812721E-15, xtest1972 classified as 7 -> correct
+p(1|xtest1973): 1.9752840613193138E-14, xtest1973 classified as 7 -> correct
+p(1|xtest1974): 3.692669155591034E-7, xtest1974 classified as 7 -> correct
+p(1|xtest1975): 3.3275307255026946E-14, xtest1975 classified as 7 -> correct
+p(1|xtest1976): 8.31260392885712E-16, xtest1976 classified as 7 -> correct
+p(1|xtest1977): 1.8106171947621752E-16, xtest1977 classified as 7 -> correct
+p(1|xtest1978): 3.2459783868721967E-15, xtest1978 classified as 7 -> correct
+p(1|xtest1979): 1.8711904018636285E-14, xtest1979 classified as 7 -> correct
+p(1|xtest1980): 8.506466256388035E-18, xtest1980 classified as 7 -> correct
+p(1|xtest1981): 8.411749677862118E-23, xtest1981 classified as 7 -> correct
+p(1|xtest1982): 2.8070247048650227E-15, xtest1982 classified as 7 -> correct
+p(1|xtest1983): 6.009651058251285E-11, xtest1983 classified as 7 -> correct
+p(1|xtest1984): 4.693375725026902E-17, xtest1984 classified as 7 -> correct
+p(1|xtest1985): 6.451655683199921E-12, xtest1985 classified as 7 -> correct
+p(1|xtest1986): 4.845465968444049E-17, xtest1986 classified as 7 -> correct
+p(1|xtest1987): 2.162304754283299E-14, xtest1987 classified as 7 -> correct
+p(1|xtest1988): 1.6736969571346745E-20, xtest1988 classified as 7 -> correct
+p(1|xtest1989): 7.932834385356181E-18, xtest1989 classified as 7 -> correct
+p(1|xtest1990): 7.664919851054206E-17, xtest1990 classified as 7 -> correct
+p(1|xtest1991): 1.9412795294999923E-18, xtest1991 classified as 7 -> correct
+p(1|xtest1992): 5.5183605734991605E-24, xtest1992 classified as 7 -> correct
+p(1|xtest1993): 5.263354351595247E-16, xtest1993 classified as 7 -> correct
+p(1|xtest1994): 1.4611725595681116E-12, xtest1994 classified as 7 -> correct
+p(1|xtest1995): 9.4493046014646E-21, xtest1995 classified as 7 -> correct
+p(1|xtest1996): 4.76804620662189E-20, xtest1996 classified as 7 -> correct
+p(1|xtest1997): 6.974937108922147E-9, xtest1997 classified as 7 -> correct
+p(1|xtest1998): 5.221312800181893E-7, xtest1998 classified as 7 -> correct
+p(1|xtest1999): 5.8988938162471205E-15, xtest1999 classified as 7 -> correct
+p(1|xtest2000): 6.569309611139804E-11, xtest2000 classified as 7 -> correct
+p(1|xtest2001): 6.370896277558669E-6, xtest2001 classified as 7 -> correct
+p(1|xtest2002): 4.056700865627247E-9, xtest2002 classified as 7 -> correct
+p(1|xtest2003): 4.6788174051689494E-17, xtest2003 classified as 7 -> correct
+p(1|xtest2004): 2.71865021889435E-7, xtest2004 classified as 7 -> correct
+p(1|xtest2005): 1.324741624903688E-12, xtest2005 classified as 7 -> correct
+p(1|xtest2006): 4.05053609118835E-10, xtest2006 classified as 7 -> correct
+p(1|xtest2007): 9.325141154893671E-7, xtest2007 classified as 7 -> correct
+p(1|xtest2008): 1.1542182885178471E-11, xtest2008 classified as 7 -> correct
+p(1|xtest2009): 5.805271269798848E-14, xtest2009 classified as 7 -> correct
+p(1|xtest2010): 7.573327283951031E-12, xtest2010 classified as 7 -> correct
+p(1|xtest2011): 3.654757280143555E-13, xtest2011 classified as 7 -> correct
+p(1|xtest2012): 1.6252582638345893E-14, xtest2012 classified as 7 -> correct
+p(1|xtest2013): 3.6300149273755E-14, xtest2013 classified as 7 -> correct
+p(1|xtest2014): 9.990242329565238E-13, xtest2014 classified as 7 -> correct
+p(1|xtest2015): 3.748488808164128E-12, xtest2015 classified as 7 -> correct
+p(1|xtest2016): 1.776630189367875E-15, xtest2016 classified as 7 -> correct
+p(1|xtest2017): 6.7150377585148786E-15, xtest2017 classified as 7 -> correct
+p(1|xtest2018): 3.509673445164613E-18, xtest2018 classified as 7 -> correct
+p(1|xtest2019): 3.696375589533873E-14, xtest2019 classified as 7 -> correct
+p(1|xtest2020): 1.8351246991668523E-11, xtest2020 classified as 7 -> correct
+p(1|xtest2021): 5.151788215411891E-13, xtest2021 classified as 7 -> correct
+p(1|xtest2022): 5.198852833955162E-15, xtest2022 classified as 7 -> correct
+p(1|xtest2023): 9.125872632930167E-17, xtest2023 classified as 7 -> correct
+p(1|xtest2024): 3.3146352168624487E-14, xtest2024 classified as 7 -> correct
+p(1|xtest2025): 2.714402064409696E-14, xtest2025 classified as 7 -> correct
+p(1|xtest2026): 7.856241104303317E-18, xtest2026 classified as 7 -> correct
+p(1|xtest2027): 1.2771767397505352E-20, xtest2027 classified as 7 -> correct
+p(1|xtest2028): 3.785688256390472E-17, xtest2028 classified as 7 -> correct
+p(1|xtest2029): 1.7081156149973217E-9, xtest2029 classified as 7 -> correct
+p(1|xtest2030): 8.687842022785745E-14, xtest2030 classified as 7 -> correct
+p(1|xtest2031): 3.850705154426713E-9, xtest2031 classified as 7 -> correct
+p(1|xtest2032): 4.281739521522347E-16, xtest2032 classified as 7 -> correct
+p(1|xtest2033): 7.269950914798854E-17, xtest2033 classified as 7 -> correct
+p(1|xtest2034): 4.056688802824687E-20, xtest2034 classified as 7 -> correct
+p(1|xtest2035): 8.970974267231233E-16, xtest2035 classified as 7 -> correct
+p(1|xtest2036): 4.162243690046522E-11, xtest2036 classified as 7 -> correct
+p(1|xtest2037): 3.8390395574220946E-14, xtest2037 classified as 7 -> correct
+p(1|xtest2038): 4.7978050444311035E-14, xtest2038 classified as 7 -> correct
+p(1|xtest2039): 1.79504000071359E-19, xtest2039 classified as 7 -> correct
+p(1|xtest2040): 6.773323671325192E-15, xtest2040 classified as 7 -> correct
+p(1|xtest2041): 2.617099590637869E-15, xtest2041 classified as 7 -> correct
+p(1|xtest2042): 3.6301136588454013E-22, xtest2042 classified as 7 -> correct
+p(1|xtest2043): 7.018411488029039E-16, xtest2043 classified as 7 -> correct
+p(1|xtest2044): 7.462288847941535E-8, xtest2044 classified as 7 -> correct
+p(1|xtest2045): 9.829171583357099E-16, xtest2045 classified as 7 -> correct
+p(1|xtest2046): 2.1218849580049937E-16, xtest2046 classified as 7 -> correct
+p(1|xtest2047): 1.7491241339710312E-14, xtest2047 classified as 7 -> correct
+p(1|xtest2048): 8.707770451769177E-18, xtest2048 classified as 7 -> correct
+p(1|xtest2049): 5.057312512667962E-6, xtest2049 classified as 7 -> correct
+p(1|xtest2050): 8.857675244152159E-5, xtest2050 classified as 7 -> correct
+p(1|xtest2051): 6.091671183923218E-8, xtest2051 classified as 7 -> correct
+p(1|xtest2052): 0.006415967795847702, xtest2052 classified as 7 -> correct
+p(1|xtest2053): 5.461344552875357E-8, xtest2053 classified as 7 -> correct
+p(1|xtest2054): 1.2431549693763945E-4, xtest2054 classified as 7 -> correct
+p(1|xtest2055): 8.498860157380526E-13, xtest2055 classified as 7 -> correct
+p(1|xtest2056): 3.851634761030893E-12, xtest2056 classified as 7 -> correct
+p(1|xtest2057): 9.126261501627431E-18, xtest2057 classified as 7 -> correct
+p(1|xtest2058): 2.0985750059483088E-16, xtest2058 classified as 7 -> correct
+p(1|xtest2059): 3.2220591719159714E-13, xtest2059 classified as 7 -> correct
+p(1|xtest2060): 1.2752401276566415E-18, xtest2060 classified as 7 -> correct
+p(1|xtest2061): 6.119192656919995E-16, xtest2061 classified as 7 -> correct
+p(1|xtest2062): 1.4083610315871487E-14, xtest2062 classified as 7 -> correct
+p(1|xtest2063): 4.8181531104519095E-12, xtest2063 classified as 7 -> correct
+p(1|xtest2064): 2.5871492833373298E-20, xtest2064 classified as 7 -> correct
+p(1|xtest2065): 1.156510424268602E-18, xtest2065 classified as 7 -> correct
+p(1|xtest2066): 2.0899880070292354E-20, xtest2066 classified as 7 -> correct
+p(1|xtest2067): 2.2000351583584314E-13, xtest2067 classified as 7 -> correct
+p(1|xtest2068): 1.0139274774866685E-18, xtest2068 classified as 7 -> correct
+p(1|xtest2069): 3.4978818791333594E-15, xtest2069 classified as 7 -> correct
+p(1|xtest2070): 8.420744298664518E-11, xtest2070 classified as 7 -> correct
+p(1|xtest2071): 4.614214434397256E-17, xtest2071 classified as 7 -> correct
+p(1|xtest2072): 2.1280237470031802E-16, xtest2072 classified as 7 -> correct
+p(1|xtest2073): 1.2769419726843723E-20, xtest2073 classified as 7 -> correct
+p(1|xtest2074): 2.5262210324969388E-18, xtest2074 classified as 7 -> correct
+p(1|xtest2075): 5.302161538983565E-13, xtest2075 classified as 7 -> correct
+p(1|xtest2076): 3.17721373796975E-12, xtest2076 classified as 7 -> correct
+p(1|xtest2077): 1.5682529447633883E-16, xtest2077 classified as 7 -> correct
+p(1|xtest2078): 6.059198171802521E-11, xtest2078 classified as 7 -> correct
+p(1|xtest2079): 1.8995466530086177E-11, xtest2079 classified as 7 -> correct
+p(1|xtest2080): 7.439571428722851E-16, xtest2080 classified as 7 -> correct
+p(1|xtest2081): 4.742401959800875E-12, xtest2081 classified as 7 -> correct
+p(1|xtest2082): 1.146052448339817E-12, xtest2082 classified as 7 -> correct
+p(1|xtest2083): 1.2480141225766892E-10, xtest2083 classified as 7 -> correct
+p(1|xtest2084): 1.9028182930958345E-7, xtest2084 classified as 7 -> correct
+p(1|xtest2085): 2.3910307004411507E-11, xtest2085 classified as 7 -> correct
+p(1|xtest2086): 6.216995548818206E-11, xtest2086 classified as 7 -> correct
+p(1|xtest2087): 3.856136011326043E-12, xtest2087 classified as 7 -> correct
+p(1|xtest2088): 2.8938317106519234E-11, xtest2088 classified as 7 -> correct
+p(1|xtest2089): 4.486417796328864E-9, xtest2089 classified as 7 -> correct
+p(1|xtest2090): 1.0757195420650862E-17, xtest2090 classified as 7 -> correct
+p(1|xtest2091): 2.3179464796524917E-14, xtest2091 classified as 7 -> correct
+p(1|xtest2092): 6.432231014018886E-22, xtest2092 classified as 7 -> correct
+p(1|xtest2093): 3.881502656568003E-19, xtest2093 classified as 7 -> correct
+p(1|xtest2094): 4.929808795554363E-10, xtest2094 classified as 7 -> correct
+p(1|xtest2095): 7.940565590591736E-13, xtest2095 classified as 7 -> correct
+p(1|xtest2096): 3.5879274145923264E-10, xtest2096 classified as 7 -> correct
+p(1|xtest2097): 2.944690110098716E-9, xtest2097 classified as 7 -> correct
+p(1|xtest2098): 3.003040007935229E-12, xtest2098 classified as 7 -> correct
+p(1|xtest2099): 1.0541287557027818E-20, xtest2099 classified as 7 -> correct
+p(1|xtest2100): 1.9127842556932576E-15, xtest2100 classified as 7 -> correct
+p(1|xtest2101): 4.5177529098164645E-14, xtest2101 classified as 7 -> correct
+p(1|xtest2102): 3.738733805788904E-13, xtest2102 classified as 7 -> correct
+p(1|xtest2103): 4.584495754899193E-7, xtest2103 classified as 7 -> correct
+p(1|xtest2104): 2.4591718038347137E-12, xtest2104 classified as 7 -> correct
+p(1|xtest2105): 3.598762498565082E-13, xtest2105 classified as 7 -> correct
+p(1|xtest2106): 2.0899405577479907E-15, xtest2106 classified as 7 -> correct
+p(1|xtest2107): 4.540809517370757E-16, xtest2107 classified as 7 -> correct
+p(1|xtest2108): 2.1585895714253722E-18, xtest2108 classified as 7 -> correct
+p(1|xtest2109): 1.5243833890360401E-18, xtest2109 classified as 7 -> correct
+p(1|xtest2110): 0.014299715012718168, xtest2110 classified as 7 -> correct
+p(1|xtest2111): 1.5265920215797993E-20, xtest2111 classified as 7 -> correct
+p(1|xtest2112): 1.0450239752657246E-18, xtest2112 classified as 7 -> correct
+p(1|xtest2113): 6.6415500307013184E-21, xtest2113 classified as 7 -> correct
+p(1|xtest2114): 1.3748027960030724E-10, xtest2114 classified as 7 -> correct
+p(1|xtest2115): 1.6876613710359689E-15, xtest2115 classified as 7 -> correct
+p(1|xtest2116): 8.363196057946522E-16, xtest2116 classified as 7 -> correct
+p(1|xtest2117): 4.600476666723064E-16, xtest2117 classified as 7 -> correct
+p(1|xtest2118): 2.0016004566199566E-15, xtest2118 classified as 7 -> correct
+p(1|xtest2119): 1.0804643354942059E-12, xtest2119 classified as 7 -> correct
+p(1|xtest2120): 5.888929031927038E-9, xtest2120 classified as 7 -> correct
+p(1|xtest2121): 1.7138506328415843E-9, xtest2121 classified as 7 -> correct
+p(1|xtest2122): 2.4240267510499728E-14, xtest2122 classified as 7 -> correct
+p(1|xtest2123): 1.393298352927983E-15, xtest2123 classified as 7 -> correct
+p(1|xtest2124): 1.0157083907012313E-17, xtest2124 classified as 7 -> correct
+p(1|xtest2125): 1.4294036281919249E-19, xtest2125 classified as 7 -> correct
+p(1|xtest2126): 8.473623930459649E-16, xtest2126 classified as 7 -> correct
+p(1|xtest2127): 8.815322525644905E-9, xtest2127 classified as 7 -> correct
+p(1|xtest2128): 7.190717893649722E-10, xtest2128 classified as 7 -> correct
+p(1|xtest2129): 4.651183910422158E-10, xtest2129 classified as 7 -> correct
+p(1|xtest2130): 7.217252616633407E-11, xtest2130 classified as 7 -> correct
+p(1|xtest2131): 1.166321337244174E-5, xtest2131 classified as 7 -> correct
+p(1|xtest2132): 1.9277530532322386E-11, xtest2132 classified as 7 -> correct
+p(1|xtest2133): 1.0321073824101066E-8, xtest2133 classified as 7 -> correct
+p(1|xtest2134): 1.4934087051729892E-10, xtest2134 classified as 7 -> correct
+p(1|xtest2135): 9.633730184803156E-9, xtest2135 classified as 7 -> correct
+p(1|xtest2136): 5.0194089667445304E-12, xtest2136 classified as 7 -> correct
+p(1|xtest2137): 5.281714015546619E-9, xtest2137 classified as 7 -> correct
+p(1|xtest2138): 7.118676087915977E-11, xtest2138 classified as 7 -> correct
+p(1|xtest2139): 2.4563376249358477E-5, xtest2139 classified as 7 -> correct
+p(1|xtest2140): 3.941379575775554E-9, xtest2140 classified as 7 -> correct
+p(1|xtest2141): 8.562281860398445E-7, xtest2141 classified as 7 -> correct
+p(1|xtest2142): 2.1937509961548063E-10, xtest2142 classified as 7 -> correct
+p(1|xtest2143): 8.192127461006743E-9, xtest2143 classified as 7 -> correct
+p(1|xtest2144): 3.687015567601828E-12, xtest2144 classified as 7 -> correct
+p(1|xtest2145): 3.452995256588716E-8, xtest2145 classified as 7 -> correct
+p(1|xtest2146): 2.4632057303001537E-7, xtest2146 classified as 7 -> correct
+p(1|xtest2147): 1.7005297657342074E-12, xtest2147 classified as 7 -> correct
+p(1|xtest2148): 3.163424017302486E-7, xtest2148 classified as 7 -> correct
+p(1|xtest2149): 4.0944979321827225E-5, xtest2149 classified as 7 -> correct
+p(1|xtest2150): 4.4004559692399426E-9, xtest2150 classified as 7 -> correct
+p(1|xtest2151): 1.608466586666711E-16, xtest2151 classified as 7 -> correct
+p(1|xtest2152): 2.0193512178557157E-15, xtest2152 classified as 7 -> correct
+p(1|xtest2153): 1.1704692145841356E-15, xtest2153 classified as 7 -> correct
+p(1|xtest2154): 1.4189141292295288E-13, xtest2154 classified as 7 -> correct
+p(1|xtest2155): 7.47084943524001E-15, xtest2155 classified as 7 -> correct
+p(1|xtest2156): 1.4082965801932402E-8, xtest2156 classified as 7 -> correct
+p(1|xtest2157): 2.590447270474676E-13, xtest2157 classified as 7 -> correct
+p(1|xtest2158): 4.930283064435144E-6, xtest2158 classified as 7 -> correct
+p(1|xtest2159): 7.959092743801658E-16, xtest2159 classified as 7 -> correct
+p(1|xtest2160): 9.313738206585082E-8, xtest2160 classified as 7 -> correct
+p(1|xtest2161): 8.598782159921597E-17, xtest2161 classified as 7 -> correct
+p(1|xtest2162): 5.829646503166527E-14, xtest2162 classified as 7 -> correct
+
+Number of wrong results: 9 out of 2163!
+accuracy: 99.58391123439667 %
