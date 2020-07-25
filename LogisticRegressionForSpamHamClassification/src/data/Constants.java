@@ -1,3 +1,5 @@
+package data;
+
 public class Constants {
 	
 	// number of words in feature dictionary 

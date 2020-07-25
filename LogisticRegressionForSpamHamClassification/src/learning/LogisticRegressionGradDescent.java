@@ -1,7 +1,13 @@
+package learning;
+
 import java.io.IOException;
 import java.lang.Math;
 import java.util.ArrayList;
 import java.util.List;
+
+import data.Constants;
+import data.Instance;
+import data.Utilities;
 
 /* IMPLEMENTED USING THE GRADIENT DESCENT ALGORITHM. */
 public class LogisticRegressionGradDescent {

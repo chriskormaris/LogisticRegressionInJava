@@ -1,11 +1,17 @@
+package learning;
+
 import java.io.IOException;
 import java.lang.Math;
 import java.util.ArrayList;
 import java.util.List;
 
+import data.Constants;
+import data.Instance;
+import data.Utilities;
+
 /* THIS IMPLEMENTATION USES REGULARIZATION. */
-/* IMPLEMENTED USING THE GRADIENT DESCENT ALGORITHM. */
-public class LogisticRegressionGradDescentReg {
+/* IMPLEMENTED USING THE GRADIENT ASCENT ALGORITHM. */
+public class LogisticRegressionGradAscentReg {
 	
 	// M: the number of the total trained data, aka total trained images
 	private static int M;
@@ -147,41 +153,42 @@ public class LogisticRegressionGradDescentReg {
     }
     
     
-	// the gradient descent algorithm
+	// the gradient ascent algorithm
 	public static void train(List<Instance> instances) {
 		
 		M = instances.size();
-		double J_old = Integer.MIN_VALUE;
+		double lik_old = Integer.MIN_VALUE;
 		for (int iter=0; iter<maxiters; iter++) {
-			double J = 0.0;
+			double lik = 0.0;
 			for (int i=0; i<M; i++) { // for all train examples
 				int[] x = instances.get(i).getX();
 				double predicted = classify(x);
 				int label = instances.get(i).getLabel();
 				
 				// the first weight is updated differently
-				double grad0 = (predicted - label) * x[0] / M;
-				weights[0] = weights[0] - alpha * grad0;
+				double grad0 = (label - predicted) * x[0] / M;
+				weights[0] = weights[0] + alpha * grad0;
 				for (int j=1; j<N+1; j++) { // for all features
-					double grad = (predicted - label) * x[j] / M + lambda * weights[j] / M;
+					double grad = (label - predicted) * x[j] / M - lambda * weights[j] / M;
 					// update all the weights simultaneously
-					weights[j] = weights[j] - alpha * grad ;
+					weights[j] = weights[j] + alpha * grad ;
 				}
 				
-				// Compute the cost function.
-				// We want to minimize this.
-				J += - label * Math.log(predicted) - (1 - label) * Math.log(1 - predicted) + lambda * sumOfSquares(weights) / (2*M);
+				// Compute the likelihood estimate.
+				// We want to maximize this.
+				lik += label * Math.log(predicted) + (1 - label) * Math.log(1 - predicted) - lambda * sumOfSquares(weights) / (2*M);
 			}
 			
-			System.out.println("iteration: " + (iter+1) + ", cost function J: " + J);
+			System.out.println("iteration: " + (iter+1) + ", likelihood estimate: " + lik);
 			
 			// Check for convergence.
-			if (Math.abs(J - J_old) < tol) {
+			if (Math.abs(lik - lik_old) < tol) {
 				break;
 			}
-			J_old = J;
+			lik_old = lik;
 		}
 	}
+	
 	
 	// returns the sum of all elements of the given array
 	private static double sumOfSquares(double[] x) {
@@ -206,5 +213,6 @@ public class LogisticRegressionGradDescentReg {
     private static double sigmoid(double x) {
         return ( 1 / (1 + Math.exp(-x)) );
     }
+    
     
 }

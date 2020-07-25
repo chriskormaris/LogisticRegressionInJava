@@ -1,2 +1,2 @@
 mkdir -p bin
-javac src/*.java -d bin
+javac src/data/*.java src/learning/*.java -d bin

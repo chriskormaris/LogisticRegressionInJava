@@ -1,1 +1,1 @@
-java -cp bin LogisticRegressionGradAscent
+java -cp bin learning.LogisticRegressionGradAscent

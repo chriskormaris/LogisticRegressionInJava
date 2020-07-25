@@ -1,7 +1,9 @@
+package data;
+
 public class Instance {
 	
 	private int label; // the category the instance belongs to
-	private int[] x; // the data vector, x: N x 1
+	private int[] x; // the feature vector, x: N x 1
 
 	public Instance(int[] x, int label) {
 		this.x = x;

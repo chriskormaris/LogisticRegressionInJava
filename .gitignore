@@ -22,4 +22,5 @@
 hs_err_pid*
 
 # added by user
-bin/
+LogisticRegressionForMNIST/bin/
+LogisticRegressionForSpamHamClassification/bin/

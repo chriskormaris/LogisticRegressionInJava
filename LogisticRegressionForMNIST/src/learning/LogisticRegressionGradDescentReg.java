@@ -1,3 +1,5 @@
+package learning;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -6,6 +8,8 @@ import java.lang.Math;
 import java.util.ArrayList;
 import java.util.List;
 
+import data.Constants;
+import data.Instance;
 
 /* THIS IMPLEMENTATION USES REGULARIZATION. */
 /* IMPLEMENTED USING THE GRADIENT DESCENT ALGORITHM! NO GRADIENT ASCENT! */

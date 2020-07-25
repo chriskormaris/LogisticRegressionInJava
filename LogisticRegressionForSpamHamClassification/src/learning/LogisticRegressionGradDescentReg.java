@@ -1,10 +1,17 @@
+package learning;
+
 import java.io.IOException;
 import java.lang.Math;
 import java.util.ArrayList;
 import java.util.List;
 
-/* IMPLEMENTED USING THE GRADIENT ASCENT ALGORITHM. */
-public class LogisticRegressionGradAscent {
+import data.Constants;
+import data.Instance;
+import data.Utilities;
+
+/* THIS IMPLEMENTATION USES REGULARIZATION. */
+/* IMPLEMENTED USING THE GRADIENT DESCENT ALGORITHM. */
+public class LogisticRegressionGradDescentReg {
 	
 	// M: the number of the total trained data, aka total trained images
 	private static int M;
@@ -15,12 +22,13 @@ public class LogisticRegressionGradAscent {
 	private static int maxiters = 500;
 	private static double alpha = 1; // small positive value, aka rate of learning
 	private static double tol = 1e-6;  // tolerance
-	
+	private static double lambda = 0.001; // the regularization parameter
+
 	/** the weights to train */
 	private static double[] weights = new double[N+1];
 	
-	
-    public static void main(String... args) throws NumberFormatException, IOException {
+
+	public static void main(String... args) throws NumberFormatException, IOException {
     	
     	// the first weight is set to 1
     	weights[0] = 1;
@@ -109,7 +117,7 @@ public class LogisticRegressionGradAscent {
     			wrong_spam_counter++;
 				wrong_counter++;
     		}
-    				
+    		    		
     	}
     	
     	System.out.println();
@@ -145,38 +153,51 @@ public class LogisticRegressionGradAscent {
     }
     
     
-	// the gradient ascent algorithm
+	// the gradient descent algorithm
 	public static void train(List<Instance> instances) {
 		
 		M = instances.size();
-		double lik_old = Integer.MIN_VALUE;
+		double J_old = Integer.MIN_VALUE;
 		for (int iter=0; iter<maxiters; iter++) {
-			double lik = 0.0;
+			double J = 0.0;
 			for (int i=0; i<M; i++) { // for all train examples
 				int[] x = instances.get(i).getX();
 				double predicted = classify(x);
 				int label = instances.get(i).getLabel();
-				for (int j=0; j<N+1; j++) { // for all features
-					double grad = (label - predicted) * x[j] / M;
+				
+				// the first weight is updated differently
+				double grad0 = (predicted - label) * x[0] / M;
+				weights[0] = weights[0] - alpha * grad0;
+				for (int j=1; j<N+1; j++) { // for all features
+					double grad = (predicted - label) * x[j] / M + lambda * weights[j] / M;
 					// update all the weights simultaneously
-					weights[j] = weights[j] + alpha * grad;
+					weights[j] = weights[j] - alpha * grad ;
 				}
 				
-				// Compute the likelihood estimate.
-				// We want to maximize this.
-				lik += label * Math.log(predicted) + (1 - label) * Math.log(1 - predicted);
+				// Compute the cost function.
+				// We want to minimize this.
+				J += - label * Math.log(predicted) - (1 - label) * Math.log(1 - predicted) + lambda * sumOfSquares(weights) / (2*M);
 			}
 			
-			System.out.println("iteration: " + (iter+1) + ", likelihood estimate: " + lik);
+			System.out.println("iteration: " + (iter+1) + ", cost function J: " + J);
 			
 			// Check for convergence.
-			if (Math.abs(lik - lik_old) < tol) {
+			if (Math.abs(J - J_old) < tol) {
 				break;
 			}
-			lik_old = lik;
+			J_old = J;
 		}
 	}
 	
+	// returns the sum of all elements of the given array
+	private static double sumOfSquares(double[] x) {
+		double sum = 0;
+		// we start from index 1
+		for (int i=1; i<x.length; i++) {
+			sum += Math.pow(x[i], 2);
+		}
+		return sum;
+	}
 	
 	private static double classify(int[] x) {
 		double logit = .0;
@@ -191,6 +212,5 @@ public class LogisticRegressionGradAscent {
     private static double sigmoid(double x) {
         return ( 1 / (1 + Math.exp(-x)) );
     }
-    
     
 }

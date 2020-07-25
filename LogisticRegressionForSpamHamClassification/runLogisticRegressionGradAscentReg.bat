@@ -1,2 +1,2 @@
-java -cp bin LogisticRegressionGradAscentReg
+java -cp bin learning.LogisticRegressionGradAscentReg
 pause
