@@ -1,7 +1,7 @@
 package data;
 
 public class Instance {
-	
+
 	private int label; // the category the instance belongs to
 	private int[] x; // the feature vector, x: N x 1
 
@@ -9,7 +9,7 @@ public class Instance {
 		this.x = x;
 		this.label = label;
 	}
-	
+
 	public Instance(int[] x) {
 		this.x = x;
 	}
@@ -21,7 +21,7 @@ public class Instance {
 	public void setX(int[] x) {
 		this.x = x;
 	}
-	
+
 	public int getLabel() {
 		return label;
 	}
@@ -29,5 +29,5 @@ public class Instance {
 	public void setLabel(int label) {
 		this.label = label;
 	}
-	
+
 }
