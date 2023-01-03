@@ -20,7 +20,7 @@ public class LogisticRegressionGradAscent {
 	private static final double alpha = 1; // small positive value, aka rate of learning
 	private static final double tol = 1e-6;  // tolerance
 
-	/**
+	/*
 	 * the weights to train
 	 */
 	private static final double[] weights = new double[N + 1];

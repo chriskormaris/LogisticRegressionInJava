@@ -96,7 +96,7 @@ public class LogisticRegressionGradAscent {
 	// the gradient ascent algorithm
 	public static double[] train(List<Instance> instances) {
 
-		/** the weights to train */
+		/* the weights to train */
 		double[] weights = new double[N + 1];
 
 		// the first weight is set to 1
@@ -131,6 +131,5 @@ public class LogisticRegressionGradAscent {
 
 		return weights;
 	}
-
 
 }

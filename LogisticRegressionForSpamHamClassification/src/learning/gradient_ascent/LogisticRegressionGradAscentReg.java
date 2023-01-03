@@ -22,7 +22,7 @@ public class LogisticRegressionGradAscentReg {
 	private static final double tol = 1e-6;  // tolerance
 	private static final double lambda = 0.001; // the regularization parameter
 
-	/**
+	/*
 	 * the weights to train
 	 */
 	private static final double[] weights = new double[N + 1];
